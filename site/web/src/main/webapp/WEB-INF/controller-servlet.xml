@@ -16,11 +16,31 @@
 
     <context:component-scan base-package="com.menuve.controller" />
 
-    <bean id="jstlViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+<!--    <bean id="jstlViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="order" value="1" />
-        <property name="viewClass"><value>org.springframework.web.servlet.view.JstlView</value></property>
-        <property name="prefix"><value>/WEB-INF/jsp/</value></property>
-        <property name="suffix"><value>.jsp</value></property>
-    </bean>
+        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView" />
+        <property name="prefix" value="/WEB-INF/jsp/" />
+        <property name="suffix" value=".jsp" />
+    </bean>-->
 
+    <!-- freemarker config -->
+    <bean id="freemarkerConfig" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+        <property name="templateLoaderPath" value="/WEB-INF/fm/"/>
+    </bean>
+    
+    <!-- 
+        View resolvers can also be configured with ResourceBundles or XML files. If you need
+        different view resolving based on Locale, you have to use the resource bundle resolver.
+    -->
+    <bean id="fmViewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
+        <property name="cache" value="true"/>
+        <!--<property name="prefix" value="/WEB-INF/fm/"/>-->
+        <property name="prefix" value=""/>
+        <property name="suffix" value=".ftl"/>
+  
+        <!-- if you want to use the Spring FreeMarker macros, set this property to true -->
+        <property name="exposeSpringMacroHelpers" value="true"/>
+
+    </bean>
+    
 </beans>
