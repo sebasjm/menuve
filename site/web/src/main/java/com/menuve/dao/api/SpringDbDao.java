@@ -59,7 +59,7 @@ public class SpringDbDao extends JdbcTemplate implements DbDao {
             try {
                 Object instance = clazz.getConstructor().newInstance();
                 for (int col = 1; col <= rs.getMetaData().getColumnCount(); col++) {
-                    Field field = fields.get( rs.getMetaData().getColumnName(col)); 
+                    Field field = fields.get( rs.getMetaData().getColumnLabel(col)); 
                     field.set(instance, rs.getObject(col) );
                 }
                 return instance;

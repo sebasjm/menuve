@@ -62,7 +62,7 @@
 
     <servlet-mapping>
         <servlet-name>controller</servlet-name>
-        <url-pattern>/r/</url-pattern>
+        <url-pattern>/r/*</url-pattern>
     </servlet-mapping>
         
     <!-- View Controller: FreeMarker -->
@@ -86,7 +86,7 @@
         </init-param>
         <init-param>
             <param-name>default_encoding</param-name>
-            <param-value>ISO-8859-1</param-value>
+            <param-value>UTF-8</param-value>
         </init-param>
         <init-param>
             <param-name>number_format</param-name>
