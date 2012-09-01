@@ -23,8 +23,9 @@ public class PaisSearch {
         return new JsonView();
     }
     
-    public ModelAndView edit(Integer id) {
-        return new JsonView();
+    @RequestMapping(value="/home")
+    public String edit(Integer id) {
+        return "home";
     }
     
     @RequestMapping(value="/jockey/search")

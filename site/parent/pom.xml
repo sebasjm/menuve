@@ -12,9 +12,6 @@
     </description>
 
     <build>
-        <filters>
-            <filter>src/env/project-${build.environment}.properties</filter>
-        </filters>
     <resources>
       <resource>
         <directory>src/main/resources</directory>

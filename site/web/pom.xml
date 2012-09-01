@@ -17,6 +17,9 @@
     </description>
 
     <build>
+        <filters>
+            <filter>src/env/project-${build.environment}.properties</filter>
+        </filters>
         <plugins>
             
             <plugin>
@@ -95,6 +98,12 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
             <version>3.1.2.RELEASE</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.19</version>
         </dependency>
         
     </dependencies>
