@@ -14,7 +14,7 @@ import org.springframework.web.servlet.ModelAndView;
  * @author sebasjm
  */
 @Controller
-public class JockeySearch {
+public class PaisSearch {
     
     @Autowired
     private DbDao dbDao;

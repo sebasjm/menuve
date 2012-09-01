@@ -12,17 +12,10 @@
     ">
 
     <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>
-    <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping" >
-<!--        <property name="interceptors">
-            <list>
-                <ref bean="mdcInterceptor"/>
-            </list>
-        </property>
--->    </bean>
+    <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping" />
 
     <context:component-scan base-package="com.menuve.controller" />
 
-    <!-- Define the view resolver to use jsp files within the jsp folder -->
     <bean id="jstlViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="order" value="1" />
         <property name="viewClass"><value>org.springframework.web.servlet.view.JstlView</value></property>
@@ -30,59 +23,4 @@
         <property name="suffix"><value>.jsp</value></property>
     </bean>
 
-    <!--
-    <bean name="xmlViewResolver" class="org.springframework.web.servlet.view.XmlViewResolver">
-        <property name="order" value="0" />
-    </bean>
-    <bean id="mdcInterceptor" class="me.cvgram.controller.interceptor.MDCInterceptor" />
-    -->
-    <!--<bean id="dbDao" class="ar.com.sebasjm.hipica.dao.api.SpringDbDao" />-->
-
-    <bean id="applicationProperties" class="com.menuve.application.ApplicationPropertiesFactoryBean" autowire-candidate="false">
-        <property name="files">
-            <list>
-<!--                <value>WEB-INF/reloadables/switches.properties</value>
-                <value>WEB-INF/reloadables/switches-db.properties</value>
-                <value>WEB-INF/reloadables/switches-vgn.properties</value>
-                <value>WEB-INF/reloadables/vgn.properties</value>
-                <value>WEB-INF/reloadables/tracking.properties</value>
-                <value>WEB-INF/reloadables/payment.properties</value>
-                <value>WEB-INF/reloadables/game.properties</value>-->
-            </list>
-        </property>
-    </bean>
-
-    <bean id="configuration" factory-bean="&amp;applicationProperties"
-        factory-method="getConfiguration" />
-
-    <bean id="properties" factory-bean="&amp;applicationProperties"
-        factory-method="getProperties" />
-
-    <bean id="propertyPlaceholderConfigurer"
-        class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
-        <property name="properties" ref="properties" />
-        <property name="ignoreUnresolvablePlaceholders" value="true" />
-    </bean>
-    
-    <!-- DATA SOUCE -->
-    <bean id="dataSource" class="org.springframework.jdbc.datasource.SimpleDriverDataSource" >
-        <property name="url" value="${db.url}" />
-        <property name="driverClass" value="${db.driver}" />
-        <property name="username" value="${db.username}" />
-        <property name="password" value="${db.password}" />
-<!--        <property name="maxPoolSize" value="${db.pool.maxPoolSize}" />
-        <property name="minPoolSize" value="${db.pool.minPoolSize}" />
-        <property name="borrowConnectionTimeout" value="${db.pool.borrowConnectionTimeout}" />-->
-    </bean>
-    
-    <bean id="abstractDao.single" abstract="true">
-        <description>
-            Base class for DAOs that use plain JDBC with Spring's JdbcTemplate support
-            for accessing the database. (using a single database)
-        </description>
-        <property name="queryTimeout" value="${db.queryTimeout}" />
-        <property name="dataSource" ref="dataSource" />
-    </bean>
-
-    <bean id="dbDao" parent="abstractDao.single" class="com.menuve.dao.api.SpringDbDao" />
 </beans>

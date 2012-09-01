@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.0.3.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.3.xsd
+    ">
+
+
+    <bean id="applicationProperties" class="com.menuve.application.ApplicationPropertiesFactoryBean" autowire-candidate="false">
+        <property name="files">
+            <list>
+<!--                <value>WEB-INF/reloadables/switches.properties</value>
+                <value>WEB-INF/reloadables/switches-db.properties</value>
+                <value>WEB-INF/reloadables/switches-vgn.properties</value>
+                <value>WEB-INF/reloadables/vgn.properties</value>
+                <value>WEB-INF/reloadables/tracking.properties</value>
+                <value>WEB-INF/reloadables/payment.properties</value>
+                <value>WEB-INF/reloadables/game.properties</value>-->
+            </list>
+        </property>
+    </bean>
+
+    <bean id="configuration" factory-bean="&amp;applicationProperties"
+        factory-method="getConfiguration" />
+
+    <bean id="properties" factory-bean="&amp;applicationProperties"
+        factory-method="getProperties" />
+
+    <bean id="propertyPlaceholderConfigurer"
+        class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="properties" ref="properties" />
+        <property name="ignoreUnresolvablePlaceholders" value="true" />
+    </bean>
+    
+    <!-- DATA SOUCE -->
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.SimpleDriverDataSource" >
+        <property name="url" value="${db.url}" />
+        <property name="driverClass" value="${db.driver}" />
+        <property name="username" value="${db.username}" />
+        <property name="password" value="${db.password}" />
+<!--        <property name="maxPoolSize" value="${db.pool.maxPoolSize}" />
+        <property name="minPoolSize" value="${db.pool.minPoolSize}" />
+        <property name="borrowConnectionTimeout" value="${db.pool.borrowConnectionTimeout}" />-->
+    </bean>
+    
+    <bean id="abstractDao.single" abstract="true">
+        <description>
+            Base class for DAOs that use plain JDBC with Spring's JdbcTemplate support
+            for accessing the database. (using a single database)
+        </description>
+        <property name="queryTimeout" value="${db.queryTimeout}" />
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <bean id="dbDao" parent="abstractDao.single" class="com.menuve.dao.api.SpringDbDao" />
+</beans>
+
