@@ -58,7 +58,7 @@ public class SpringDbDao extends JdbcTemplate implements DbDao {
         public Object mapRow(ResultSet rs, int rowNum) throws SQLException {
             try {
                 Object instance = clazz.getConstructor().newInstance();
-                for (int col = 1; col < rs.getMetaData().getColumnCount(); col++) {
+                for (int col = 1; col <= rs.getMetaData().getColumnCount(); col++) {
                     Field field = fields.get( rs.getMetaData().getColumnName(col)); 
                     field.set(instance, rs.getObject(col) );
                 }
