@@ -1,0 +1,12 @@
+<div class="footer clearfix">
+    <div class="divisor"></div>
+    <div class="container">
+        <div class="container_12">
+            <div class="copyright">
+                <div class="logo"></div>
+                <div class="text">Copyright 2012</div>
+            </div>
+            <div class="designBy">design by 3 hippies</div>
+        </div>
+    </div>
+</div>

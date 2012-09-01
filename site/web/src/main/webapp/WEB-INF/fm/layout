@@ -1,0 +1,9 @@
+<div class="header">
+    <#include 'header'/>
+</div>
+<div class="content container_12">
+    <#include 'search'/>
+</div>
+<div class="footer">
+    <#include 'footer'/>
+</div>

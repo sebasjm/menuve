@@ -1,0 +1,69 @@
+.search{
+    height: 327px;
+    margin-top: -160px;
+    position: absolute;
+    top: 50%;
+}
+
+.search .categories{
+    width: 377px;
+    margin: 20px auto;
+    text-align: center;
+    color: #fff;
+}
+
+.search .categories li{
+    background: none repeat scroll 0 0 #0294B6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    float: left;
+    font-size: 12px;
+    margin-left: 10px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+
+.search .logo{
+    background: url("/static/images/commons/search-logo.png") no-repeat scroll 0 0 transparent;
+    height: 176px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.search .searchInput{
+    margin: 0 auto;
+    width: 572px;
+}
+
+.search .searchInput input{
+    height: 29px;
+    width: 562px;
+    padding: 0 5px;
+}
+
+.search .searchButtons{
+    margin: 20px auto;
+    width: 240px;
+}
+
+.search .searchButtons div{
+    background: none repeat scroll 0 0 #0294B6;
+    border: 1px solid #035F75;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.search .searchButtons .searchButton{
+    margin-right: 20px;
+}
+
+.search .searchButtons .luckyButton{
+}
