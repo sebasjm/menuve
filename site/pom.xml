@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.menuve</groupId>
+    <version>1</version>
+    <artifactId>menuve-mods</artifactId>
+    <packaging>pom</packaging>
+    <name>Menuve Multimodule</name>
+    <description>
+        Menuve App
+    </description>
+
+    <scm>
+        <connection>scm:git:git://git@github.com:hmarsili/menuve.git</connection>
+        <developerConnection>scm:git:git://git@github.com:hmarsili/menuve.git</developerConnection>
+    </scm>
+
+    <modules>
+            <module>parent</module>
+            <module>web</module> 
+    </modules>
+</project>
+
