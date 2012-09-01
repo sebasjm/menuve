@@ -1,4 +1,4 @@
-package ar.com.sebasjm.hipica.dao.api;
+package com.menuve.dao.api;
 
 /**
  *

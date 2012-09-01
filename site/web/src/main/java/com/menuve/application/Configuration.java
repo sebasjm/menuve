@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package ar.com.sebasjm.hipica.application;
+package com.menuve.application;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

@@ -1,8 +1,8 @@
-package ar.com.sebasjm.hipica.controller;
+package com.menuve.controller;
 
-import ar.com.sebasjm.hipica.controller.view.JsonView;
-import ar.com.sebasjm.hipica.dao.DbQueries;
-import ar.com.sebasjm.hipica.dao.api.DbDao;
+import com.menuve.controller.view.JsonView;
+import com.menuve.dao.DbQueries;
+import com.menuve.dao.api.DbDao;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

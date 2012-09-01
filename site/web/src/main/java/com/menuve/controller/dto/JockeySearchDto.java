@@ -1,4 +1,4 @@
-package ar.com.sebasjm.hipica.controller.dto;
+package com.menuve.controller.dto;
 
 /**
  *

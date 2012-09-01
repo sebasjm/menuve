@@ -1,7 +1,7 @@
-package ar.com.sebasjm.hipica.dao;
+package com.menuve.dao;
 
-import ar.com.sebasjm.hipica.dao.api.Query;
-import ar.com.sebasjm.hipica.model.aux.Pais;
+import com.menuve.dao.api.Query;
+import com.menuve.model.Pais;
 
 /**
  *

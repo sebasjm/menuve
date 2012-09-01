@@ -1,6 +1,6 @@
-package ar.com.sebasjm.hipica.controller;
+package com.menuve.controller;
 
-import ar.com.sebasjm.hipica.controller.view.JsonView;
+import com.menuve.controller.view.JsonView;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.servlet.ModelAndView;
 

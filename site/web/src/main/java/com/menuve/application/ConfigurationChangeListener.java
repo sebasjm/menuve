@@ -1,4 +1,4 @@
-package ar.com.sebasjm.hipica.application;
+package com.menuve.application;
 
 
 public interface ConfigurationChangeListener {

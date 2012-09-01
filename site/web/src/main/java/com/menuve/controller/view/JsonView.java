@@ -1,6 +1,6 @@
-package ar.com.sebasjm.hipica.controller.view;
+package com.menuve.controller.view;
 
-import ar.com.sebasjm.hipica.helper.JsonHelper;
+import com.menuve.helper.JsonHelper;
 import java.util.HashMap;
 import org.springframework.web.servlet.ModelAndView;
 

@@ -1,6 +1,6 @@
-package ar.com.sebasjm.hipica.dao;
+package com.menuve.dao;
 
-import ar.com.sebasjm.hipica.model.adm.Jockey;
+import com.menuve.model.Pais;
 import java.util.List;
 
 /**
@@ -9,6 +9,6 @@ import java.util.List;
  */
 public interface JockeyDao {
 
-    public List<Jockey> search(String nombre, Integer categoria, Integer pais, Integer from, Integer to);
+    public List<Pais> search(String nombre, Integer categoria, Integer pais, Integer from, Integer to);
 
 }

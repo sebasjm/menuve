@@ -1,4 +1,4 @@
-package ar.com.sebasjm.hipica.application;
+package com.menuve.application;
 
 import java.io.File;
 import java.util.List;
