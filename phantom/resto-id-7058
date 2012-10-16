@@ -1,0 +1,218 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Cucina-Donore-7058"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Cucina-Donore-7058"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cucina-Donore-7058/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cucina-Donore-7058:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "94"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "26"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "25"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Descorche",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Italiana-4"
+   ],
+   "contacto": "Tel:4315-9260/63/64/65•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Cucina-Donore-7058",
+      "mailto:reservas@cucinadonore.com"
+   ],
+   "desc": [
+      "Especialidades:Gamberi Impanati (langostinos a la milanesa); insalata di Mare; ravioli Omertà; Trotta alla panna di mandorle (trucha con crema de almendras)Tiramisù y semifreddo de Vainilla"
+   ],
+   "direccion": "Alicia Moreau de Justo 1768, Puerto Madero, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Cucina-Donore-7058/1",
+      "/restaurantes/galeria/Cucina-Donore-7058/2",
+      "/restaurantes/galeria/Cucina-Donore-7058/3",
+      "/restaurantes/galeria/Cucina-Donore-7058/4"
+   ],
+   "homepage": [
+      "http:////www.cucinadonore.com/"
+   ],
+   "horarios": [
+      " Hoy 12 a 16 y de 20 a cierre",
+      "  Lunes 12 a 16 y de 20 a cierre ",
+      " Martes 12 a 16 y de 20 a cierre ",
+      " Miercoles 12 a 16 y de 20 a cierre ",
+      " Jueves 12 a 16 y de 20 a cierre ",
+      " Viernes 12 a 16 y de 20 a cierre ",
+      " Sabado 12 a 16 y de 20 a cierre ",
+      " Domingo 12 a 16 y de 20 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/0/5/8/photo_7058_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/0/5/8/photo_7058_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/0/5/8/photo_7058_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/0/5/8/photo_7058_1.jpg"
+   ],
+   "lugar": "/restaurantes/Puerto-Madero-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Maestro"
+   ],
+   "nombre": "Cucina Donore",
+   "precio": "$132alm / $155cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "18"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Cucina-Donore-7058"
+   ]
+}

@@ -1,0 +1,215 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Brasserie-Petanque-1961"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Brasserie-Petanque-1961"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Brasserie-Petanque-1961/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "75"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "4"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "52"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "51"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Comida para celíacos",
+      "Carta Braile"
+   ],
+   "cocina": [
+      "/restaurantes/Francesa-4"
+   ],
+   "contacto": "Tel:4342-7930•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961",
+      "mailto:info@brasseriepetanque.com"
+   ],
+   "desc": [
+      "Especialidades:Caracoles, conejo a la mostaza de dijón y steak tartar."
+   ],
+   "direccion": "Defensa 596, San Telmo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Brasserie-Petanque-1961/1",
+      "/restaurantes/galeria/Brasserie-Petanque-1961/2",
+      "/restaurantes/galeria/Brasserie-Petanque-1961/3",
+      "/restaurantes/galeria/Brasserie-Petanque-1961/4"
+   ],
+   "homepage": [
+      "http://www.brasseriepetanque.com"
+   ],
+   "horarios": [
+      " Hoy 12 a 16 y de 20 a cierre",
+      "  Martes 12 a 16 y de 20 a cierre ",
+      " Miercoles 12 a 16 y de 20 a cierre ",
+      " Jueves 12 a 16 y de 20 a cierre ",
+      " Viernes 12 a 16 y de 20 a cierre ",
+      " Sabado 12:30 a 16 y de 20 a cierre ",
+      " Domingo 12 a 16 y de 20 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/9/6/1/photo_1961_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/9/6/1/photo_1961_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/9/6/1/photo_1961_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/9/6/1/photo_1961_1.jpg"
+   ],
+   "lugar": "/restaurantes/San-Telmo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Brasserie Petanque",
+   "precio": "$106alm / $166cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "18"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Brasserie-Petanque-1961"
+   ]
+}
