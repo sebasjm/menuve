@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Alarico-765"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Pampa-Mansa-4062"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Alarico-765"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Pampa-Mansa-4062"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,21 +14,21 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:103 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/4"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/4"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/4"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/4"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/3"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/3"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/3"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/3"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/2"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/2"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/2"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/2"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/1"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/1"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Alarico-765/1"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pampa-Mansa-4062/1"
 }
 pages -> []
 resto = {
@@ -119,49 +119,56 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
       "Reservas",
-      "Show",
-      "Menú ejecutivo"
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/De-autor-4"
+      "/restaurantes/Parrilla-4"
    ],
-   "contacto": "Tel:4300-8110",
-   "contactos": [],
+   "contacto": "Tel:4771-7531•",
+   "contactos": [
+      "mailto:dariocosentino@fibertel.com.ar"
+   ],
    "desc": [
-      "Especialidades:Tapas, gambas al ajillo, tortilla española."
+      "Chef:Diego Orofino",
+      "Especialidades:Espada de bondiola,espada de ojo de bife,flan de coco."
    ],
-   "direccion": "Chile 518, Centro > Monserrat, C.A.B.A. ",
+   "direccion": "Humboldt 1925, Palermo > Norte JB Justo, C.A.B.A. ",
    "gallery": [
-      "/restaurantes/galeria/Alarico-765/1",
-      "/restaurantes/galeria/Alarico-765/2",
-      "/restaurantes/galeria/Alarico-765/3",
-      "/restaurantes/galeria/Alarico-765/4"
+      "/restaurantes/galeria/Pampa-Mansa-4062/1",
+      "/restaurantes/galeria/Pampa-Mansa-4062/2",
+      "/restaurantes/galeria/Pampa-Mansa-4062/3",
+      "/restaurantes/galeria/Pampa-Mansa-4062/4"
    ],
    "homepage": [],
    "horarios": [
-      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
-      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
-      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
-      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Sabado 20:00 a cierre "
+      " Hoy 08:00 a cierre",
+      "  Lunes 08:00 a cierre ",
+      " Martes 08:00 a cierre ",
+      " Miercoles 08:00 a cierre ",
+      " Jueves 08:00 a cierre ",
+      " Viernes 08:00 a cierre ",
+      " Sabado 08:00 a cierre "
    ],
    "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/6/5/photo_765_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/6/5/photo_765_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/6/5/photo_765_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/6/5/photo_765_1.jpg"
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/4/0/6/2/photo_4062_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/4/0/6/2/photo_4062_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/4/0/6/2/photo_4062_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/4/0/6/2/photo_4062_1.jpg"
    ],
-   "lugar": "/restaurantes/Centro-3",
+   "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [
-      "Luncheon Ticket",
-      "Ticket restaurant",
-      "Ticket Total"
+      "American Express",
+      "Visa"
    ],
-   "nombre": "Alarico",
-   "precio": "$33alm / $69cena",
+   "nombre": "Pampa Mansa",
+   "precio": "$32alm / $68cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -169,11 +176,11 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "18"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "19"
+         "valor": "16"
       },
       {
          "nombre": "Carta de vinos:",

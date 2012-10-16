@@ -1,0 +1,191 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Pipi-Cucu-3829"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Pipi-Cucu-3829"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pipi-Cucu-3829/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "80"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "34"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "10"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "3"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "2"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/De-autor-4",
+      "/restaurantes/Internacional-4"
+   ],
+   "contacto": "Tel:4551-9314•",
+   "contactos": [
+      "mailto:restopipicucu@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Ensalada de mollejas crocantes, rúcula y tomates asados con reducción de soja y miel de caña. Camembert tibio sobre pan de nueces, peras caramelizadas y berros.Bondiola de cerdo breseada con puré de batatas, miel de caña y cayena.Cocktails: Supertop (ruby red, cynar, lima y pomelo), Pineapple Martini (pisco infusionado con romero, ananá y limón), El Diamante (Cointreau, ruby red, jugo de pomelo)."
+   ],
+   "direccion": "Ciudad de la Paz 557, Colegiales, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Pipi-Cucu-3829/1",
+      "/restaurantes/galeria/Pipi-Cucu-3829/2",
+      "/restaurantes/galeria/Pipi-Cucu-3829/3",
+      "/restaurantes/galeria/Pipi-Cucu-3829/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 12 a 1",
+      "  Lunes 12 a 1 ",
+      " Martes 12 a 1 ",
+      " Miercoles 12 a 1 ",
+      " Jueves 12 a 1 ",
+      " Viernes 12 a 1 ",
+      " Sabado 12 a 1 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/8/2/9/photo_3829_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/8/2/9/photo_3829_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/8/2/9/photo_3829_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/8/2/9/photo_3829_1.jpg"
+   ],
+   "lugar": "/restaurantes/Colegiales-3",
+   "mediosPago": [
+      "Electrón",
+      "Maestro"
+   ],
+   "nombre": "Pipí Cucú",
+   "precio": "$130alm / $143cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "25"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "17"
+      }
+   ],
+   "site": []
+}
