@@ -13,8 +13,7 @@ var pages = new Array;
 var resto = new Object;
 var handler = new Object;
 
-handler.get_resto_data = function (resto,pages,handler) {
-    console.log("getting resto data" + resto);
+handler.get_resto_data = function (resto) {
     var restoDatos = $(".restoDatos");
     resto.nombre = restoDatos.find(".restoDatosNombre").text().replace(/\s+/g, ' ');
     resto.direccion = restoDatos.find(".restoDatosDireccion").text().replace(/\s+/g, ' ');
@@ -29,14 +28,7 @@ handler.get_resto_data = function (resto,pages,handler) {
     restoDatos.find(".restoDatosTelefono > a[href] ").each(function(i,e){
         var href = $(this).attr('href');
         resto.contactos.push(href)
-        if ( !!href.match('restaurante/urlredirect/nombreClave') ) { 
-            resto.site.push(href);
-            pages.push({
-                url:'http://www.guiaoleo.com.ar/'+href,
-                extractor: handler.get_resto_homepage
-//
-            });
-        }
+        if ( !!href.match('restaurante/urlredirect/nombreClave') ) resto.site.push(href);
     });
     resto.horarios = new Array;
     restoDatos.find(".restoDatosHorarios").each(function(i,e){ 
@@ -74,12 +66,12 @@ handler.get_resto_data = function (resto,pages,handler) {
 }
 
 handler.get_site = function(resto){
-	for (var i in resto.site) {
-            pages.push({
-                url:'http://www.guiaoleo.com.ar/'+resto.site[i],
-                extractor: handler.get_resto_homepage
-            });
-	}
+    for (var i in resto.site) {
+        pages.push({
+            url:'http://www.guiaoleo.com.ar/'+resto.site[i],
+            extractor: handler.get_resto_homepage
+        });
+    }
 }
 
 handler.get_resto_homepage = function(resto) {
@@ -87,20 +79,19 @@ handler.get_resto_homepage = function(resto) {
     return resto;
 }
 
-the_page = "";
-
 function next() {
     console.log("pages -> " + JSON.stringify(pages));
-    the_page = pages.pop();
+    var the_page = pages.pop();
     if (!the_page) {
         console.log("resto = " + JSON.stringify(resto,undefined,3));
-        phantom.exit(); return;
+        phantom.exit();
+        return;
     }
     console.log("//go for page " + JSON.stringify(the_page,undefined,3));
     client.open(the_page.url, function(status) {
         if ( status === "success" ) {
             resto = client.evaluate(the_page.extractor,resto);
-	    if (!!the_page.done) the_page.done(resto);
+            if (!!the_page.done) the_page.done(resto);
             next();
         } else {
             console.log("could not load " + e + " st " + status);
@@ -110,7 +101,7 @@ function next() {
 
 pages.push({
     url:system.args[1],
-    extractor: handler.get_resto_data
+    extractor: handler.get_resto_data,
     done: handler.get_site
 });
 
