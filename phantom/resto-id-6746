@@ -1,0 +1,210 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Cabania-Villegas-6746"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Cabania-Villegas-6746"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cabania-Villegas-6746/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cabania-Villegas-6746:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "92"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "87"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "15"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "71"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "12"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Estacionamiento",
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4"
+   ],
+   "contacto": "Tel:4331-0642•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Cabania-Villegas-6746",
+      "mailto:info@villegasresto.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Entrada: Tostada de pan de campo con mollejas salteadas con cebollas, verdeo y pimientos, gratinadas con queso cremoso, tomates cubeteados y ramillete de hojas verdes. Plato principal: Ojo de bife cabana villegas. Postre: Mousse de chocolate blanco, negro, frutos rojos y crocante de almendra"
+   ],
+   "direccion": "Alicia Moreau de Justo 1050, Puerto Madero, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Cabania-Villegas-6746/1",
+      "/restaurantes/galeria/Cabania-Villegas-6746/2",
+      "/restaurantes/galeria/Cabania-Villegas-6746/3",
+      "/restaurantes/galeria/Cabania-Villegas-6746/4"
+   ],
+   "homepage": [
+      "http:////www.villegasresto.com.ar"
+   ],
+   "horarios": [
+      " Hoy 12 a 16 y de 19 a 2",
+      "  Lunes 12 a 16 y de 19 a 2 ",
+      " Martes 12 a 16 y de 19 a 2 ",
+      " Miercoles 12 a 16 y de 19 a 2 ",
+      " Jueves 12 a 16 y de 19 a 2 ",
+      " Viernes 12 a 16 y de 19 a 2 ",
+      " Sabado 12 a 16 y de 19 a 2 ",
+      " Domingo 12 a 16 y de 19 a 2 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/7/4/6/photo_6746_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/7/4/6/photo_6746_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/7/4/6/photo_6746_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/7/4/6/photo_6746_1.jpg"
+   ],
+   "lugar": "/restaurantes/Puerto-Madero-3",
+   "mediosPago": [
+      "American Express",
+      "Visa"
+   ],
+   "nombre": "Cabaña Villegas",
+   "precio": "$137alm / $137cena20%\tdescuento Oleoobtener cupón de descuentoDescuentos en cena los días Lun, Mar, Mie y Dom",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "22"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Cabania-Villegas-6746"
+   ]
+}

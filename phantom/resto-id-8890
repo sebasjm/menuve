@@ -1,0 +1,184 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Rusticana-bar-de-picadas-8890"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Rusticana-bar-de-picadas-8890"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Rusticana-bar-de-picadas-8890/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "7"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "7"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "3"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Variada-4"
+   ],
+   "contacto": "Tel:6079-0392•",
+   "contactos": [
+      "mailto:info@rusticana.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Picadas, tartas, pizzas y sandwiches. Postre: Helado"
+   ],
+   "direccion": "Emilio Castro, Av. 7505, Liniers-Mataderos, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Rusticana-bar-de-picadas-8890/1",
+      "/restaurantes/galeria/Rusticana-bar-de-picadas-8890/2",
+      "/restaurantes/galeria/Rusticana-bar-de-picadas-8890/3",
+      "/restaurantes/galeria/Rusticana-bar-de-picadas-8890/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 18 a 24",
+      "  Martes 18 a 24 ",
+      " Miercoles 18 a 24 ",
+      " Jueves 18 a 24 ",
+      " Viernes 18 a 1 ",
+      " Sabado 12 a 16 y de 19 a 2 ",
+      " Domingo 12 a 16 y de 19 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/8/8/9/0/photo_8890_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/8/8/9/0/photo_8890_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/8/8/9/0/photo_8890_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/8/8/9/0/photo_8890_1.jpg"
+   ],
+   "lugar": "/restaurantes/Liniers-Mataderos-3",
+   "mediosPago": [],
+   "nombre": "Rusticana - bar de picadas",
+   "precio": "$34cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "26"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "11"
+      }
+   ],
+   "site": []
+}
