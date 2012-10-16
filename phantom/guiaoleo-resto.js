@@ -3,6 +3,9 @@ var system = require('system');
 var client = require('webpage').create();
 
 client.injectJs('lib/jquery.min.js');
+client.customHeaders = {
+	"Connection": "close"
+}
 
 client.onConsoleMessage = function(msg) {
     console.log(msg);
