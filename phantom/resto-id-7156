@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Asian-4114"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Gran-pizzeria-Jose-7156"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Asian-4114"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Gran-pizzeria-Jose-7156"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,16 +14,16 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:103 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Asian-4114"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Gran-pizzeria-Jose-7156"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Asian-4114"
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Gran-pizzeria-Jose-7156"
 }
 ReferenceError: Can't find variable: jQuery
 
   http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
 ReferenceError: Can't find variable: $
 
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Asian-4114:4
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Gran-pizzeria-Jose-7156:4
 TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
 
   http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
@@ -34,68 +34,32 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir en pareja",
-         "valor": "7"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
-      },
-      {
          "nombre": "Ir con amigos",
-         "valor": "6"
+         "valor": "17"
       },
       {
          "nombre": "Escuchar música",
-         "valor": "0"
-      },
-      {
-         "nombre": "Salida de amigas",
          "valor": "2"
       },
       {
+         "nombre": "Comer bien gastando poco",
+         "valor": "5"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "3"
+      },
+      {
          "nombre": "Ir con chicos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer con buenos tragos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Llevar extranjeros",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer mucho",
-         "valor": "0"
+         "valor": "2"
       },
       {
          "nombre": "Ir con la familia",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer solo",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer bien gastando poco",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un cumpleaños",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer rápido",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un aniversario",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer al aire libre",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Comer tarde",
@@ -110,6 +74,42 @@ resto = {
          "valor": "0"
       },
       {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
          "nombre": "Reunión de negocios",
          "valor": "0"
       },
@@ -119,54 +119,50 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Baños discapacitados",
       "Reservas",
       "Mesas al aire libre",
-      "Estacionamiento",
+      "Delivery",
       "Aire acondicionado",
-      "Barra de tragos",
-      "Wifi",
-      "Cocina Kosher"
+      "Menú ejecutivo",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Sudeste-asiatico-4"
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:4116-5507/3399•",
+   "contacto": "Tel:4504-6974•",
    "contactos": [
-      "/restaurante/urlredirect/nombreClave/Asian-4114",
-      "mailto:info@asiankosher.com"
+      "/restaurante/urlredirect/nombreClave/Gran-pizzeria-Jose-7156"
    ],
    "desc": [
-      "Chef:Diego Salvatierra",
-      "Especialidades:Entradas: Mollejas anidadas; ensalada Thai Beef. Plato principal: Bife de costilla con salsa BBQ y salteado de papas, rúcula y tomates cherry. (Para 2 personas). Postre: Tarta maracuya con helado."
+      "Especialidades:Pizza y minutas (de martes a sábado al mediodía)"
    ],
-   "direccion": "Av. Córdoba 5288, Palermo > Sur JB Justo, C.A.B.A. ",
+   "direccion": "San Martín, Av. 6915, Villa Devoto, C.A.B.A. ",
    "gallery": [],
    "homepage": [
-      "http://www.asiankosher.com"
+      "http:////www.granpizzeriajose.com.ar"
    ],
    "horarios": [
-      " Hoy 20 a cierre",
-      "  Lunes 20 a cierre ",
-      " Martes 20 a cierre ",
-      " Miercoles 20 a cierre ",
-      " Jueves 20 a cierre ",
-      " Sabado 20 a cierre ",
+      " Hoy 12 a 16 y de 20 a cierre",
+      "  Lunes 12 a 16 y de 20 a cierre ",
+      " Martes 12 a 16 y de 20 a cierre ",
+      " Miercoles 12 a 16 y de 20 a cierre ",
+      " Jueves 12 a 16 y de 20 a cierre ",
+      " Viernes 12 a 16 y de 20 a cierre ",
+      " Sabado 12 a 16 y de 20 a cierre ",
       " Domingo 12 a 16 y de 20 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Palermo-3",
+   "lugar": "/restaurantes/Villa-Devoto-3",
    "mediosPago": [
-      "American Express",
       "Visa",
-      "Electrón",
       "Mastercard",
-      "Cabal",
-      "Maestro"
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
    ],
-   "nombre": "Asian",
-   "precio": "$144cena",
+   "nombre": "Gran pizzería José",
+   "precio": "$32alm / $64cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -174,11 +170,11 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "24"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "22"
+         "valor": "11"
       },
       {
          "nombre": "Carta de vinos:",
@@ -186,6 +182,6 @@ resto = {
       }
    ],
    "site": [
-      "/restaurante/urlredirect/nombreClave/Asian-4114"
+      "/restaurante/urlredirect/nombreClave/Gran-pizzeria-Jose-7156"
    ]
 }

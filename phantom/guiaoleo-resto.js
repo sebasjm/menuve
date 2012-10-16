@@ -104,8 +104,10 @@ function next() {
     console.log("//go for page " + JSON.stringify(the_page,undefined,3));
     client.open(the_page.url, function(status) {
         if ( status === "success" ) {
+	    try {
             resto = client.evaluate(the_page.extractor,resto);
             if (!!the_page.done) the_page.done(resto);
+	    } catch (err) { console.log("ERROR - " + err.message); }
             next();
         } else {
             console.log("could not load " + e + " st " + status);
