@@ -1,0 +1,192 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Laocratis-3450"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Laocratis-3450"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Laocratis-3450/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "34"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "8"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "25"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "8"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "15"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "5"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "3"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Reservas",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/De-autor-4"
+   ],
+   "contacto": "Tel:4988-1402•",
+   "contactos": [
+      "mailto:cafelaocratis@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Principal: merluza grillada con colchón de papas aromatizadas."
+   ],
+   "direccion": "Av. Rivadavia 5679, Caballito, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Laocratis-3450/1",
+      "/restaurantes/galeria/Laocratis-3450/2",
+      "/restaurantes/galeria/Laocratis-3450/3",
+      "/restaurantes/galeria/Laocratis-3450/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 9 a 20",
+      "  Lunes 9 a 20 ",
+      " Martes 9 a 20 ",
+      " Miercoles 9 a 20 ",
+      " Jueves 9 a 20 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/4/5/0/photo_3450_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/4/5/0/photo_3450_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/4/5/0/photo_3450_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/4/5/0/photo_3450_1.jpg"
+   ],
+   "lugar": "/restaurantes/Caballito-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Laocratis",
+   "precio": "$68alm / $79cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "29"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "28"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "13"
+      }
+   ],
+   "site": []
+}

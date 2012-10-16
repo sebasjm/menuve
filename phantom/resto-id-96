@@ -1,0 +1,215 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Meson-Navarro-96"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Meson-Navarro-96"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meson-Navarro-96/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meson-Navarro-96:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "24"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "19"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Estacionamiento",
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi",
+      "Carta Braile"
+   ],
+   "cocina": [
+      "/restaurantes/Espaniola-4"
+   ],
+   "contacto": "Tel:4314-2072•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Meson-Navarro-96",
+      "mailto:mesonnavarro@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Ostrones gratinados y gambas al ajillo con jamón y champignon.POstre: biscuit de higos con almendras (base de helado)con chocolate caliente."
+   ],
+   "direccion": "Lavalle 168, Centro > Microcentro, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Meson-Navarro-96/1",
+      "/restaurantes/galeria/Meson-Navarro-96/2",
+      "/restaurantes/galeria/Meson-Navarro-96/3",
+      "/restaurantes/galeria/Meson-Navarro-96/4"
+   ],
+   "homepage": [
+      "http://www.mesonnavarro.com.ar"
+   ],
+   "horarios": [
+      " Hoy 12:00 a 16:00",
+      "  Lunes 12:00 a 16:00 ",
+      " Martes 12:00 a 16:00 ",
+      " Miercoles 12:00 a 16:00 ",
+      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
+      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Sabado 12:00 a 16:00 y de 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/9/6/photo_96_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/9/6/photo_96_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/9/6/photo_96_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/9/6/photo_96_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Maestro",
+      "Luncheon Ticket"
+   ],
+   "nombre": "Mesón Navarro",
+   "precio": "$104alm / $112cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "26"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "26"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "21"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Meson-Navarro-96"
+   ]
+}

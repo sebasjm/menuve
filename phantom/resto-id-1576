@@ -1,0 +1,183 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/LAtelier-1576"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/LAtelier-1576"
+}
+SyntaxError: Parse error
+
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/LAtelier-1576/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "93"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "13"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "4"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Reservas",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Descorche",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Francesa-4"
+   ],
+   "contacto": "Tel:4005-5244/15-3014-4695",
+   "contactos": [],
+   "desc": [
+      "Chef:Verónica Morello",
+      "Especialidades:Vichysoisse; confit de pato; gigot de cordero."
+   ],
+   "direccion": "Del Libertador, Av. 3836, Zona Norte > La Lucila, Partido de San Isidro ",
+   "gallery": [
+      "/restaurantes/galeria/LAtelier-1576/1",
+      "/restaurantes/galeria/LAtelier-1576/2",
+      "/restaurantes/galeria/LAtelier-1576/3",
+      "/restaurantes/galeria/LAtelier-1576/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 20 a 24",
+      "  Lunes 20 a 24 ",
+      " Martes 20 a 24 ",
+      " Miercoles 20 a 24 ",
+      " Jueves 20 a 24 ",
+      " Viernes 20 a 24 ",
+      " Sabado 20 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/5/7/6/photo_1576_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/5/7/6/photo_1576_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/5/7/6/photo_1576_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/5/7/6/photo_1576_1.jpg"
+   ],
+   "lugar": "/restaurantes/Zona-Norte-3",
+   "mediosPago": [],
+   "nombre": "L'Atelier",
+   "precio": "$152cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "27"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "24"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "23"
+      }
+   ],
+   "site": []
+}

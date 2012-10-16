@@ -1,0 +1,201 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Paladar-Buenos-Aires-6802"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Paladar-Buenos-Aires-6802"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paladar-Buenos-Aires-6802/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "78"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "22"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "7"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Descorche",
+      "Wifi",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/De-autor-4"
+   ],
+   "contacto": "Tel:155-797-7267•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802",
+      "mailto:reservas@paladarbuenosaires.com.ar"
+   ],
+   "desc": [
+      "Chef:Pablo Abramovsky",
+      "Especialidades:Cada fin de semana proponen un menú degustación diferente de 5 momentos guiados por la sommelier."
+   ],
+   "direccion": "Camargo, Villa Crespo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Paladar-Buenos-Aires-6802/1",
+      "/restaurantes/galeria/Paladar-Buenos-Aires-6802/2",
+      "/restaurantes/galeria/Paladar-Buenos-Aires-6802/3",
+      "/restaurantes/galeria/Paladar-Buenos-Aires-6802/4"
+   ],
+   "homepage": [
+      "http://www.paladarbuenosaires.com.ar"
+   ],
+   "horarios": [
+      " Hoy ",
+      "  Jueves 21 a cierre ",
+      " Viernes 21 a cierre ",
+      " Sabado 21 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/8/0/2/photo_6802_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/8/0/2/photo_6802_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/8/0/2/photo_6802_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/8/0/2/photo_6802_1.jpg"
+   ],
+   "lugar": "/restaurantes/Villa-Crespo-3",
+   "mediosPago": [],
+   "nombre": "Paladar Buenos Aires",
+   "precio": "$180cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "27"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "28"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "25"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Paladar-Buenos-Aires-6802"
+   ]
+}

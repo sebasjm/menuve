@@ -1,0 +1,180 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Demashk-2086"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Demashk-2086"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Demashk-2086/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "40"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "6"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "15"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "15"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery",
+      "Barra de tragos",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Arabe-4"
+   ],
+   "contacto": "Tel:4833-6699",
+   "contactos": [],
+   "desc": [
+      "Chef:Bilal",
+      "Especialidades:Shawarna, Kebbe (frito, al horno y crudo), Sfija (cerrada, abierta), Iabra, Malfuf, falafel, fataier, bollitos de verdura o queso, hummus, baba ganush, tabule, laban, pan árabe.Postres: Belawua, asave, mamuz, Ashwé, Barazek, Hrise, Gribe."
+   ],
+   "direccion": "Charcas 3816, Palermo > Sur JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Demashk-2086/1",
+      "/restaurantes/galeria/Demashk-2086/2",
+      "/restaurantes/galeria/Demashk-2086/3",
+      "/restaurantes/galeria/Demashk-2086/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 10 a 24",
+      "  Lunes 10 a 24 ",
+      " Martes 10 a 24 ",
+      " Miercoles 10 a 24 ",
+      " Jueves 10 a 24 ",
+      " Viernes 10 a 24 ",
+      " Sabado 10 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/0/8/6/photo_2086_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/0/8/6/photo_2086_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/0/8/6/photo_2086_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/0/8/6/photo_2086_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [],
+   "nombre": "Demashk",
+   "precio": "$39alm / $44cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "25"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "12"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": []
+}
