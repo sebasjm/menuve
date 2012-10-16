@@ -11,94 +11,9 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
+TypeError: 'null' is not an object (evaluating 'g.shift')
 
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/La-Bataraza-161 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.5439203677233309&fi=b0441d412afcde66&i=f674e76a2c31b66b&fr=do. Domains, protocols and ports must match.
-
+  http://connect.facebook.net/es_LA/all.js:103 in i
 pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Bataraza-161/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Bataraza-161/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Bataraza-161/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Bataraza-161/4"}]
 //go for page {
    "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Bataraza-161/4"

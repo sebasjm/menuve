@@ -38,7 +38,7 @@ resto = {
          "valor": "37"
       },
       {
-         "nombre": "Festejar un aniversario",
+         "nombre": "Ir con la familia",
          "valor": "4"
       },
       {
@@ -46,7 +46,7 @@ resto = {
          "valor": "35"
       },
       {
-         "nombre": "Comer con buenos tragos",
+         "nombre": "Festejar un aniversario",
          "valor": "4"
       },
       {
@@ -54,15 +54,15 @@ resto = {
          "valor": "21"
       },
       {
-         "nombre": "Ir con la familia",
+         "nombre": "Comer con buenos tragos",
          "valor": "4"
       },
       {
-         "nombre": "Desayunar",
+         "nombre": "Festejar un cumpleaños",
          "valor": "2"
       },
       {
-         "nombre": "Llevar extranjeros",
+         "nombre": "Reunión de negocios",
          "valor": "1"
       },
       {
@@ -78,11 +78,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Festejar un cumpleaños",
+         "nombre": "Desayunar",
          "valor": "2"
       },
       {
-         "nombre": "Reunión de negocios",
+         "nombre": "Merendar",
          "valor": "1"
       },
       {
@@ -98,7 +98,7 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Merendar",
+         "nombre": "Llevar extranjeros",
          "valor": "1"
       },
       {

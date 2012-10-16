@@ -1,0 +1,216 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Fidanzata-3470"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Fidanzata-3470"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Fidanzata-3470/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Fidanzata-3470:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "6"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Pizza-4"
+   ],
+   "contacto": "Tel:0800-555-46754778-35584775•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/La-Fidanzata-3470",
+      "mailto:lafidanzata@ciudad.com.ar"
+   ],
+   "desc": [
+      "Chef:Dante Dib",
+      "Especialidades:Principal: pizza extra large (rinde como 1 grande y 1/2 y se puede pedir hasta 4 gustos), empanadasartesanales (tradicionales, jamón crudo y rúcula, calabaza, berenjena, puerro,jamón y ananá, champignones), picadas.Postre: copa tricolor (mousse de chocolate negro, mousse de dulce\tde leche y dulce de leche natural)."
+   ],
+   "direccion": "Huergo 306 esq. Arévalo, Las Cañitas, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/La-Fidanzata-3470/1",
+      "/restaurantes/galeria/La-Fidanzata-3470/2",
+      "/restaurantes/galeria/La-Fidanzata-3470/3",
+      "/restaurantes/galeria/La-Fidanzata-3470/4"
+   ],
+   "homepage": [
+      "http://www.lafidanzata.com.ar"
+   ],
+   "horarios": [
+      " Hoy 08:00 a cierre",
+      "  Lunes 08:00 a cierre ",
+      " Martes 08:00 a cierre ",
+      " Miercoles 08:00 a cierre ",
+      " Jueves 08:00 a cierre ",
+      " Viernes 08:00 a cierre ",
+      " Sabado 08:00 a cierre ",
+      " Domingo 08:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/4/7/0/photo_3470_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/4/7/0/photo_3470_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/4/7/0/photo_3470_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/4/7/0/photo_3470_1.jpg"
+   ],
+   "lugar": "/restaurantes/Las-Canitas-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Mastercard",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "La Fidanzata",
+   "precio": "$32alm / $56cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "13"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "11"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "3"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/La-Fidanzata-3470"
+   ]
+}

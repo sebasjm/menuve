@@ -1,0 +1,185 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Algo-positivo-7338"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Algo-positivo-7338"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Algo-positivo-7338/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "13"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Delivery",
+      "Menú ejecutivo",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Natural-4"
+   ],
+   "contacto": "Tel:4953-6537",
+   "contactos": [],
+   "desc": [
+      "Chef:Sergio Creche y Diego de Lucia",
+      "Especialidades:Variedad de woks, tartas con ensaladas gourmet, sfoglia de muzzarella rellena, rolls de siete granos."
+   ],
+   "direccion": "Riobamba 188, Congreso, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Algo-positivo-7338/1",
+      "/restaurantes/galeria/Algo-positivo-7338/2",
+      "/restaurantes/galeria/Algo-positivo-7338/3",
+      "/restaurantes/galeria/Algo-positivo-7338/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 10 a 20",
+      "  Lunes 10 a 20 ",
+      " Martes 10 a 20 ",
+      " Miercoles 10 a 20 ",
+      " Jueves 10 a 20 ",
+      " Viernes 10 a 20 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/3/3/8/photo_7338_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/3/3/8/photo_7338_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/3/3/8/photo_7338_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/3/3/8/photo_7338_1.jpg"
+   ],
+   "lugar": "/restaurantes/Congreso-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Mastercard"
+   ],
+   "nombre": "Algo positivo",
+   "precio": "$20alm",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "12"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "0"
+      }
+   ],
+   "site": []
+}

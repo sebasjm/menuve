@@ -1,0 +1,194 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Gata-2000-1999"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Gata-2000-1999"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Gata-2000-1999/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "3"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Delivery",
+      "Aire acondicionado"
+   ],
+   "cocina": [
+      "/restaurantes/Pizza-4"
+   ],
+   "contacto": "Tel:4308-6467",
+   "contactos": [],
+   "desc": [
+      "Chef:Oscar Guttierrrez",
+      "Especialidades:Pizzas."
+   ],
+   "direccion": "Pichincha 810, Boedo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Gata-2000-1999/1",
+      "/restaurantes/galeria/Gata-2000-1999/2",
+      "/restaurantes/galeria/Gata-2000-1999/3",
+      "/restaurantes/galeria/Gata-2000-1999/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/9/9/9/photo_1999_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/9/9/9/photo_1999_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/9/9/9/photo_1999_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/9/9/9/photo_1999_1.jpg"
+   ],
+   "lugar": "/restaurantes/Boedo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Gata 2000",
+   "precio": "$39alm / $39cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "19"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "5"
+      }
+   ],
+   "site": []
+}
