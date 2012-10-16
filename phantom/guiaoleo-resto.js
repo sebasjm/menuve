@@ -23,12 +23,15 @@ handler.get_resto_data = function (resto) {
         resto.cocina.push( $(e).attr("href") );
     });
     resto.contacto = restoDatos.find(".restoDatosTelefono").contents()[0].data.split(' ').join('').trim();
-    resto.contactos = new Array;
-    resto.site = new Array;
+    resto.contactos = new Array; resto.site = new Array; resto.homepage = new Array;
     restoDatos.find(".restoDatosTelefono > a[href] ").each(function(i,e){
         var href = $(this).attr('href');
         resto.contactos.push(href)
         if ( !!href.match('restaurante/urlredirect/nombreClave') ) resto.site.push(href);
+    });
+    resto.gallery = new Array; resto.images = new Array;
+    restoDatos.find(".gallery > a[href] ").each(function(i,e){
+        resto.gallery.push($(this).attr('href'));
     });
     resto.horarios = new Array;
     restoDatos.find(".restoDatosHorarios").each(function(i,e){ 
@@ -72,10 +75,21 @@ handler.get_site = function(resto){
             extractor: handler.get_resto_homepage
         });
     }
+    for (var j in resto.gallery) {
+        pages.push({
+            url:'http://www.guiaoleo.com.ar/'+resto.gallery[j],
+            extractor: handler.get_resto_images
+        });
+    }
 }
 
 handler.get_resto_homepage = function(resto) {
-    resto.homepage = $("iframe").attr("src");
+    resto.homepage.push( $("iframe").attr("src") );
+    return resto;
+}
+
+handler.get_resto_images = function(resto) {
+    resto.images.push( $("#galeria_img").attr("src") );
     return resto;
 }
 
