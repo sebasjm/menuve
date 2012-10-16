@@ -30,7 +30,7 @@ handler.get_resto_data = function (resto) {
         if ( !!href.match('restaurante/urlredirect/nombreClave') ) resto.site.push(href);
     });
     resto.gallery = new Array; resto.images = new Array;
-    restoDatos.find(".gallery > a[href] ").each(function(i,e){
+    $(".gallery").find("a").each(function(i,e){
         resto.gallery.push($(this).attr('href'));
     });
     resto.horarios = new Array;
