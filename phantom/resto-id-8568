@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Grau-8568"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Grau-8568"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -103,38 +103,35 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
       "Reservas",
-      "Delivery",
-      "Aire acondicionado",
-      "Wifi"
+      "Delivery"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
+   "contacto": "Tel:4862-8651",
    "contactos": [],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Bife con lomo con papas fritas y un vacio al horno con ensalada, locro."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Jean Jaures 273, Almagro, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 12 a cierre",
+      "  Lunes 12 a cierre ",
+      " Martes 12 a cierre ",
+      " Miercoles 12 a cierre ",
+      " Jueves 12 a cierre ",
+      " Viernes 12 a cierre ",
+      " Sabado 12 a cierre ",
+      " Domingo 12 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Almagro-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "Grau",
+   "precio": "$35cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,11 +139,11 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "17"
       },
       {
          "nombre": "Carta de vinos:",

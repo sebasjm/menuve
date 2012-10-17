@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Central-8486"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Central-8486"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -103,38 +103,34 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
       "Reservas",
+      "Mesas al aire libre",
       "Delivery",
       "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
       "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
+   "contacto": "Tel:4304-5577",
    "contactos": [],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Variedad en sabores de pizza al molde."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Juan de Garay 1182, San Telmo, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/San-Telmo-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "La Central",
+   "precio": "",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,7 +138,7 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
@@ -150,7 +146,7 @@ resto = {
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": ""
+         "valor": "0"
       }
    ],
    "site": []

@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Open-Pat-9492"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Open-Pat-9492"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -18,27 +18,27 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con amigos",
-         "valor": "0"
-      },
-      {
          "nombre": "Escuchar música",
-         "valor": "0"
-      },
-      {
-         "nombre": "Ir en pareja",
-         "valor": "0"
+         "valor": "2"
       },
       {
          "nombre": "Salida de amigas",
-         "valor": "0"
+         "valor": "1"
       },
       {
-         "nombre": "Desayunar",
-         "valor": "0"
+         "nombre": "Ir con amigos",
+         "valor": "2"
       },
       {
          "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
          "valor": "0"
       },
       {
@@ -105,19 +105,18 @@ resto = {
    "caracteristicas": [
       "Acceso discapacitados",
       "Reservas",
+      "Mesas al aire libre",
       "Delivery",
-      "Aire acondicionado",
-      "Wifi"
+      "Area fumador",
+      "Aire acondicionado"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
+   "contacto": "Tel:4667-4265/4664-2439",
    "contactos": [],
-   "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
-   ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "desc": [],
+   "direccion": "Mitre, Av. 300, Zona Oeste > San Miguel, San Miguel ",
    "gallery": [],
    "homepage": [],
    "horarios": [
@@ -128,13 +127,13 @@ resto = {
       " Jueves 12 a 16 y de 20 a cierre ",
       " Viernes 12 a 16 y de 20 a cierre ",
       " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Domingo 20 a cierre "
    ],
    "images": [],
    "lugar": "/restaurantes/Zona-Oeste-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "Open Pat",
+   "precio": "$33cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,7 +141,7 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",

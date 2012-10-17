@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Rumba-9226"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Rumba-9226"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -103,38 +103,44 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
       "Delivery",
       "Aire acondicionado",
-      "Wifi"
+      "Menú ejecutivo",
+      "Wifi",
+      "Carta Braile"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Pizza-4",
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
-   "contactos": [],
+   "contacto": "Tel:4919-5664/4919-3389•",
+   "contactos": [
+      "mailto:consultas@lacontinental.com"
+   ],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Principal: Pizza La Continental (salsa de tomates, muzzarella, palmitos, huevo morrón, jamón y aceitunas). Creppe La Continental (relleno de pollo, ricota y jamón, con salsa de champignones y crema)\nPostre: Copa La Continental (ensalada de frutas, helado de crema americana, obleas, nueces y crema chantilly)"
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Sáenz , Av. 963, Parque Chacabuco, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 7 a 1",
+      "  Lunes 7 a 1 ",
+      " Martes 7 a 1 ",
+      " Miercoles 7 a 1 ",
+      " Jueves 7 a 1 ",
+      " Viernes 7 a 2 ",
+      " Sabado 7 a 2 ",
+      " Domingo 7 a 1 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
-   "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "lugar": "/restaurantes/Parque-Chacabuco-3",
+   "mediosPago": [
+      "Visa",
+      "Mastercard"
+   ],
+   "nombre": "La Rumba",
+   "precio": "$36cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,15 +148,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
-      },
-      {
-         "nombre": "Ambiente:",
          "valor": "16"
       },
       {
+         "nombre": "Ambiente:",
+         "valor": "15"
+      },
+      {
          "nombre": "Carta de vinos:",
-         "valor": ""
+         "valor": "0"
       }
    ],
    "site": []

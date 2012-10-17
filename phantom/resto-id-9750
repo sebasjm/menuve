@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Punta-Nuniez-9750"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Punta-Nuniez-9750"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -19,7 +19,7 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
@@ -103,38 +103,37 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
       "Reservas",
       "Delivery",
       "Aire acondicionado",
       "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
+   "contacto": "Tel:4546-2400",
    "contactos": [],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Pizza a la piedra, horno de barro."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Ciudad de La Paz 3204, Núñez, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 12 a cierre",
+      "  Lunes 12 a cierre ",
+      " Martes 12 a cierre ",
+      " Miercoles 12 a cierre ",
+      " Jueves 12 a cierre ",
+      " Viernes 12 a cierre ",
+      " Sabado 12 a cierre ",
+      " Domingo 12 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Nuniez-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "Punta Nuñez",
+   "precio": "$34cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,7 +141,7 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",

@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Miriam-8602"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Miriam-8602"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -18,31 +18,31 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con amigos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Escuchar música",
-         "valor": "0"
-      },
-      {
-         "nombre": "Ir en pareja",
-         "valor": "0"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
+         "nombre": "Comer bien gastando poco",
+         "valor": "7"
       },
       {
          "nombre": "Ir con chicos",
-         "valor": "0"
+         "valor": "1"
       },
       {
-         "nombre": "Comer con buenos tragos",
+         "nombre": "Ir con amigos",
+         "valor": "5"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
          "valor": "0"
       },
       {
@@ -62,7 +62,7 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer bien gastando poco",
+         "nombre": "Comer con buenos tragos",
          "valor": "0"
       },
       {
@@ -103,38 +103,34 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
-      "Delivery",
-      "Aire acondicionado",
-      "Wifi"
+      "Aire acondicionado"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Latinoamericana-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
+   "contacto": "Tel:4641-3064",
    "contactos": [],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Cocina Boliviana. Sopa de maní, salchipapa, super fricase paceño, asado a la olla, pollo dorado, pollo broaster."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Ibarrola 7184, Liniers-Mataderos, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 8 a 22",
+      "  Lunes 8 a 22 ",
+      " Martes 8 a 22 ",
+      " Miercoles 8 a 22 ",
+      " Jueves 8 a 22 ",
+      " Viernes 8 a 22 ",
+      " Sabado 8 a 22 ",
+      " Domingo 8 a 22 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Liniers-Mataderos-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "Miriam",
+   "precio": "$35cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,15 +138,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "18"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": ""
+         "valor": "0"
       }
    ],
    "site": []

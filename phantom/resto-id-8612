@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/The-Blues-Brothers-Club-8612"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/The-Blues-Brothers-Club-8612"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -19,7 +19,15 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
          "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
@@ -27,15 +35,7 @@ resto = {
       },
       {
          "nombre": "Ir en pareja",
-         "valor": "0"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Ir con chicos",
@@ -104,37 +104,49 @@ resto = {
    ],
    "caracteristicas": [
       "Acceso discapacitados",
+      "Baños discapacitados",
       "Reservas",
-      "Delivery",
+      "Mesas al aire libre",
       "Aire acondicionado",
-      "Wifi"
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Comida para celíacos"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Variada-4",
+      "/restaurantes/Internacional-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
-   "contactos": [],
+   "contacto": "Tel:3967-0565•",
+   "contactos": [
+      "mailto:thebluesbrotherclub@gmail.com"
+   ],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Chef:Diego Cofone",
+      "Especialidades:Sandwicheria Gourmet, Tapas, Brochettes, Picadas, Comidas del mundo, Cocteleria.Armado de Tapeo a elección del cliente, Waffles y Panqueques con dulce de leche casero, Charlote, agregados de helado y frutos rojos."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Niceto Vega, Av. 5572, Palermo > Norte JB Justo, Ciudad de buenos Aires ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 19 a 3",
+      "  Miercoles 19 a 3 ",
+      " Jueves 19 a 5 ",
+      " Viernes 19 a 5 ",
+      " Sabado 19 a 5 ",
+      " Domingo 19 a 5 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
-   "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Diners",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "The Blues Brothers Club",
+   "precio": "$31cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,11 +154,11 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "17"
       },
       {
          "nombre": "Carta de vinos:",

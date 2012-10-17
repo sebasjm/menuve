@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Mamia-8860"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Futomaki-Sushi-Wok-8322"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Mamia-8860"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,28 +14,44 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mamia-8860"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mamia-8860"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mamia-8860:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
 pages -> []
 resto = {
    "calificaciones": [
       {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
          "nombre": "Ir con amigos",
          "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Ir en pareja",
-         "valor": "0"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
          "nombre": "Desayunar",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Ir con chicos",
@@ -105,36 +121,44 @@ resto = {
    "caracteristicas": [
       "Acceso discapacitados",
       "Reservas",
+      "Mesas al aire libre",
       "Delivery",
       "Aire acondicionado",
+      "Menú ejecutivo",
+      "Descorche",
       "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Japonesa-4"
+      "/restaurantes/Francesa-4"
    ],
-   "contacto": "Tel:(0237)483-2615",
-   "contactos": [],
+   "contacto": "Tel:4801-8077•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Mamia-8860",
+      "mailto:info@mamia.com.ar"
+   ],
    "desc": [
-      "Especialidades:Arroces, arroyaditos primavera, gyosas, bastoncitos, fuyon.Del Wok, platos especiales: Mizu-bara."
+      "Especialidades:Ñoquis souffle con salsa carusso: ñoquis caseros de masa bomba con salsa de hongos, tomates frescos, hiervas y crema. Torta Pagano de brownie. Mousse de chocolate, dulce de leche, crema y merengue italiano chorreado con chocolate."
    ],
-   "direccion": "Gorriti 1240, Zona Oeste > Francisco Alvarez, Francisco Alvarez ",
+   "direccion": "Pagano 2748, Palermo > Botánico, C.A.B.A. ",
    "gallery": [],
-   "homepage": [],
+   "homepage": [
+      "http://www.mamiapagano.com.ar"
+   ],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a cierre",
-      "  Lunes 12 a 16 y de 20 a cierre ",
-      " Martes 12 a 16 y de 20 a cierre ",
-      " Miercoles 12 a 16 y de 20 a cierre ",
-      " Jueves 12 a 16 y de 20 a cierre ",
-      " Viernes 12 a 16 y de 20 a cierre ",
-      " Sabado 12 a 16 y de 20 a cierre ",
-      " Domingo 12 a 16 y de 20 a cierre "
+      " Hoy 9:30 a 21:30",
+      "  Lunes 9:30 a 21:30 ",
+      " Martes 9:30 a 21:30 ",
+      " Miercoles 9:30 a 21:30 ",
+      " Jueves 9:30 a 21:30 ",
+      " Viernes 9:30 a 21:30 ",
+      " Sabado 9:30 a 21:30 ",
+      " Domingo 10 a 20:30 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [],
-   "nombre": "Futomaki Sushi & Wok",
-   "precio": "$70cena",
+   "nombre": "Mamía",
+   "precio": "$29alm",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -142,16 +166,18 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "18"
       },
       {
          "nombre": "Carta de vinos:",
          "valor": ""
       }
    ],
-   "site": []
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Mamia-8860"
+   ]
 }
