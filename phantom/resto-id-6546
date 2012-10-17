@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Supernova-cosmos-cafe-6546"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Supernova-cosmos-cafe-6546"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -15,27 +15,27 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con chicos",
-         "valor": "8"
+         "nombre": "Ir con amigos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
       },
       {
          "nombre": "Ir en pareja",
          "valor": "1"
       },
       {
-         "nombre": "Ir con amigos",
-         "valor": "3"
-      },
-      {
          "nombre": "Salida de amigas",
-         "valor": "1"
+         "valor": "0"
       },
       {
          "nombre": "Desayunar",
-         "valor": "2"
+         "valor": "0"
       },
       {
-         "nombre": "Escuchar música",
+         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
@@ -102,41 +102,44 @@ resto = {
    "caracteristicas": [
       "Acceso discapacitados",
       "Baños discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
-      "Juegos para chicos",
       "Delivery",
+      "Area fumador",
       "Aire acondicionado",
-      "Menú ejecutivo",
-      "Wifi"
+      "Barra de tragos",
+      "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Parrilla-4",
-      "/restaurantes/Pizza-4"
+      "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:4566-3112/4566-3975",
-   "contactos": [],
+   "contacto": "Tel:4793-2552•",
+   "contactos": [
+      "mailto:supernovacafe@hotmail.com"
+   ],
    "desc": [
-      "Especialidades:Pizza a la piedra , supremas y lomos para compartir."
+      "Especialidades:variedad de tortas y cafe"
    ],
-   "direccion": "Alvarez Jonte 5001, Centro > Microcentro, C.A.B.A. ",
+   "direccion": "Hipolito Irigoyen 48, Zona Norte > Martinez, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 7 hasta el cierre",
-      "  Lunes 7 hasta el cierre ",
-      " Martes 7 hasta el cierre ",
-      " Miercoles 7 hasta el cierre ",
-      " Jueves 7 hasta el cierre ",
-      " Viernes 7 hasta el cierre ",
-      " Sabado 7 hasta el cierre ",
-      " Domingo 7 hasta el cierre "
+      " Hoy 08:30 a 20:30",
+      "  Lunes 08:30 a 20:30 ",
+      " Martes 08:30 a 20:30 ",
+      " Miercoles 08:30 a 20:30 ",
+      " Jueves 08:30 a 20:30 ",
+      " Viernes 08:30 a cierre ",
+      " Sabado 08:30 a 19:00 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
-   "mediosPago": [],
-   "nombre": "San Pedro",
-   "precio": "$67alm",
+   "lugar": "/restaurantes/Zona-Norte-3",
+   "mediosPago": [
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Supernova cosmos cafe",
+   "precio": "$38cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -144,15 +147,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "14"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "14"
+         "valor": "15"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "5"
+         "valor": "3"
       }
    ],
    "site": []

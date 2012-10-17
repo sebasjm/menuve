@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Trattoria-7198"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Trattoria-7198"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,31 +11,50 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Trattoria-7198"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Trattoria-7198"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-Trattoria-7198:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
 pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con chicos",
-         "valor": "8"
-      },
-      {
          "nombre": "Ir en pareja",
-         "valor": "1"
-      },
-      {
-         "nombre": "Ir con amigos",
-         "valor": "3"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "1"
-      },
-      {
-         "nombre": "Desayunar",
          "valor": "2"
       },
       {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "1"
+      },
+      {
          "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
          "valor": "0"
       },
       {
@@ -101,42 +120,45 @@ resto = {
    ],
    "caracteristicas": [
       "Acceso discapacitados",
-      "Baños discapacitados",
       "Reservas",
       "Mesas al aire libre",
-      "Juegos para chicos",
       "Delivery",
+      "Area fumador",
       "Aire acondicionado",
       "Menú ejecutivo",
       "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Parrilla-4",
-      "/restaurantes/Pizza-4"
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:4566-3112/4566-3975",
-   "contactos": [],
+   "contacto": "Tel:(0221)422-6135•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/La-Trattoria-7198",
+      "mailto:info@latrattoriaweb.com.ar"
+   ],
    "desc": [
-      "Especialidades:Pizza a la piedra , supremas y lomos para compartir."
+      "Especialidades:Platos variados de cocina gourmet y cafetería."
    ],
-   "direccion": "Alvarez Jonte 5001, Centro > Microcentro, C.A.B.A. ",
+   "direccion": "Calle 10 s/n esq 47 y diagonal 74, Zona Sur > La Plata, La Plata ",
    "gallery": [],
-   "homepage": [],
+   "homepage": [
+      "http:////www.latrattoriaweb.com.ar/"
+   ],
    "horarios": [
-      " Hoy 7 hasta el cierre",
-      "  Lunes 7 hasta el cierre ",
-      " Martes 7 hasta el cierre ",
-      " Miercoles 7 hasta el cierre ",
-      " Jueves 7 hasta el cierre ",
-      " Viernes 7 hasta el cierre ",
-      " Sabado 7 hasta el cierre ",
-      " Domingo 7 hasta el cierre "
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
+   "lugar": "/restaurantes/Zona-Sur-3",
    "mediosPago": [],
-   "nombre": "San Pedro",
-   "precio": "$67alm",
+   "nombre": "La Trattoria",
+   "precio": "$70alm / $73cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -148,12 +170,14 @@ resto = {
       },
       {
          "nombre": "Ambiente:",
-         "valor": "14"
+         "valor": "17"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "5"
+         "valor": "10"
       }
    ],
-   "site": []
+   "site": [
+      "/restaurante/urlredirect/nombreClave/La-Trattoria-7198"
+   ]
 }

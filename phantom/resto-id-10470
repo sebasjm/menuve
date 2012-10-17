@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Guena-Yunta-10470"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Guena-Yunta-10470"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,39 +11,42 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
 pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con chicos",
-         "valor": "8"
+         "nombre": "Salida de amigas",
+         "valor": "7"
       },
       {
-         "nombre": "Ir en pareja",
-         "valor": "1"
-      },
-      {
-         "nombre": "Ir con amigos",
+         "nombre": "Comer bien gastando poco",
          "valor": "3"
       },
       {
-         "nombre": "Salida de amigas",
-         "valor": "1"
+         "nombre": "Ir con amigos",
+         "valor": "6"
       },
       {
-         "nombre": "Desayunar",
+         "nombre": "Ir con chicos",
          "valor": "2"
       },
       {
-         "nombre": "Escuchar música",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer con buenos tragos",
-         "valor": "0"
+         "nombre": "Ir en pareja",
+         "valor": "4"
       },
       {
          "nombre": "Llevar extranjeros",
+         "valor": "2"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
          "valor": "0"
       },
       {
@@ -59,11 +62,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer bien gastando poco",
+         "nombre": "Desayunar",
          "valor": "0"
       },
       {
-         "nombre": "Festejar un cumpleaños",
+         "nombre": "Comer tarde",
          "valor": "0"
       },
       {
@@ -79,7 +82,7 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer tarde",
+         "nombre": "Escuchar música",
          "valor": "0"
       },
       {
@@ -99,44 +102,24 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Acceso discapacitados",
-      "Baños discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
-      "Juegos para chicos",
-      "Delivery",
-      "Aire acondicionado",
-      "Menú ejecutivo",
-      "Wifi"
-   ],
+   "caracteristicas": [],
    "cocina": [
-      "/restaurantes/Parrilla-4",
-      "/restaurantes/Pizza-4"
+      "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:4566-3112/4566-3975",
+   "contacto": "Tel:4342-2789",
    "contactos": [],
-   "desc": [
-      "Especialidades:Pizza a la piedra , supremas y lomos para compartir."
-   ],
-   "direccion": "Alvarez Jonte 5001, Centro > Microcentro, C.A.B.A. ",
+   "desc": [],
+   "direccion": "Chile 369, San Telmo, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 7 hasta el cierre",
-      "  Lunes 7 hasta el cierre ",
-      " Martes 7 hasta el cierre ",
-      " Miercoles 7 hasta el cierre ",
-      " Jueves 7 hasta el cierre ",
-      " Viernes 7 hasta el cierre ",
-      " Sabado 7 hasta el cierre ",
-      " Domingo 7 hasta el cierre "
+      " Hoy "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
+   "lugar": "/restaurantes/San-Telmo-3",
    "mediosPago": [],
-   "nombre": "San Pedro",
-   "precio": "$67alm",
+   "nombre": "Gúena Yunta",
+   "precio": "",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -144,15 +127,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "14"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "14"
+         "valor": "16"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "5"
+         "valor": "10"
       }
    ],
    "site": []

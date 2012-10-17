@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Nueva-Gata-2209"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/San-Pedro-6760"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Nueva-Gata-2209"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -15,27 +15,27 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con chicos",
-         "valor": "8"
-      },
-      {
-         "nombre": "Ir en pareja",
-         "valor": "1"
-      },
-      {
          "nombre": "Ir con amigos",
-         "valor": "3"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "1"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "2"
+         "valor": "4"
       },
       {
          "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
@@ -100,43 +100,38 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Baños discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
-      "Juegos para chicos",
-      "Delivery",
-      "Aire acondicionado",
-      "Menú ejecutivo",
-      "Wifi"
+      "Aire acondicionado"
    ],
    "cocina": [
-      "/restaurantes/Parrilla-4",
       "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:4566-3112/4566-3975",
+   "contacto": "Tel:4822-9660",
    "contactos": [],
    "desc": [
-      "Especialidades:Pizza a la piedra , supremas y lomos para compartir."
+      "Especialidades:Variedad de pizzas."
    ],
-   "direccion": "Alvarez Jonte 5001, Centro > Microcentro, C.A.B.A. ",
+   "direccion": "Junín 1192, Recoleta, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 7 hasta el cierre",
-      "  Lunes 7 hasta el cierre ",
-      " Martes 7 hasta el cierre ",
-      " Miercoles 7 hasta el cierre ",
-      " Jueves 7 hasta el cierre ",
-      " Viernes 7 hasta el cierre ",
-      " Sabado 7 hasta el cierre ",
-      " Domingo 7 hasta el cierre "
+      " Hoy 08:00 a 00:00",
+      "  Lunes 08:00 a 00:00 ",
+      " Martes 08:00 a 00:00 ",
+      " Miercoles 08:00 a 00:00 ",
+      " Jueves 08:00 a 00:00 ",
+      " Viernes 08:00 a 00:00 ",
+      " Sabado 08:00 a 00:00 ",
+      " Domingo 08:00 a 00:00 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
-   "mediosPago": [],
-   "nombre": "San Pedro",
-   "precio": "$67alm",
+   "lugar": "/restaurantes/Recoleta-3",
+   "mediosPago": [
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "La Nueva Gata",
+   "precio": "$29alm / $37cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -144,15 +139,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "14"
+         "valor": "16"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "14"
+         "valor": "16"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "5"
+         "valor": "0"
       }
    ],
    "site": []
