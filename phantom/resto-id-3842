@@ -19,3 +19,165 @@ pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/
 //go for page {
    "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/3"
 }
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sudeste-3842/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "39"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "8"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "2"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Area fumador",
+      "Aire acondicionado",
+      "Descorche",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Internacional-4",
+      "/restaurantes/Mediterranea-4"
+   ],
+   "contacto": "Tel:4742-7694•",
+   "contactos": [
+      "mailto:sudesterestaurant@gmail.com"
+   ],
+   "desc": [
+      "Chef:Constantino Astirakakis",
+      "Especialidades:Principal: pollo a la cerveza negra con espinacas a la crema y crocante de polenta.Postre: tarta tibia de manzana con helado de crema."
+   ],
+   "direccion": "Tiscornia, Av. 962 Bajo de San Isidro, Zona Norte > San Isidro, Partido de San Isidro ",
+   "gallery": [
+      "/restaurantes/galeria/Sudeste-3842/1",
+      "/restaurantes/galeria/Sudeste-3842/2",
+      "/restaurantes/galeria/Sudeste-3842/3",
+      "/restaurantes/galeria/Sudeste-3842/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 20:00 a cierre",
+      "  Miercoles 20:00 a cierre ",
+      " Jueves 20:00 a cierre ",
+      " Viernes 20:00 a cierre ",
+      " Sabado 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/8/4/2/photo_3842_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/8/4/2/photo_3842_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/8/4/2/photo_3842_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/8/4/2/photo_3842_1.jpg"
+   ],
+   "lugar": "/restaurantes/Zona-Norte-3",
+   "mediosPago": [],
+   "nombre": "Sudeste",
+   "precio": "$107cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "23"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "15"
+      }
+   ],
+   "site": []
+}
