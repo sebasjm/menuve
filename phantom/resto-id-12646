@@ -1,0 +1,183 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Torna-Undici-12646"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Torna-Undici-12646"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Torna-Undici-12646"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Torna-Undici-12646"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Torna-Undici-12646:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Torna-Undici-12646 from frame with URL http://www.facebook.com/TornaUndici. Domains, protocols and ports must match.
+
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Pizza-4"
+   ],
+   "contacto": "Tel:4300-7800/6991•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Torna-Undici-12646"
+   ],
+   "desc": [
+      "Especialidades:Pizza"
+   ],
+   "direccion": "Av. Montes de Oca 510 esq Manuel J. Samperio, Región Sur, C.A.B.A. ",
+   "gallery": [],
+   "homepage": [
+      "http:////www.facebook.com/TornaUndici"
+   ],
+   "horarios": [
+      " Hoy 7 a 3",
+      "  Lunes 7 a 3 ",
+      " Martes 7 a 3 ",
+      " Miercoles 7 a 3 ",
+      " Jueves 7 a 3 ",
+      " Viernes 7 a 3 ",
+      " Sabado 7 a 3 ",
+      " Domingo 7 a 3 "
+   ],
+   "images": [],
+   "lugar": "/restaurantes/Region-Sur-3",
+   "mediosPago": [
+      "American Express",
+      "Visa"
+   ],
+   "nombre": "Torna Undici",
+   "precio": "$70alm",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Torna-Undici-12646"
+   ]
+}

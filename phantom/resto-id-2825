@@ -1,0 +1,198 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Turandot-2825"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Turandot-2825"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Turandot-2825/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "63"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "11"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "28"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "19"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "4"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Internacional-4",
+      "/restaurantes/Hungara-4"
+   ],
+   "contacto": "Tel:4771-5355•",
+   "contactos": [
+      "mailto:reservas@e-turandot.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Arenque a la crema sobre colchón de cebolla agridulce y pepino. Gulyás de ternera, cordero, cerdo, conejo y vegetariano, con spétzeles. Pollo a la húngara, copa strogonoff, lasaña crocante con salmón rosado. Rótolo de pollo, varênikes, sorrentinos de camarones. Postres: torta dobos, strudel de manzana con helado canela, strudel de guindas naturales acompañado de helado de americana, puré de castañas con crema."
+   ],
+   "direccion": "Fitz Roy 1747, Palermo > Norte JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Turandot-2825/1",
+      "/restaurantes/galeria/Turandot-2825/2",
+      "/restaurantes/galeria/Turandot-2825/3",
+      "/restaurantes/galeria/Turandot-2825/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 17 a cierre",
+      "  Lunes 17 a cierre ",
+      " Martes 17 a cierre ",
+      " Miercoles 17 a cierre ",
+      " Jueves 17 a cierre ",
+      " Viernes 17 a cierre ",
+      " Sabado 17 a cierre ",
+      " Domingo 17 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/8/2/5/photo_2825_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/8/2/5/photo_2825_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/8/2/5/photo_2825_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/8/2/5/photo_2825_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Turandot",
+   "precio": "$93cena50%\tdescuento Oleoobtener cupón de descuentoDescuentos en almuerzo los días Sab y DomDescuentos en cena los días Mar a Jue",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "12"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "11"
+      }
+   ],
+   "site": []
+}
