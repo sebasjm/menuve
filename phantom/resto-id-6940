@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Nucha-cafe-10330"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Pertutti-6940"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Nucha-cafe-10330"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Pertutti-6940"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,51 +14,74 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Nucha-cafe-10330"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pertutti-6940"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Nucha-cafe-10330"
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pertutti-6940"
 }
 ReferenceError: Can't find variable: jQuery
 
   http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
 ReferenceError: Can't find variable: $
 
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Nucha-cafe-10330:4
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pertutti-6940:4
 TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
 
   http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+ReferenceError: Can't find variable: escrolea
+
+  http://www.pertuttirestaurante.com.ar/:23 in onload
 pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Desayunar",
-         "valor": "11"
-      },
-      {
-         "nombre": "Merendar",
-         "valor": "7"
-      },
-      {
-         "nombre": "Ir con amigos",
-         "valor": "9"
-      },
-      {
-         "nombre": "Ir en pareja",
+         "nombre": "Ir con chicos",
          "valor": "5"
       },
       {
-         "nombre": "Salida de amigas",
-         "valor": "7"
+         "nombre": "Ir con amigos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "4"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Ir con chicos",
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
          "valor": "0"
       },
       {
@@ -74,7 +97,7 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer solo",
+         "nombre": "Comer al aire libre",
          "valor": "0"
       },
       {
@@ -86,31 +109,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer mucho",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un aniversario",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer al aire libre",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer bien gastando poco",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un cumpleaños",
-         "valor": "0"
-      },
-      {
          "nombre": "Comer rápido",
          "valor": "0"
       },
       {
-         "nombre": "Reunión de negocios",
+         "nombre": "Festejar un aniversario",
          "valor": "0"
       },
       {
@@ -119,45 +122,42 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Baños discapacitados",
       "Reservas",
-      "Mesas al aire libre",
-      "Aire acondicionado",
-      "Wifi",
-      "Comida para celíacos"
+      "Estacionamiento",
+      "Juegos para chicos",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/De-autor-4"
+      "/restaurantes/Variada-4",
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:4833-9345/4832-3280•",
+   "contacto": "Tel:4823-3092•",
    "contactos": [
-      "/restaurante/urlredirect/nombreClave/Nucha-cafe-10330",
-      "mailto:nuchaarmenia@sion.com"
+      "/restaurante/urlredirect/nombreClave/Pertutti-6940",
+      "mailto:comentarios@pertuttiresto.com.ar"
    ],
    "desc": [
-      "Especialidades:Repostería artesanal, sandwiches, tarteletas, empanadas."
+      "Especialidades:soufflé de calabacitas con crema de choclo y zanahoria rallada"
    ],
-   "direccion": "Armenia 1540, Palermo > Sur JB Justo, C.A.B.A. ",
+   "direccion": "Santa Fe 2020, Recoleta, C.A.B.A. ",
    "gallery": [],
    "homepage": [
-      "http://www.nuchacafe.com"
+      "http://www.pertuttirestaurante.com.ar"
    ],
    "horarios": [
-      " Hoy 9 a 21",
-      "  Lunes 9 a 21 ",
-      " Martes 9 a 21 ",
-      " Miercoles 9 a 21 ",
-      " Jueves 9 a 21 ",
-      " Viernes 9 a 21 ",
-      " Sabado 9 a 21 ",
-      " Domingo 9 a 21 "
+      " Hoy ",
+      "  Jueves 9 a 2 ",
+      " Viernes 9 a 2 ",
+      " Sabado 9 a 2 ",
+      " Domingo 24 horas "
    ],
    "images": [],
-   "lugar": "/restaurantes/Palermo-3",
-   "mediosPago": [],
-   "nombre": "Nucha cafe",
-   "precio": "$43alm / $43cena",
+   "lugar": "/restaurantes/Recoleta-3",
+   "mediosPago": [
+      "American Express"
+   ],
+   "nombre": "Pertutti",
+   "precio": "$71alm / $76cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -165,18 +165,18 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "16"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "20"
+         "valor": "18"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": ""
+         "valor": "8"
       }
    ],
    "site": [
-      "/restaurante/urlredirect/nombreClave/Nucha-cafe-10330"
+      "/restaurante/urlredirect/nombreClave/Pertutti-6940"
    ]
 }
