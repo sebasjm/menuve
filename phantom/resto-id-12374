@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chez-Philippe-12134"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Paz-cafe-12374"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Chez-Philippe-12134"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Paz-cafe-12374"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,19 +11,16 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-TypeError: 'null' is not an object (evaluating 'g.shift')
-
-  http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Philippe-12134"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paz-cafe-12374"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Philippe-12134"
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paz-cafe-12374"
 }
 ReferenceError: Can't find variable: jQuery
 
   http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
 ReferenceError: Can't find variable: $
 
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Philippe-12134:4
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Paz-cafe-12374:4
 TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
 
   http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
@@ -34,27 +31,47 @@ pages -> []
 resto = {
    "calificaciones": [
       {
+         "nombre": "Desayunar",
+         "valor": "3"
+      },
+      {
          "nombre": "Ir con amigos",
          "valor": "1"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "3"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Desayunar",
-         "valor": "1"
-      },
-      {
-         "nombre": "Salida de amigas",
+         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
-         "nombre": "Ir en pareja",
-         "valor": "1"
+         "nombre": "Comer tarde",
+         "valor": "0"
       },
       {
-         "nombre": "Ir con chicos",
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
          "valor": "0"
       },
       {
@@ -70,11 +87,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Ir con la familia",
+         "nombre": "Festejar un aniversario",
          "valor": "0"
       },
       {
-         "nombre": "Comer solo",
+         "nombre": "Comer al aire libre",
          "valor": "0"
       },
       {
@@ -90,26 +107,6 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Festejar un aniversario",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer al aire libre",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer tarde",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer sin ser visto",
-         "valor": "0"
-      },
-      {
-         "nombre": "Merendar",
-         "valor": "0"
-      },
-      {
          "nombre": "Reunión de negocios",
          "valor": "0"
       },
@@ -120,32 +117,32 @@ resto = {
    ],
    "caracteristicas": [],
    "cocina": [
-      "/restaurantes/Alemana-4",
-      "/restaurantes/Francesa-4"
+      "/restaurantes/Deli-4"
    ],
-   "contacto": "Tel:4717-1954•",
+   "contacto": "Tel:4224-9796•",
    "contactos": [
-      "/restaurante/urlredirect/nombreClave/Chez-Philippe-12134",
-      "mailto:chezphilippe@chezphilippe.com.ar"
+      "/restaurante/urlredirect/nombreClave/Paz-cafe-12374",
+      "mailto:cafepaz@facebook.com"
    ],
    "desc": [],
-   "direccion": "Catamarca 2188, Zona Norte > Martinez, C.A.B.A. ",
+   "direccion": "Alsina 455 Esq. Gral. Paz, Zona Sur > Quilmes, Quilmes ",
    "gallery": [],
    "homepage": [
-      "http://www.chezphilippe.com.ar"
+      "http://www.cafepaz.com.ar"
    ],
    "horarios": [
-      " Hoy 12 a 15",
-      "  Martes 12 a 15 ",
-      " Miercoles 12 a 15 ",
-      " Jueves 12 a 15 ",
-      " Viernes 12 a 15 ",
-      " Sabado 12 a 15 "
+      " Hoy 7 a 21",
+      "  Lunes 7 a 21 ",
+      " Martes 7 a 21 ",
+      " Miercoles 7 a 21 ",
+      " Jueves 7 a 21 ",
+      " Viernes 7 a 21 ",
+      " Sabado 9 a 21 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Norte-3",
+   "lugar": "/restaurantes/Zona-Sur-3",
    "mediosPago": [],
-   "nombre": "Chez Philippe",
+   "nombre": "Paz café",
    "precio": "$69alm",
    "puntos": [
       {
@@ -158,7 +155,7 @@ resto = {
       },
       {
          "nombre": "Ambiente:",
-         "valor": "17"
+         "valor": "18"
       },
       {
          "nombre": "Carta de vinos:",
@@ -166,6 +163,6 @@ resto = {
       }
    ],
    "site": [
-      "/restaurante/urlredirect/nombreClave/Chez-Philippe-12134"
+      "/restaurante/urlredirect/nombreClave/Paz-cafe-12374"
    ]
 }
