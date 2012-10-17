@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Goya-2590"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Anden-Restauante-Confiteria-2569"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Goya-2590"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Anden-Restauante-Confiteria-2569"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -15,27 +15,27 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir con amigos",
-         "valor": "3"
-      },
-      {
          "nombre": "Escuchar música",
-         "valor": "0"
+         "valor": "3"
       },
       {
          "nombre": "Ir en pareja",
          "valor": "0"
       },
       {
-         "nombre": "Salida de amigas",
-         "valor": "0"
+         "nombre": "Ir con chicos",
+         "valor": "2"
       },
       {
          "nombre": "Desayunar",
          "valor": "0"
       },
       {
-         "nombre": "Ir con chicos",
+         "nombre": "Ir con amigos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Salida de amigas",
          "valor": "0"
       },
       {
@@ -100,40 +100,49 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Reservas",
-      "Aire acondicionado",
-      "Menú ejecutivo"
+      "Acceso discapacitados",
+      "Estacionamiento",
+      "Delivery",
+      "Menú ejecutivo",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Pizza-4"
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:4345-4932",
+   "contacto": "Tel:4773-0707",
    "contactos": [],
-   "desc": [],
-   "direccion": "de Mayo Av. 901, Centro > Microcentro, C.A.B.A. ",
+   "desc": [
+      "Especialidades:Principal: pastas, parrillas, empanadas, pizzas.Postre: panqueque de manzana, panqueque de dulce de leche, helados, flan, ensalada de frutas."
+   ],
+   "direccion": "Santa Fé, Av. 5302, Palermo > Norte JB Justo, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a 24",
-      "  Lunes 12 a 16 y de 20 a 24 ",
-      " Martes 12 a 16 y de 20 a 24 ",
-      " Miercoles 12 a 16 y de 20 a 24 ",
-      " Jueves 12 a 16 y de 20 a 24 ",
-      " Viernes 12 a 16 y de 20 a 24 ",
-      " Sabado 12 a 16 y de 20 a 24 ",
-      " Domingo 12 a 16 y de 20 a 24 "
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
+   "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [
       "American Express",
       "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Maestro",
       "Luncheon Ticket",
       "Ticket restaurant",
       "Ticket Total"
    ],
-   "nombre": "Goya",
-   "precio": "$35alm / $125cena",
+   "nombre": "El Anden - Restauante Confitería",
+   "precio": "$36alm / $36cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -141,15 +150,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "14"
-      },
-      {
-         "nombre": "Ambiente:",
          "valor": "15"
       },
       {
+         "nombre": "Ambiente:",
+         "valor": "16"
+      },
+      {
          "nombre": "Carta de vinos:",
-         "valor": "0"
+         "valor": ""
       }
    ],
    "site": []

@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Goya-2590"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-rastra-9292"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Goya-2590"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-rastra-9292"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -16,6 +16,14 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
+         "valor": "4"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
          "valor": "3"
       },
       {
@@ -23,19 +31,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Ir en pareja",
-         "valor": "0"
+         "nombre": "Ir con chicos",
+         "valor": "1"
       },
       {
          "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
-      },
-      {
-         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
@@ -100,40 +100,32 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
       "Reservas",
-      "Aire acondicionado",
-      "Menú ejecutivo"
+      "Mesas al aire libre",
+      "Delivery",
+      "Menú ejecutivo",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Pizza-4"
+      "/restaurantes/Parrilla-4"
    ],
-   "contacto": "Tel:4345-4932",
+   "contacto": "Tel:4248-7222",
    "contactos": [],
-   "desc": [],
-   "direccion": "de Mayo Av. 901, Centro > Microcentro, C.A.B.A. ",
+   "desc": [
+      "Especialidades:Parrilladas."
+   ],
+   "direccion": "Alsina 1208, Zona Sur > Lomas de Zamora, Banfield ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12 a 16 y de 20 a 24",
-      "  Lunes 12 a 16 y de 20 a 24 ",
-      " Martes 12 a 16 y de 20 a 24 ",
-      " Miercoles 12 a 16 y de 20 a 24 ",
-      " Jueves 12 a 16 y de 20 a 24 ",
-      " Viernes 12 a 16 y de 20 a 24 ",
-      " Sabado 12 a 16 y de 20 a 24 ",
-      " Domingo 12 a 16 y de 20 a 24 "
+      " Hoy "
    ],
    "images": [],
-   "lugar": "/restaurantes/Centro-3",
-   "mediosPago": [
-      "American Express",
-      "Visa",
-      "Luncheon Ticket",
-      "Ticket restaurant",
-      "Ticket Total"
-   ],
-   "nombre": "Goya",
-   "precio": "$35alm / $125cena",
+   "lugar": "/restaurantes/Zona-Sur-3",
+   "mediosPago": [],
+   "nombre": "La rastra",
+   "precio": "",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -141,15 +133,15 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "14"
+         "valor": "18"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "15"
+         "valor": "18"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "0"
+         "valor": "8"
       }
    ],
    "site": []
