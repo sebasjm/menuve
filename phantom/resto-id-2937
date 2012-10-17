@@ -1,0 +1,179 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Nahuel-Resto-Cafe-2937"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Nahuel-Resto-Cafe-2937"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Nahuel-Resto-Cafe-2937/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Area fumador",
+      "Descorche",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4",
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4749-0387•",
+   "contactos": [
+      "mailto:nahuelrestocafe@yahoo.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Principal: salteado de vegetales al wok con pollo o cerdo, pastas caseras,parrilla.Postre: flan casero, bavoaroise de naranja, parfait de frutilla."
+   ],
+   "direccion": "Lavalle 235/239, Zona Norte > Tigre, Part. de San Fernando ",
+   "gallery": [
+      "/restaurantes/galeria/Nahuel-Resto-Cafe-2937/1",
+      "/restaurantes/galeria/Nahuel-Resto-Cafe-2937/2",
+      "/restaurantes/galeria/Nahuel-Resto-Cafe-2937/3",
+      "/restaurantes/galeria/Nahuel-Resto-Cafe-2937/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy ",
+      "  Viernes 20 a cierre ",
+      " Sabado 12 a 16 y de 20 a cierre ",
+      " Domingo 12 a 16 y de 20 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/9/3/7/photo_2937_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/9/3/7/photo_2937_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/9/3/7/photo_2937_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/9/3/7/photo_2937_1.jpg"
+   ],
+   "lugar": "/restaurantes/Zona-Norte-3",
+   "mediosPago": [],
+   "nombre": "Nahuel Resto Café",
+   "precio": "$66alm",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "19"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": []
+}

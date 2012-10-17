@@ -1,0 +1,190 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Library-Lounge-Hotel-Faena-Universe-3254"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Library-Lounge-Hotel-Faena-Universe-3254"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "7"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "5"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "3"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Show",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Internacional-4"
+   ],
+   "contacto": "Tel:4010-9200•",
+   "contactos": [
+      "mailto:reservasuniverse@faenahotels.com"
+   ],
+   "desc": [
+      "Especialidades:XIMENA: Moët & Chandon Brut Imperial, Grey Goose Vodka y St. Germain\nLULO MOJITO: Pampero añejo, Cherry Heering liquor, fresh mint, apple juice\nBLONDIE LOVE: Smirnoff Vainilia, Malibú pineapple, lima"
+   ],
+   "direccion": "Martha Salotti 445, Puerto Madero, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/1",
+      "/restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/2",
+      "/restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/3",
+      "/restaurantes/galeria/Library-Lounge-Hotel-Faena-Universe-3254/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 10 a 2",
+      "  Lunes 10 a 2 ",
+      " Martes 10 a 2 ",
+      " Miercoles 10 a 2 ",
+      " Jueves 10 a 2 ",
+      " Viernes 10 a 2 ",
+      " Sabado 10 a 2 ",
+      " Domingo 10 a 2 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/2/5/4/photo_3254_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/2/5/4/photo_3254_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/2/5/4/photo_3254_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/2/5/4/photo_3254_1.jpg"
+   ],
+   "lugar": "/restaurantes/Puerto-Madero-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "The Library Lounge & Poolbar (Faena Hotel)",
+   "precio": "$122alm / $201cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "19"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "17"
+      }
+   ],
+   "site": []
+}
