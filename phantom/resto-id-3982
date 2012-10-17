@@ -1,0 +1,181 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/5to-Bar-Quickmeals-3982"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/5to-Bar-Quickmeals-3982"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/5to-Bar-Quickmeals-3982/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Show",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Mediterranea-4",
+      "/restaurantes/De-autor-4"
+   ],
+   "contacto": "Tel:4775-3099•",
+   "contactos": [
+      "mailto:bar.quinto@yahoo.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Tapas mediterráneas."
+   ],
+   "direccion": "El Salvador 5783, Palermo > Norte JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/5to-Bar-Quickmeals-3982/1",
+      "/restaurantes/galeria/5to-Bar-Quickmeals-3982/2",
+      "/restaurantes/galeria/5to-Bar-Quickmeals-3982/3",
+      "/restaurantes/galeria/5to-Bar-Quickmeals-3982/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 15:30 a cierre",
+      "  Martes 15:30 a cierre ",
+      " Miercoles 15:30 a cierre ",
+      " Jueves 15:30 a cierre ",
+      " Viernes 15:30 a cierre ",
+      " Sabado 15:30 a cierre ",
+      " Domingo 15:30 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/9/8/2/photo_3982_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/9/8/2/photo_3982_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/9/8/2/photo_3982_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/9/8/2/photo_3982_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [],
+   "nombre": "5to Bar & Quickmeals",
+   "precio": "$70cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": []
+}

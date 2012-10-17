@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Ribera-Sur-2755"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Los-Discos-7247"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Ribera-Sur-2755"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Los-Discos-7247"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,28 +11,12 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/4"}]
-//go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/4"
-}
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/3"}]
-//go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/3"
-}
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/2"}]
-//go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/2"
-}
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/1"}]
-//go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Ribera-Sur-2755/1"
-}
 pages -> []
 resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "4"
+         "valor": "0"
       },
       {
          "nombre": "Escuchar música",
@@ -116,49 +100,44 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
+      "Reservas",
       "Delivery",
+      "Area fumador",
+      "Aire acondicionado",
       "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Autoctona-4"
+      "/restaurantes/Parrilla-4",
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:4302-2443/7997",
+   "contacto": "Tel:0221-424-9160",
    "contactos": [],
    "desc": [
-      "Especialidades:Canelones rellenos.Postre: flan casero."
+      "Especialidades:Parrilla y pastas."
    ],
-   "direccion": "Suarez 699, La Boca, C.A.B.A. ",
-   "gallery": [
-      "/restaurantes/galeria/Ribera-Sur-2755/1",
-      "/restaurantes/galeria/Ribera-Sur-2755/2",
-      "/restaurantes/galeria/Ribera-Sur-2755/3",
-      "/restaurantes/galeria/Ribera-Sur-2755/4"
-   ],
+   "direccion": "Calle Nº 48 441 e/ 4 y 5, Zona Sur > La Plata, La Plata ",
+   "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 08:00 a cierre",
-      "  Lunes 08:00 a cierre ",
-      " Martes 08:00 a cierre ",
-      " Miercoles 08:00 a cierre ",
-      " Jueves 08:00 a cierre ",
-      " Viernes 08:00 a cierre ",
-      " Sabado 08:00 a cierre ",
-      " Domingo 08:00 a cierre "
+      " Hoy 12 a 15 y de 20:30 a cierre",
+      "  Martes 12 a 15 y de 20:30 a cierre ",
+      " Miercoles 12 a 15 y de 20:30 a cierre ",
+      " Jueves 12 a 15 y de 20:30 a cierre ",
+      " Viernes 12 a 15 y de 20:30 a cierre ",
+      " Sabado 12 a 15 y de 20:30 a cierre ",
+      " Domingo 12 a 15 y de 20:30 a cierre "
    ],
-   "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/7/5/5/photo_2755_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/7/5/5/photo_2755_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/7/5/5/photo_2755_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/7/5/5/photo_2755_1.jpg"
-   ],
-   "lugar": "/restaurantes/La-Boca-3",
+   "images": [],
+   "lugar": "/restaurantes/Zona-Sur-3",
    "mediosPago": [
-      "Luncheon Ticket",
-      "Ticket restaurant",
-      "Ticket Total"
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
    ],
-   "nombre": "Ribera Sur",
-   "precio": "$31alm / $35cena",
+   "nombre": "Los Discos",
+   "precio": "$124alm / $124cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -166,7 +145,7 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "18"
+         "valor": "17"
       },
       {
          "nombre": "Ambiente:",
@@ -174,7 +153,7 @@ resto = {
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": ""
+         "valor": "5"
       }
    ],
    "site": []
