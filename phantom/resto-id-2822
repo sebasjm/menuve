@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Roque-10476"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Lo-de-Carlitos-El-Sabor-Original-2822"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Roque-10476"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Lo-de-Carlitos-El-Sabor-Original-2822"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -16,38 +16,38 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "35"
-      },
-      {
-         "nombre": "Comer mucho",
-         "valor": "13"
-      },
-      {
-         "nombre": "Ir con la familia",
-         "valor": "21"
+         "valor": "8"
       },
       {
          "nombre": "Festejar un cumpleaños",
-         "valor": "2"
+         "valor": "1"
       },
       {
          "nombre": "Ir en pareja",
-         "valor": "16"
+         "valor": "7"
       },
       {
-         "nombre": "Escuchar música",
+         "nombre": "Ir con la familia",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Salida de amigas",
          "valor": "1"
       },
       {
          "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
          "valor": "0"
       },
       {
-         "nombre": "Comer con buenos tragos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Llevar extranjeros",
+         "nombre": "Comer sin ser visto",
          "valor": "0"
       },
       {
@@ -59,15 +59,15 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Salida de amigas",
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
          "valor": "0"
       },
       {
-         "nombre": "Comer bien gastando poco",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer sin ser visto",
+         "nombre": "Comer mucho",
          "valor": "0"
       },
       {
@@ -79,11 +79,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Ir con chicos",
+         "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Comer tarde",
+         "nombre": "Llevar extranjeros",
          "valor": "0"
       },
       {
@@ -99,40 +99,57 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [],
-   "cocina": [
-      "/restaurantes/Italiana-4"
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Area fumador",
+      "Aire acondicionado"
    ],
-   "contacto": "Tel:4924-6505",
+   "cocina": [
+      "/restaurantes/Casera-4"
+   ],
+   "contacto": "Tel:4458-0951",
    "contactos": [],
-   "desc": [],
-   "direccion": "inclan 3999, Boedo, C.A.B.A. ",
+   "desc": [
+      "Especialidades:Principal: panqueque de pollo, queso, cebolla, tomate, huevo y panceta; panqueque con queso gruyere, jamón crudo, aceitunas negras, tomate y orégano."
+   ],
+   "direccion": "Santa Rosa y Sarmiento, Zona Oeste > Castelar, Castelar ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy "
+      " Hoy 11 a cierre",
+      "  Lunes 11 a cierre ",
+      " Martes 11 a cierre ",
+      " Miercoles 11 a cierre ",
+      " Jueves 11 a cierre ",
+      " Viernes 11 a cierre ",
+      " Sabado 11 a cierre ",
+      " Domingo 11 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Boedo-3",
-   "mediosPago": [],
-   "nombre": "Roque",
-   "precio": "",
+   "lugar": "/restaurantes/Zona-Oeste-3",
+   "mediosPago": [
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Lo de Carlitos - El sabor original",
+   "precio": "$64alm / $64cena",
    "puntos": [
       {
          "nombre": "Comida:",
-         "valor": "21"
+         "valor": "18"
       },
       {
          "nombre": "Servicio:",
-         "valor": "15"
+         "valor": "11"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "13"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "12"
+         "valor": ""
       }
    ],
    "site": []
