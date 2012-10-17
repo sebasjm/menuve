@@ -1,0 +1,186 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Dulce-Buenos-Aires-6382"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Dulce-Buenos-Aires-6382"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Dulce-Buenos-Aires-6382/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "21"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "10"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "17"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "15"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Deli-4"
+   ],
+   "contacto": "Tel:4554-3011•",
+   "contactos": [
+      "mailto:info@dulcebuenosaires.com"
+   ],
+   "desc": [
+      "Especialidades:Plato principal: Clásico de pollo en baguette multicereal (pollo macerado en hierbas, con cebollas caramelizadas, albahaca y un suave dressing agridulce), cheescake pesto, ensalada de vegetales grillados en vinagreta de almendras, sopa de batatas.Postre: Budín de zanahoria con frozting, brownies blancos con dulce de leche y alfajor de almendras"
+   ],
+   "direccion": "Gral. Enrique Martinez 1402, Belgrano > Belgrano R, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Dulce-Buenos-Aires-6382/1",
+      "/restaurantes/galeria/Dulce-Buenos-Aires-6382/2",
+      "/restaurantes/galeria/Dulce-Buenos-Aires-6382/3",
+      "/restaurantes/galeria/Dulce-Buenos-Aires-6382/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8:30 a 21:30",
+      "  Lunes 8:30 a 21:30 ",
+      " Martes 8:30 a 21:30 ",
+      " Miercoles 8:30 a 21:30 ",
+      " Jueves 8:30 a 24 ",
+      " Viernes 8:30 a 24 ",
+      " Sabado 9 a 24 ",
+      " Domingo 9 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/3/8/2/photo_6382_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/3/8/2/photo_6382_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/3/8/2/photo_6382_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/3/8/2/photo_6382_1.jpg"
+   ],
+   "lugar": "/restaurantes/Belgrano-3",
+   "mediosPago": [
+      "Electrón",
+      "Maestro"
+   ],
+   "nombre": "Dulce Buenos Aires",
+   "precio": "$55alm / $58cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "1"
+      }
+   ],
+   "site": []
+}
