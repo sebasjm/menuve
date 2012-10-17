@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Los-pinguinos-6778"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/American-Bar-5117"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Los-pinguinos-6778"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/American-Bar-5117"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -15,27 +15,27 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir en pareja",
-         "valor": "24"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "1"
-      },
-      {
          "nombre": "Ir con amigos",
-         "valor": "7"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "1"
-      },
-      {
-         "nombre": "Ir con chicos",
-         "valor": "2"
+         "valor": "0"
       },
       {
          "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
@@ -100,54 +100,60 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento",
-      "Area fumador",
+      "Acceso discapacitados",
+      "Delivery",
       "Aire acondicionado",
-      "Wifi"
+      "Barra de tragos",
+      "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Pescados-y-Mariscos-4"
+      "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:0221-4240818",
-   "contactos": [],
-   "desc": [
-      "Especialidades:Pescados a la parrilla. Paella, pastas caseras. pescados de río y de mar."
+   "contacto": "Tel:4331-4825•",
+   "contactos": [
+      "mailto:americanbar@gmail.com"
    ],
-   "direccion": "Celle N 65 473 Club Gutenberg, Zona Sur > La Plata, La Plata ",
+   "desc": [],
+   "direccion": "Av. Roque Saenz Peña 632, Centro > Microcentro, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 20:30 a cierre",
-      "  Martes 20:30 a cierre ",
-      " Miercoles 20:30 a cierre ",
-      " Jueves 20:30 a cierre ",
-      " Viernes 20:30 a cierre ",
-      " Sabado 20:30 a cierre ",
-      " Domingo 12:00 a 16:00 "
+      " Hoy 08:00 a 19:00",
+      "  Lunes 08:00 a 19:00 ",
+      " Martes 08:00 a 19:00 ",
+      " Miercoles 08:00 a 19:00 ",
+      " Jueves 08:00 a 19:00 ",
+      " Viernes 08:00 a 19:00 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Sur-3",
-   "mediosPago": [],
-   "nombre": "Los pinguinos",
-   "precio": "$29alm / $77cena",
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "American Bar",
+   "precio": "$69alm",
    "puntos": [
       {
          "nombre": "Comida:",
-         "valor": "19"
+         "valor": "18"
       },
       {
          "nombre": "Servicio:",
-         "valor": "16"
+         "valor": "15"
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "15"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "10"
+         "valor": ""
       }
    ],
    "site": []

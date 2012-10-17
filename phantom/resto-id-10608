@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Los-pinguinos-6778"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Mandiyu-10608"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Los-pinguinos-6778"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Mandiyu-10608"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,31 +11,50 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mandiyu-10608"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mandiyu-10608"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mandiyu-10608:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
 pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir en pareja",
-         "valor": "24"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "1"
-      },
-      {
          "nombre": "Ir con amigos",
-         "valor": "7"
-      },
-      {
-         "nombre": "Salida de amigas",
          "valor": "1"
-      },
-      {
-         "nombre": "Ir con chicos",
-         "valor": "2"
       },
       {
          "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
@@ -101,41 +120,42 @@ resto = {
    ],
    "caracteristicas": [
       "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento",
-      "Area fumador",
-      "Aire acondicionado",
-      "Wifi"
+      "Delivery",
+      "Barra de tragos"
    ],
    "cocina": [
-      "/restaurantes/Pescados-y-Mariscos-4"
+      "/restaurantes/Variada-4",
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:0221-4240818",
-   "contactos": [],
-   "desc": [
-      "Especialidades:Pescados a la parrilla. Paella, pastas caseras. pescados de río y de mar."
+   "contacto": "Tel:4304-7305•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Mandiyu-10608"
    ],
-   "direccion": "Celle N 65 473 Club Gutenberg, Zona Sur > La Plata, La Plata ",
+   "desc": [],
+   "direccion": "San Juan Av. 1499, Centro > Monserrat, C.A.B.A. ",
    "gallery": [],
-   "homepage": [],
+   "homepage": [
+      "http://www.pizzeriasmandiyu.com.ar"
+   ],
    "horarios": [
-      " Hoy 20:30 a cierre",
-      "  Martes 20:30 a cierre ",
-      " Miercoles 20:30 a cierre ",
-      " Jueves 20:30 a cierre ",
-      " Viernes 20:30 a cierre ",
-      " Sabado 20:30 a cierre ",
-      " Domingo 12:00 a 16:00 "
+      " Hoy 8 a 1",
+      "  Lunes 8 a 1 ",
+      " Martes 8 a 1 ",
+      " Miercoles 8 a 1 ",
+      " Jueves 8 a 1 ",
+      " Viernes 8 a 1 ",
+      " Sabado 8 a 1 ",
+      " Domingo 11 a 1 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Sur-3",
+   "lugar": "/restaurantes/Centro-3",
    "mediosPago": [],
-   "nombre": "Los pinguinos",
-   "precio": "$29alm / $77cena",
+   "nombre": "Mandiyu",
+   "precio": "$35cena",
    "puntos": [
       {
          "nombre": "Comida:",
-         "valor": "19"
+         "valor": "18"
       },
       {
          "nombre": "Servicio:",
@@ -143,12 +163,14 @@ resto = {
       },
       {
          "nombre": "Ambiente:",
-         "valor": "16"
+         "valor": "14"
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "10"
+         "valor": ""
       }
    ],
-   "site": []
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Mandiyu-10608"
+   ]
 }

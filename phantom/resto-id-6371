@@ -1,0 +1,6 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Ricks-6371"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Ricks-6371"
+}
+SyntaxError: Parse error
+
