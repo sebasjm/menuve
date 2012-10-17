@@ -1,0 +1,33 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Bocatango-2611"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Bocatango-2611"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bocatango-2611/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"
+}
