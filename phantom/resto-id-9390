@@ -1,0 +1,211 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Pani-9390"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Pani-9390"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:103 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Pani-9390/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Pani-9390:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Desayunar",
+         "valor": "60"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "27"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "44"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "23"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "42"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "3"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "2"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Casera-4",
+      "/restaurantes/Deli-4"
+   ],
+   "contacto": "Tel:4772-6420/4899-2243•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Pani-9390",
+      "mailto:deli@pani.com.ar"
+   ],
+   "desc": [
+      "Chef:Lucas Curcio"
+   ],
+   "direccion": "Nicaragua 6044, Palermo > Norte JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Pani-9390/1",
+      "/restaurantes/galeria/Pani-9390/2",
+      "/restaurantes/galeria/Pani-9390/3",
+      "/restaurantes/galeria/Pani-9390/4"
+   ],
+   "homepage": [
+      "http://www.pani.com.ar"
+   ],
+   "horarios": [
+      " Hoy ",
+      "  Lunes 8:30 a 21:30 ",
+      " Miercoles 8:30 a 21:30 ",
+      " Jueves 8:30 a 21:30 ",
+      " Viernes 8:30 a 21:30 ",
+      " Sabado 9 a 21:30 ",
+      " Domingo 9 a 21:30 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/9/3/9/0/photo_9390_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/9/3/9/0/photo_9390_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/9/3/9/0/photo_9390_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/9/3/9/0/photo_9390_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Pani",
+   "precio": "$52alm / $52cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "3"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Pani-9390"
+   ]
+}

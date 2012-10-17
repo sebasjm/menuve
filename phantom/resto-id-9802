@@ -40,3 +40,167 @@ ReferenceError: Can't find variable: jQuery
 ReferenceError: Can't find variable: $
 
   http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Arepera-Buenos-Aires-9802:4
+Refused to display document because display forbidden by X-Frame-Options.
+
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "104"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "37"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "80"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "19"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "40"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Venezolana-4"
+   ],
+   "contacto": "Tel:156463-1229•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Arepera-Buenos-Aires-9802",
+      "mailto:areperabuenosaires@gmail.com"
+   ],
+   "desc": [
+      "Especialidades:Arepas: desde las más típicas y populares de Venezuela como la \"Reina Pepiada\", de pollo, palta y mayonesa; o la emblemática de \"pabellón criollo\" de carne desmechada, caraotas negras y plátano frito; o \"la mejor de 2 mundos\", que fusiona la bondiolita argentina con la arepa.Picadas argentinas.Variedad de cervezas. Batidos naturales de fruta de estación."
+   ],
+   "direccion": "Av. Estado de Israel 4316, Almagro, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Arepera-Buenos-Aires-9802/1",
+      "/restaurantes/galeria/Arepera-Buenos-Aires-9802/2",
+      "/restaurantes/galeria/Arepera-Buenos-Aires-9802/3",
+      "/restaurantes/galeria/Arepera-Buenos-Aires-9802/4"
+   ],
+   "homepage": [
+      "http:////es-es.facebook.com/pages/Arepera-Buenos-Aires/152303921486176"
+   ],
+   "horarios": [
+      " Hoy 19 a cierre",
+      "  Martes 19 a cierre ",
+      " Miercoles 19 a cierre ",
+      " Jueves 19 a cierre ",
+      " Viernes 20 a cierre ",
+      " Sabado 20 a cierre ",
+      " Domingo 19 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/9/8/0/2/photo_9802_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/9/8/0/2/photo_9802_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/9/8/0/2/photo_9802_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/9/8/0/2/photo_9802_1.jpg"
+   ],
+   "lugar": "/restaurantes/Almagro-3",
+   "mediosPago": [],
+   "nombre": "Arepera Buenos Aires",
+   "precio": "$74cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "10"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "7"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Arepera-Buenos-Aires-9802"
+   ]
+}
