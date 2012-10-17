@@ -101,6 +101,7 @@ function next() {
     var the_page = pages.pop();
     if (!the_page) {
         console.log("resto = " + JSON.stringify(resto,undefined,3));
+	client.release();
         phantom.exit();
         return;
     }

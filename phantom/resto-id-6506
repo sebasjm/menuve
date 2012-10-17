@@ -1,0 +1,194 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Estanio-1880-6506"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Estanio-1880-6506"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Estanio-1880-6506"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Estanio-1880-6506"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Estanio-1880-6506:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Salida de amigas",
+         "valor": "21"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "12"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "4"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "3"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "2"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "2"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "2"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Internacional-4",
+      "/restaurantes/Parrilla-4"
+   ],
+   "contacto": "Tel:4301-1984/3535-1015•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/El-Estanio-1880-6506",
+      "mailto:contacto@elestanio1880.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Sorrentinos de langostino y kanikama . aceitunas rellenas y picada \"el estaño 1880\""
+   ],
+   "direccion": "Aristobulo del Valle 1100, La Boca ",
+   "gallery": [],
+   "homepage": [
+      "http://www.elestanio1880.com"
+   ],
+   "horarios": [
+      " Hoy 10 a 18",
+      "  Lunes 10 a 18 ",
+      " Martes 10 a 18 ",
+      " Miercoles 10 a 18 ",
+      " Jueves 10 a 18 ",
+      " Viernes 10 a 24 ",
+      " Sabado 10 a 24 ",
+      " Domingo 10 a 24 "
+   ],
+   "images": [],
+   "lugar": "/restaurantes/La-Boca-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Maestro"
+   ],
+   "nombre": "El Estaño 1880",
+   "precio": "$73alm / $122cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "25"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "25"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "16"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/El-Estanio-1880-6506"
+   ]
+}

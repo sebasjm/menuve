@@ -11,6 +11,97 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.guiaoleo.com.ar/restaurantes/Puerta-Uno-Bar-7074 from frame with URL http://ads.e-planning.net/eat/5/a973/b_FICHA_DE_RESTAURANTES/4_300x250_1?pb=56045e32e35d27de&o=f&rnd=0.6459230978507549&fi=26e3a40d2a3368e2&i=2b63bc0f39e8a344&fr=do. Domains, protocols and ports must match.
+
 pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Puerta-Uno-Bar-7074"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Puerta-Uno-Bar-7074/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Puerta-Uno-Bar-7074/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Puerta-Uno-Bar-7074/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Puerta-Uno-Bar-7074/4"}]
 //go for page {
    "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Puerta-Uno-Bar-7074/4"
