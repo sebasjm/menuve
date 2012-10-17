@@ -1,0 +1,199 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Piatti-2927"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Piatti-2927"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piatti-2927/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con chicos",
+         "valor": "13"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "3"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Juegos para chicos",
+      "Delivery",
+      "Area fumador",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4794-0066/77",
+   "contactos": [],
+   "desc": [
+      "Chef:Daniel Urán Magallanes",
+      "Especialidades:Parrilla"
+   ],
+   "direccion": "Av Maipú 3001, Zona Norte > Olivos, Partido de Vte. Lopez ",
+   "gallery": [
+      "/restaurantes/galeria/Piatti-2927/1",
+      "/restaurantes/galeria/Piatti-2927/2",
+      "/restaurantes/galeria/Piatti-2927/3",
+      "/restaurantes/galeria/Piatti-2927/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 07:00 a 02:00",
+      "  Lunes 07:00 a 02:00 ",
+      " Martes 07:00 a 02:00 ",
+      " Miercoles 07:00 a 02:00 ",
+      " Jueves 07:00 a 02:00 ",
+      " Viernes 07:00 a 02:00 ",
+      " Sabado 07:00 a 02:00 ",
+      " Domingo 07:00 a 02:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/9/2/7/photo_2927_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/9/2/7/photo_2927_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/9/2/7/photo_2927_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/9/2/7/photo_2927_1.jpg"
+   ],
+   "lugar": "/restaurantes/Zona-Norte-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Cabal",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant"
+   ],
+   "nombre": "Piatti",
+   "precio": "$37alm / $37cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "3"
+      }
+   ],
+   "site": []
+}

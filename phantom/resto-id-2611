@@ -31,3 +31,177 @@ pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClav
 //go for page {
    "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611"
 }
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Bocatango-2611:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4"
+   ],
+   "contacto": "Tel:4302-0808•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Bocatango-2611",
+      "mailto:info@bocatango.com.ar"
+   ],
+   "desc": [],
+   "direccion": "Brandsen 923, La Boca, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Bocatango-2611/1",
+      "/restaurantes/galeria/Bocatango-2611/2",
+      "/restaurantes/galeria/Bocatango-2611/3",
+      "/restaurantes/galeria/Bocatango-2611/4"
+   ],
+   "homepage": [
+      "http://www.bocatango.com.ar"
+   ],
+   "horarios": [
+      " Hoy 20:00 a cierre",
+      "  Lunes 20:00 a cierre ",
+      " Martes 20:00 a cierre ",
+      " Miercoles 20:00 a cierre ",
+      " Jueves 20:00 a cierre ",
+      " Viernes 20:00 a cierre ",
+      " Sabado 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/6/1/1/photo_2611_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/6/1/1/photo_2611_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/6/1/1/photo_2611_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/6/1/1/photo_2611_1.jpg"
+   ],
+   "lugar": "/restaurantes/La-Boca-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Mastercard"
+   ],
+   "nombre": "Bocatango",
+   "precio": "$192cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Bocatango-2611"
+   ]
+}
