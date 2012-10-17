@@ -1,0 +1,13 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Viejo-Norton-3909"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Viejo-Norton-3909"
+}
+Se detectó un error, el espacio de banner 1_728X90_Variable es inexistente. Cargando el banner por defecto...
+TypeError: 'undefined' is not an object (evaluating 'restoDatos.find(".restoDatosTelefono").contents()[0].data')
+
+  phantomjs://webpage.evaluate():10
+  phantomjs://webpage.evaluate():54
+  phantomjs://webpage.evaluate():54
+ERROR - 'null' is not an object (evaluating 'resto.site')
+pages -> []
+resto = null
