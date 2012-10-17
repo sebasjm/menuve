@@ -1,0 +1,183 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Congo-Bar-8268"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Congo-Bar-8268"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Congo-Bar-8268/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "9"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Pizza-4",
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4833-5857•",
+   "contactos": [
+      "mailto:congobar@fibertel.com.ar"
+   ],
+   "desc": [
+      "Chef:Tomas Peñafiel",
+      "Especialidades:Ojo de bife con papas rústicas y salsa criolla. Ñoquis de rúcula con salsa de puerros y cebollas asadas, brocoli, tomate cherry y almendras. Bondiola braseada con papas rosti y salsa de frutos rojos. Salmón rosado en costra de sésamo, con wok de vegetales y teriyaki. Pastel de cordero al horno de barro."
+   ],
+   "direccion": "Honduras 5329, Palermo > Sur JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Congo-Bar-8268/1",
+      "/restaurantes/galeria/Congo-Bar-8268/2",
+      "/restaurantes/galeria/Congo-Bar-8268/3",
+      "/restaurantes/galeria/Congo-Bar-8268/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 20 a 3",
+      "  Miercoles 20 a 3 ",
+      " Jueves 20 a 4 ",
+      " Viernes 20 a 5 ",
+      " Sabado 20 a 5 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/8/2/6/8/photo_8268_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/8/2/6/8/photo_8268_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/8/2/6/8/photo_8268_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/8/2/6/8/photo_8268_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [],
+   "nombre": "Congo Bar",
+   "precio": "$81cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "19"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "25"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "11"
+      }
+   ],
+   "site": []
+}
