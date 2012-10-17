@@ -1,0 +1,177 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Fortin-3257"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Fortin-3257"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fortin-3257/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "45"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "4"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "10"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "5"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Area fumador"
+   ],
+   "cocina": [
+      "/restaurantes/Pizza-4"
+   ],
+   "contacto": "Tel:45668279",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Variedad de pizza y faina."
+   ],
+   "direccion": "Av. A. Jonte Esq. Av. Lope de Vega, Liniers-Mataderos, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/El-Fortin-3257/1",
+      "/restaurantes/galeria/El-Fortin-3257/2",
+      "/restaurantes/galeria/El-Fortin-3257/3",
+      "/restaurantes/galeria/El-Fortin-3257/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/2/5/7/photo_3257_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/2/5/7/photo_3257_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/2/5/7/photo_3257_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/2/5/7/photo_3257_1.jpg"
+   ],
+   "lugar": "/restaurantes/Liniers-Mataderos-3",
+   "mediosPago": [],
+   "nombre": "El Fortín",
+   "precio": "$46alm / $50cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "2"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "2"
+      }
+   ],
+   "site": []
+}
