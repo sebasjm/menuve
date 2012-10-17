@@ -40,3 +40,172 @@ ReferenceError: Can't find variable: jQuery
 ReferenceError: Can't find variable: $
 
   http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Mangiata-758:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "56"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "48"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "29"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Estacionamiento",
+      "Juegos para chicos",
+      "Aire acondicionado",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Italiana-4"
+   ],
+   "contacto": "Tel:4982-6843/4•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Mangiata-758",
+      "mailto:info@mangiata.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Pastas y pan casero.Parrilla.PescadosPostres: Mangiatta."
+   ],
+   "direccion": "Angel Gallardo, Av. 1008, Caballito, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Mangiata-758/1",
+      "/restaurantes/galeria/Mangiata-758/2",
+      "/restaurantes/galeria/Mangiata-758/3",
+      "/restaurantes/galeria/Mangiata-758/4"
+   ],
+   "homepage": [
+      "http://www.organizacionoja.com.ar"
+   ],
+   "horarios": [
+      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
+      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
+      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
+      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
+      " Domingo 12:00 a 16:00 y de 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/5/8/photo_758_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/5/8/photo_758_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/5/8/photo_758_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/5/8/photo_758_1.jpg"
+   ],
+   "lugar": "/restaurantes/Caballito-3",
+   "mediosPago": [
+      "Electrón",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Mangiata",
+   "precio": "$72alm / $101cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "18"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "9"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Mangiata-758"
+   ]
+}
