@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-piqui-piqui-resto-9728"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Primum-11538"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/La-piqui-piqui-resto-9728"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Primum-11538"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,16 +14,16 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-piqui-piqui-resto-9728"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Primum-11538"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-piqui-piqui-resto-9728"
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Primum-11538"
 }
 ReferenceError: Can't find variable: jQuery
 
   http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
 ReferenceError: Can't find variable: $
 
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/La-piqui-piqui-resto-9728:4
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Primum-11538:4
 TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
 
   http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
@@ -35,70 +35,38 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir en pareja",
-         "valor": "5"
+         "valor": "34"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "17"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "18"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "16"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "17"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "14"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "14"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Ir con amigos",
-         "valor": "1"
-      },
-      {
-         "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
-      },
-      {
-         "nombre": "Ir con chicos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer con buenos tragos",
-         "valor": "0"
-      },
-      {
-         "nombre": "Llevar extranjeros",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer mucho",
-         "valor": "0"
-      },
-      {
-         "nombre": "Ir con la familia",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer solo",
-         "valor": "0"
-      },
-      {
          "nombre": "Comer bien gastando poco",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un cumpleaños",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer rápido",
-         "valor": "0"
-      },
-      {
-         "nombre": "Festejar un aniversario",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer al aire libre",
-         "valor": "0"
-      },
-      {
-         "nombre": "Comer tarde",
          "valor": "0"
       },
       {
@@ -110,48 +78,94 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Reunión de negocios",
+         "nombre": "Salida de amigas",
+         "valor": "7"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
          "valor": "0"
       },
       {
          "nombre": "Comer sano",
+         "valor": "6"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
          "valor": "0"
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
       "Reservas",
-      "Show",
-      "Mesas al aire libre",
       "Area fumador",
+      "Aire acondicionado",
+      "Menú ejecutivo",
       "Descorche",
       "Wifi",
       "Comida para celíacos"
    ],
    "cocina": [
-      "/restaurantes/Casera-4"
+      "/restaurantes/De-autor-4"
    ],
-   "contacto": "Tel:4732-2330•",
+   "contacto": "Tel:4732-0870•",
    "contactos": [
-      "/restaurante/urlredirect/nombreClave/La-piqui-piqui-resto-9728",
-      "mailto:resto@lapiquipiqui.com.ar"
+      "/restaurante/urlredirect/nombreClave/Primum-11538",
+      "mailto:primum@primumrestaurant.com.ar"
    ],
-   "desc": [],
-   "direccion": "Rivadavia 608, Zona Norte > San Isidro, San Isidro ",
+   "desc": [
+      "Chef:Martín Lukesch",
+      "Especialidades:Entrada: mollejas de corazón asadas con remolachas encurtidas y emulsión de maíz dulce y limón sutil\nPrincipal: entraña de novillo con pan brioche, queso brie y pimientos calahorras asados con hojas de rúcula.\nPostre: palito helado de Baileys bañado en chocolate con toffee mentolado ya arenado de café"
+   ],
+   "direccion": "25 de Mayo 272, Zona Norte > San Isidro, San Isidro ",
    "gallery": [],
    "homepage": [
-      "http://www.lapiquipiqui.com.ar"
+      "http:////www.primumrestaurant.com.ar/"
    ],
    "horarios": [
-      " Hoy ",
-      "  Jueves 21 a cierre ",
-      " Viernes 21 a cierre ",
-      " Sabado 21 a cierre "
+      " Hoy 9 a 15",
+      "  Lunes 9 a 15 ",
+      " Martes 9 a 15 ",
+      " Miercoles 9 a 15 ",
+      " Jueves 9 a 15 y de 20:30 a 24 ",
+      " Viernes 9 a 15 y de 20:30 a 24 ",
+      " Sabado 20:30 a 24 "
    ],
    "images": [],
    "lugar": "/restaurantes/Zona-Norte-3",
-   "mediosPago": [],
-   "nombre": "La piqui piqui restó",
-   "precio": "$95cena",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal"
+   ],
+   "nombre": "Primum",
+   "precio": "$161cena",
    "puntos": [
       {
          "nombre": "Comida:",
@@ -159,7 +173,7 @@ resto = {
       },
       {
          "nombre": "Servicio:",
-         "valor": "19"
+         "valor": "22"
       },
       {
          "nombre": "Ambiente:",
@@ -167,10 +181,10 @@ resto = {
       },
       {
          "nombre": "Carta de vinos:",
-         "valor": "12"
+         "valor": "17"
       }
    ],
    "site": [
-      "/restaurante/urlredirect/nombreClave/La-piqui-piqui-resto-9728"
+      "/restaurante/urlredirect/nombreClave/Primum-11538"
    ]
 }
