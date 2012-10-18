@@ -1,0 +1,192 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Sattva-3243"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Sattva-3243"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Sattva-3243/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Salida de amigas",
+         "valor": "15"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "12"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "8"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Natural-4"
+   ],
+   "contacto": "Tel:4374-5125•",
+   "contactos": [
+      "mailto:sattva-veg@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Especialidades en platos equilibrados con variedad de cereales, tofu orgánico y seitan casero. Variedad de pastas: arroz, trigo sarraceno, harina integral y canelones. Panificación y reposteria integral (apto para diabéticos, hipertensos y celíacos). Vinos orgánicos y cervezas artesanales."
+   ],
+   "direccion": "Montevideo 446, Centro > Tribunales, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Sattva-3243/1",
+      "/restaurantes/galeria/Sattva-3243/2",
+      "/restaurantes/galeria/Sattva-3243/3",
+      "/restaurantes/galeria/Sattva-3243/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 09:00 a 01:00",
+      "  Lunes 09:00 a 18:30 ",
+      " Martes 09:00 a 01:00 ",
+      " Miercoles 09:00 a 01:00 ",
+      " Jueves 09:00 a 01:00 ",
+      " Viernes 09:00 a 01:00 ",
+      " Sabado 09:00 a 01:00 ",
+      " Domingo 09:00 a 01:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/2/4/3/photo_3243_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/2/4/3/photo_3243_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/2/4/3/photo_3243_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/2/4/3/photo_3243_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "Visa",
+      "Mastercard",
+      "Cabal",
+      "Luncheon Ticket",
+      "Ticket restaurant"
+   ],
+   "nombre": "Sattva",
+   "precio": "$50alm / $64cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "12"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "11"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "10"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "6"
+      }
+   ],
+   "site": []
+}
