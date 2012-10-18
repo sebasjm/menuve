@@ -1,0 +1,215 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Meridiano-58-1125"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Meridiano-58-1125"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Meridiano-58-1125/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Meridiano-58-1125:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "17"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "2"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "8"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "1"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Portenia-4",
+      "/restaurantes/Latinoamericana-4"
+   ],
+   "contacto": "Tel:4833-3443•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Meridiano-58-1125",
+      "mailto:info@meridiano58restobar.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Principal: Pechuga crocante: pechuga de pollo apanada en cereal y sésamo sobre salsa de naranjas al tequila, con trilogía de puré de papas saborizado.\nPostre: Semifreddo de maracuyá."
+   ],
+   "direccion": "Jorge L. Borges 1689, Palermo > Sur JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Meridiano-58-1125/1",
+      "/restaurantes/galeria/Meridiano-58-1125/2",
+      "/restaurantes/galeria/Meridiano-58-1125/3",
+      "/restaurantes/galeria/Meridiano-58-1125/4"
+   ],
+   "homepage": [
+      "http://www.meridiano58restobar.com.ar"
+   ],
+   "horarios": [
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/1/2/5/photo_1125_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/1/2/5/photo_1125_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/1/2/5/photo_1125_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/1/2/5/photo_1125_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Meridiano 58",
+   "precio": "$82alm / $95cena20%\tdescuento Oleoobtener cupón de descuentoDescuentos en almuerzo y cena todos los días.",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "11"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "9"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Meridiano-58-1125"
+   ]
+}
