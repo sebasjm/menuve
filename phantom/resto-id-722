@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Tasca-de-German-722"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Tasca-de-German-722"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -104,33 +104,35 @@ resto = {
    ],
    "caracteristicas": [
       "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento"
+      "Aire acondicionado",
+      "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Internacional-4"
+      "/restaurantes/Espaniola-4"
    ],
-   "contacto": "Tel:4831-1440•",
-   "contactos": [
-      "mailto:renata@hotmail.com"
-   ],
-   "desc": [
-      "Especialidades:Se expone la obra de Renata Schussheim"
-   ],
-   "direccion": "Malabia 1835, Palermo > Sur JB Justo, C.A.B.A. ",
+   "contacto": "Tel:4804-2943/8939",
+   "contactos": [],
+   "desc": [],
+   "direccion": "Roberto M. Ortíz 1863, Recoleta, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 20:00 a cierre",
-      "  Miercoles 20:00 a cierre ",
-      " Jueves 20:00 a cierre ",
-      " Viernes 20:00 a cierre ",
-      " Sabado 20:00 a cierre "
+      " Hoy 08:00 a 19:00",
+      "  Lunes 08:00 a 19:00 ",
+      " Martes 08:00 a 19:00 ",
+      " Miercoles 08:00 a 19:00 ",
+      " Jueves 08:00 a 19:00 ",
+      " Viernes 08:00 a 19:00 ",
+      " Sabado 08:00 a 19:00 ",
+      " Domingo 08:00 a 19:00 "
    ],
    "images": [],
-   "lugar": "/restaurantes/Palermo-3",
-   "mediosPago": [],
-   "nombre": "Espacio Renata",
+   "lugar": "/restaurantes/Recoleta-3",
+   "mediosPago": [
+      "American Express",
+      "Visa"
+   ],
+   "nombre": "La Tasca de Germán",
    "precio": "",
    "puntos": [],
    "site": []

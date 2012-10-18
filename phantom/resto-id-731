@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Vizzio-731"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Vizzio-731"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -19,7 +19,7 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
@@ -27,7 +27,7 @@ resto = {
       },
       {
          "nombre": "Ir en pareja",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Salida de amigas",
@@ -102,35 +102,30 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento"
-   ],
+   "caracteristicas": [],
    "cocina": [
       "/restaurantes/Internacional-4"
    ],
-   "contacto": "Tel:4831-1440•",
-   "contactos": [
-      "mailto:renata@hotmail.com"
-   ],
-   "desc": [
-      "Especialidades:Se expone la obra de Renata Schussheim"
-   ],
-   "direccion": "Malabia 1835, Palermo > Sur JB Justo, C.A.B.A. ",
+   "contacto": "Tel:4803-1657",
+   "contactos": [],
+   "desc": [],
+   "direccion": "Billinghurst 2521, Barrio Norte, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
       " Hoy 20:00 a cierre",
-      "  Miercoles 20:00 a cierre ",
+      "  Lunes 20:00 a cierre ",
+      " Martes 20:00 a cierre ",
+      " Miercoles 20:00 a cierre ",
       " Jueves 20:00 a cierre ",
       " Viernes 20:00 a cierre ",
-      " Sabado 20:00 a cierre "
+      " Sabado 20:00 a cierre ",
+      " Domingo 20:00 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Palermo-3",
+   "lugar": "/restaurantes/Barrio-Norte-3",
    "mediosPago": [],
-   "nombre": "Espacio Renata",
+   "nombre": "Vizzio",
    "precio": "",
    "puntos": [],
    "site": []

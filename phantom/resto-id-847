@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Casa-Oma-847"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Espacio-Renata-175"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Casa-Oma-847"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -102,35 +102,25 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento"
-   ],
+   "caracteristicas": [],
    "cocina": [
-      "/restaurantes/Internacional-4"
+      "/restaurantes/Autoctona-4"
    ],
-   "contacto": "Tel:4831-1440•",
-   "contactos": [
-      "mailto:renata@hotmail.com"
-   ],
+   "contacto": "Tel:4832-8488",
+   "contactos": [],
    "desc": [
-      "Especialidades:Se expone la obra de Renata Schussheim"
+      "Chef:Phillip Miles"
    ],
-   "direccion": "Malabia 1835, Palermo > Sur JB Justo, C.A.B.A. ",
+   "direccion": "Honduras 5140, Palermo > Sur JB Justo, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 20:00 a cierre",
-      "  Miercoles 20:00 a cierre ",
-      " Jueves 20:00 a cierre ",
-      " Viernes 20:00 a cierre ",
-      " Sabado 20:00 a cierre "
+      " Hoy "
    ],
    "images": [],
    "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [],
-   "nombre": "Espacio Renata",
+   "nombre": "Casa Oma",
    "precio": "",
    "puntos": [],
    "site": []
