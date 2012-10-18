@@ -1,0 +1,186 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Taxco-10044"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Taxco-10044"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Taxco-10044/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "15"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "14"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "3"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Wifi",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Mexicana-4"
+   ],
+   "contacto": "Tel:4774-2020/4775-0500",
+   "contactos": [],
+   "desc": [
+      "Especialidades:La especialidad de la casa son los tacos de res y de pollo (tres tortillas de maíz crocantes rellena de lomoy tres de pollo con queso lechuga, pico de gallo y crema ácida). Se destacan las fajitas y las tortillas de trigo, ya que los comensales pueden armarlos a gusto con la variedad de salsas.Postre: El pastel de tres leches."
+   ],
+   "direccion": "Godoy Cruz 3214, Palermo > Palermo Chico, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Taxco-10044/1",
+      "/restaurantes/galeria/Taxco-10044/2",
+      "/restaurantes/galeria/Taxco-10044/3",
+      "/restaurantes/galeria/Taxco-10044/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8 a 24",
+      "  Lunes 8 a 24 ",
+      " Martes 8 a 24 ",
+      " Miercoles 8 a 24 ",
+      " Jueves 8 a 24 ",
+      " Viernes 8 a 24 ",
+      " Sabado 8 a 24 ",
+      " Domingo 12 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/0/0/4/4/photo_10044_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/0/0/4/4/photo_10044_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/0/0/4/4/photo_10044_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/0/0/4/4/photo_10044_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [],
+   "nombre": "Taxco",
+   "precio": "$71alm / $80cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "10"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "7"
+      }
+   ],
+   "site": []
+}
