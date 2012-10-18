@@ -1,0 +1,224 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Viejo-Almacen-928"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Viejo-Almacen-928"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Viejo-Almacen-928/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con la familia",
+         "valor": "7"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "4"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "6"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "3"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "2"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Mesas al aire libre",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Wifi",
+      "Comida para celíacos",
+      "Carta Braile",
+      "Cocina Kosher",
+      "Tenedor libre"
+   ],
+   "cocina": [
+      "/restaurantes/Internacional-4"
+   ],
+   "contacto": "Tel:4307-7388/6689•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928",
+      "mailto:reservas@viejoalmacen.com   info@viejoalmacen.com"
+   ],
+   "desc": [
+      "Especialidades:Salmón en salsa de almendras, pollo al echalotte con zanahorias, rabas."
+   ],
+   "direccion": "Balcarce esq. Independencia, San Telmo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/El-Viejo-Almacen-928/1",
+      "/restaurantes/galeria/El-Viejo-Almacen-928/2",
+      "/restaurantes/galeria/El-Viejo-Almacen-928/3",
+      "/restaurantes/galeria/El-Viejo-Almacen-928/4"
+   ],
+   "homepage": [
+      "http://www.viejoalmacen.com"
+   ],
+   "horarios": [
+      " Hoy 12 a 16 y de 20 a cierre",
+      "  Lunes 12 a 16 y de 20 a cierre ",
+      " Martes 12 a 16 y de 20 a cierre ",
+      " Miercoles 12 a 16 y de 20 a cierre ",
+      " Jueves 12 a 16 y de 20 a cierre ",
+      " Viernes 12 a 16 y de 20 a cierre ",
+      " Sabado 18 a cierre ",
+      " Domingo 18 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/9/2/8/photo_928_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/9/2/8/photo_928_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/9/2/8/photo_928_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/9/2/8/photo_928_1.jpg"
+   ],
+   "lugar": "/restaurantes/San-Telmo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial"
+   ],
+   "nombre": "El Viejo Almacén",
+   "precio": "$80alm / $127cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "5"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/El-Viejo-Almacen-928"
+   ]
+}
