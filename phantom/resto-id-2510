@@ -1,9 +1,7 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Kewuens-2442"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Piada-y-Cassoni-2510"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Kewuens-2442"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Piada-y-Cassoni-2510"
 }
-SyntaxError: Parse error
-
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
   http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
@@ -13,21 +11,21 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/4"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/4"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/4"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/4"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/3"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/3"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/2"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/2"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/1"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Piada-y-Cassoni-2510/1"
 }
 pages -> []
 resto = {
@@ -120,25 +118,28 @@ resto = {
    "caracteristicas": [
       "Acceso discapacitados",
       "Reservas",
+      "Show",
       "Mesas al aire libre",
       "Delivery",
       "Aire acondicionado",
+      "Barra de tragos",
       "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Variada-4"
+      "/restaurantes/Mediterranea-4"
    ],
-   "contacto": "Tel:4827-2893",
+   "contacto": "Tel:4773-9398",
    "contactos": [],
    "desc": [
-      "Especialidades:Lomo al champignon con papas noisette."
+      "Chef:Ishiviawa Fernando",
+      "Especialidades:Piadina: verduraso tiritas de lomo con gruyere."
    ],
-   "direccion": "Paraguay 3899, Palermo > Sur JB Justo, C.A.B.A. ",
+   "direccion": "Uriarte esquina Nicaragua, Palermo > Sur JB Justo, C.A.B.A. ",
    "gallery": [
-      "/restaurantes/galeria/Kewuens-2442/1",
-      "/restaurantes/galeria/Kewuens-2442/2",
-      "/restaurantes/galeria/Kewuens-2442/3",
-      "/restaurantes/galeria/Kewuens-2442/4"
+      "/restaurantes/galeria/Piada-y-Cassoni-2510/1",
+      "/restaurantes/galeria/Piada-y-Cassoni-2510/2",
+      "/restaurantes/galeria/Piada-y-Cassoni-2510/3",
+      "/restaurantes/galeria/Piada-y-Cassoni-2510/4"
    ],
    "homepage": [],
    "horarios": [
@@ -148,13 +149,14 @@ resto = {
       " Miercoles 08:00 a cierre ",
       " Jueves 08:00 a cierre ",
       " Viernes 08:00 a cierre ",
-      " Sabado 08:00 a cierre "
+      " Sabado 08:00 a cierre ",
+      " Domingo 08:00 a cierre "
    ],
    "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/4/4/2/photo_2442_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/4/4/2/photo_2442_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/4/4/2/photo_2442_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/4/4/2/photo_2442_1.jpg"
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/5/1/0/photo_2510_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/5/1/0/photo_2510_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/5/1/0/photo_2510_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/5/1/0/photo_2510_1.jpg"
    ],
    "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [
@@ -162,10 +164,10 @@ resto = {
       "Visa",
       "Mastercard",
       "Maestro",
-      "Ticket restaurant",
-      "Ticket Total"
+      "Luncheon Ticket",
+      "Ticket restaurant"
    ],
-   "nombre": "Kewuen's",
+   "nombre": "Piada y Cassoni",
    "precio": "",
    "puntos": [],
    "site": []

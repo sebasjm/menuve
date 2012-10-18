@@ -1,9 +1,7 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Kewuens-2442"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/II-Hora-2773"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Kewuens-2442"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/II-Hora-2773"
 }
-SyntaxError: Parse error
-
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
   http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
@@ -13,21 +11,21 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/4"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/4"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/4"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/4"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/3"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/3"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/3"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/2"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/2"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/2"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/1"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Kewuens-2442/1"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/II-Hora-2773/1"
 }
 pages -> []
 resto = {
@@ -118,54 +116,46 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
       "Delivery",
-      "Aire acondicionado",
-      "Menú ejecutivo"
+      "Aire acondicionado"
    ],
    "cocina": [
-      "/restaurantes/Variada-4"
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:4827-2893",
+   "contacto": "Tel:4382-6654",
    "contactos": [],
    "desc": [
-      "Especialidades:Lomo al champignon con papas noisette."
+      "Especialidades:Ravioles con albondigas.Postre: flan casero."
    ],
-   "direccion": "Paraguay 3899, Palermo > Sur JB Justo, C.A.B.A. ",
+   "direccion": "Moreno 1295, Centro > Monserrat, C.A.B.A. ",
    "gallery": [
-      "/restaurantes/galeria/Kewuens-2442/1",
-      "/restaurantes/galeria/Kewuens-2442/2",
-      "/restaurantes/galeria/Kewuens-2442/3",
-      "/restaurantes/galeria/Kewuens-2442/4"
+      "/restaurantes/galeria/II-Hora-2773/1",
+      "/restaurantes/galeria/II-Hora-2773/2",
+      "/restaurantes/galeria/II-Hora-2773/3",
+      "/restaurantes/galeria/II-Hora-2773/4"
    ],
    "homepage": [],
    "horarios": [
-      " Hoy 08:00 a cierre",
-      "  Lunes 08:00 a cierre ",
-      " Martes 08:00 a cierre ",
-      " Miercoles 08:00 a cierre ",
-      " Jueves 08:00 a cierre ",
-      " Viernes 08:00 a cierre ",
-      " Sabado 08:00 a cierre "
+      " Hoy 12:00 a 16:00",
+      "  Lunes 12:00 a 16:00 ",
+      " Martes 12:00 a 16:00 ",
+      " Miercoles 12:00 a 16:00 ",
+      " Jueves 12:00 a 16:00 ",
+      " Viernes 12:00 a 16:00 "
    ],
    "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/4/4/2/photo_2442_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/4/4/2/photo_2442_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/4/4/2/photo_2442_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/4/4/2/photo_2442_1.jpg"
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/7/7/3/photo_2773_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/7/7/3/photo_2773_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/7/7/3/photo_2773_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/7/7/3/photo_2773_1.jpg"
    ],
-   "lugar": "/restaurantes/Palermo-3",
+   "lugar": "/restaurantes/Centro-3",
    "mediosPago": [
-      "American Express",
-      "Visa",
-      "Mastercard",
-      "Maestro",
+      "Luncheon Ticket",
       "Ticket restaurant",
       "Ticket Total"
    ],
-   "nombre": "Kewuen's",
+   "nombre": "II Hora",
    "precio": "",
    "puntos": [],
    "site": []
