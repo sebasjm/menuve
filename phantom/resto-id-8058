@@ -1,9 +1,7 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Carajo-8058"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Carajo-8058"
 }
-SyntaxError: Parse error
-
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
   http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
@@ -21,23 +19,23 @@ resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
+         "valor": "18"
+      },
+      {
+         "nombre": "Desayunar",
          "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "10"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Ir en pareja",
-         "valor": "0"
-      },
-      {
          "nombre": "Salida de amigas",
-         "valor": "0"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
+         "valor": "2"
       },
       {
          "nombre": "Ir con chicos",
@@ -105,33 +103,34 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
       "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento",
       "Area fumador",
-      "Aire acondicionado"
+      "Aire acondicionado",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Variada-4"
+      "/restaurantes/Portuguesa-4"
    ],
-   "contacto": "Tel:(0230)15-632697/(0230)15-559827",
+   "contacto": "Tel:0221-4230828/4820476",
    "contactos": [],
    "desc": [
-      "Especialidades:Parrilla y pastas caseras."
+      "Especialidades:Carta de platos regionales que varia cada cuatro meses."
    ],
-   "direccion": "Mitre 1094, Zona Oeste > Carlos Keen, Carlos Keen ",
+   "direccion": "Calle N 9 1898 esquina 71, Zona Sur > La Plata, La PLata ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy ",
-      "  Sabado 12 a 16 y de 20 a 24 ",
-      " Domingo 12 a 16 "
+      " Hoy 20 a cierre",
+      "  Martes 20 a cierre ",
+      " Miercoles 20 a cierre ",
+      " Jueves 20 a cierre ",
+      " Viernes 20 a cierre ",
+      " Sabado 20 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Zona-Sur-3",
    "mediosPago": [],
-   "nombre": "D' Vicente",
+   "nombre": "El Carajo",
    "precio": "",
    "puntos": [],
    "site": []

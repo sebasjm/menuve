@@ -1,9 +1,7 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/America-Nuevo-8122"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/America-Nuevo-8122"
 }
-SyntaxError: Parse error
-
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
   http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
@@ -104,34 +102,32 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento",
-      "Area fumador",
-      "Aire acondicionado"
-   ],
+   "caracteristicas": [],
    "cocina": [
       "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:(0230)15-632697/(0230)15-559827",
+   "contacto": "Tel:4982-0398/4981-3552",
    "contactos": [],
    "desc": [
-      "Especialidades:Parrilla y pastas caseras."
+      "Especialidades:Parrilla, pizza, empanadas y minutas."
    ],
-   "direccion": "Mitre 1094, Zona Oeste > Carlos Keen, Carlos Keen ",
+   "direccion": "Díaz Vélez, Av. 5300, Caballito, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy ",
-      "  Sabado 12 a 16 y de 20 a 24 ",
-      " Domingo 12 a 16 "
+      " Hoy 11:30 a cierre",
+      "  Lunes 11:30 a cierre ",
+      " Martes 11:30 a cierre ",
+      " Miercoles 11:30 a cierre ",
+      " Jueves 11:30 a cierre ",
+      " Viernes 11:30 a cierre ",
+      " Sabado 11:30 a cierre ",
+      " Domingo 11:30 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Caballito-3",
    "mediosPago": [],
-   "nombre": "D' Vicente",
+   "nombre": "América Nuevo",
    "precio": "",
    "puntos": [],
    "site": []

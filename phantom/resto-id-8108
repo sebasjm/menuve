@@ -1,9 +1,7 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Lolita-8108"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/D-Vicente-8022"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Lolita-8108"
 }
-SyntaxError: Parse error
-
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
   http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
@@ -104,34 +102,25 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
-      "Mesas al aire libre",
-      "Estacionamiento",
-      "Area fumador",
-      "Aire acondicionado"
-   ],
+   "caracteristicas": [],
    "cocina": [
-      "/restaurantes/Variada-4"
+      "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:(0230)15-632697/(0230)15-559827",
+   "contacto": "Tel:4225-8382",
    "contactos": [],
    "desc": [
-      "Especialidades:Parrilla y pastas caseras."
+      "Especialidades:Pastas, minutas, platos tradicionales."
    ],
-   "direccion": "Mitre 1094, Zona Oeste > Carlos Keen, Carlos Keen ",
+   "direccion": "Aristobulo del Valle 186, Zona Sur > Lanús, Lanús ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy ",
-      "  Sabado 12 a 16 y de 20 a 24 ",
-      " Domingo 12 a 16 "
+      " Hoy "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Oeste-3",
+   "lugar": "/restaurantes/Zona-Sur-3",
    "mediosPago": [],
-   "nombre": "D' Vicente",
+   "nombre": "La Lolita",
    "precio": "",
    "puntos": [],
    "site": []
