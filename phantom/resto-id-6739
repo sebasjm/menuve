@@ -1,0 +1,152 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Los-Cedros-6739"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Los-Cedros-6739"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Delivery"
+   ],
+   "cocina": [
+      "/restaurantes/Arabe-4"
+   ],
+   "contacto": "Tel:4861-6006/4865-5009•",
+   "contactos": [
+      "mailto:fatayloscedros@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Empanadas Fatay ny comidas típicas de la cocina oriental."
+   ],
+   "direccion": "Sarmiento 3222, Abasto, C.A.B.A. ",
+   "gallery": [],
+   "homepage": [],
+   "horarios": [
+      " Hoy 10:00 a 23:30",
+      "  Martes 10:00 a 23:30 ",
+      " Miercoles 10:00 a 23:30 ",
+      " Jueves 10:00 a 23:30 ",
+      " Viernes 10:00 a 23:30 ",
+      " Sabado 10:00 a 23:30 "
+   ],
+   "images": [],
+   "lugar": "/restaurantes/Abasto-3",
+   "mediosPago": [],
+   "nombre": "Los Cedros",
+   "precio": "$30alm / $36cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": ""
+      }
+   ],
+   "site": []
+}
