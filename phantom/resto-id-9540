@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Rodeo-9396"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Abbiamo-9540"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Rodeo-9396"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Abbiamo-9540"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
