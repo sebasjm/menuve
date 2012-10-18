@@ -1,0 +1,15 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Cacerola-8470"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Cacerola-8470"
+}
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+TypeError: 'undefined' is not an object (evaluating 'restoDatos.find(".restoDatosTelefono").contents()[0].data')
+
+  phantomjs://webpage.evaluate():10
+  phantomjs://webpage.evaluate():54
+  phantomjs://webpage.evaluate():54
+ERROR - 'null' is not an object (evaluating 'resto.site')
+pages -> []
+resto = null
