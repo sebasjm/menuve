@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Marama-Resto-Bar-3974"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Kasura-4784"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Marama-Resto-Bar-3974"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Kasura-4784"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -11,37 +11,25 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-TypeError: 'null' is not an object (evaluating 'g.shift')
-
-  http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Marama-Resto-Bar-3974"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Kasura-4784"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Marama-Resto-Bar-3974"
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Kasura-4784"
 }
 ReferenceError: Can't find variable: jQuery
 
   http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
 ReferenceError: Can't find variable: $
 
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Marama-Resto-Bar-3974:4
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Kasura-4784:4
 TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
 
   http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
   http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-Not allowed to load local resource: file:///C:/Documents%20and%20Settings/Administrador/Escritorio/Club7%20Hockey%20Arena/Colorado_Springs_Thunder.jpg
 pages -> []
 resto = {
    "calificaciones": [
-      {
-         "nombre": "Festejar un cumpleaños",
-         "valor": "5"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
-      },
       {
          "nombre": "Ir con amigos",
          "valor": "0"
@@ -59,11 +47,19 @@ resto = {
          "valor": "0"
       },
       {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
          "nombre": "Ir con chicos",
          "valor": "0"
       },
       {
-         "nombre": "Comer tarde",
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
          "valor": "0"
       },
       {
@@ -79,11 +75,11 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer con buenos tragos",
+         "nombre": "Comer bien gastando poco",
          "valor": "0"
       },
       {
-         "nombre": "Llevar extranjeros",
+         "nombre": "Festejar un cumpleaños",
          "valor": "0"
       },
       {
@@ -99,7 +95,7 @@ resto = {
          "valor": "0"
       },
       {
-         "nombre": "Comer bien gastando poco",
+         "nombre": "Comer tarde",
          "valor": "0"
       },
       {
@@ -120,60 +116,55 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
       "Reservas",
-      "Show",
       "Mesas al aire libre",
-      "Estacionamiento",
-      "Area fumador",
+      "Delivery",
+      "Aire acondicionado",
       "Barra de tragos",
-      "Menú ejecutivo",
       "Wifi",
       "Comida para celíacos"
    ],
    "cocina": [
       "/restaurantes/De-autor-4"
    ],
-   "contacto": "Tel:4707-0764•",
+   "contacto": "Tel:4831-5278•",
    "contactos": [
-      "/restaurante/urlredirect/nombreClave/Marama-Resto-Bar-3974",
-      "mailto:reservas@club7.com.ar"
+      "/restaurante/urlredirect/nombreClave/Kasura-4784",
+      "mailto:kasura@live.com.ar"
    ],
    "desc": [
-      "Chef:Americo",
-      "Especialidades:Principal: crêpes de verdura con salsa parissien, lomo al champignon."
+      "Chef:Demetrio",
+      "Especialidades:Sushi fusión."
    ],
-   "direccion": "Gaetán Gutierrez 1029, Zona Norte > San Isidro, Partido de San Isidro ",
+   "direccion": "Honduras 5318, Palermo > Sur JB Justo, C.A.B.A. ",
    "gallery": [],
    "homepage": [
-      "http://www.club7.com.ar"
+      "http://www.kasuraresto.com"
    ],
    "horarios": [
-      " Hoy 08:00 a cierre",
-      "  Lunes 08:00 a cierre ",
-      " Martes 08:00 a cierre ",
-      " Miercoles 08:00 a cierre ",
-      " Jueves 08:00 a cierre ",
-      " Viernes 08:00 a cierre ",
-      " Sabado 08:00 a cierre ",
-      " Domingo 08:00 a cierre "
+      " Hoy 20:00 a cierre",
+      "  Martes 20:00 a cierre ",
+      " Miercoles 20:00 a cierre ",
+      " Jueves 20:00 a cierre ",
+      " Viernes 20:00 a cierre ",
+      " Sabado 20:00 a cierre ",
+      " Domingo 20:00 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Zona-Norte-3",
+   "lugar": "/restaurantes/Palermo-3",
    "mediosPago": [
       "American Express",
       "Visa",
       "Electrón",
-      "Diners",
       "Mastercard",
-      "Cabal",
-      "Carta Franca",
-      "Credencial",
       "Maestro"
    ],
-   "nombre": "Marama Resto Bar",
+   "nombre": "Kasura",
    "precio": "",
    "puntos": [],
    "site": [
-      "/restaurante/urlredirect/nombreClave/Marama-Resto-Bar-3974"
+      "/restaurante/urlredirect/nombreClave/Kasura-4784"
    ]
 }
