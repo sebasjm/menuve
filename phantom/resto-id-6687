@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-esquina-6669"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Galaxia-6687"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/La-esquina-6669"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Galaxia-6687"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,36 +14,28 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/4"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/4"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/4"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/4"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/3"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/3"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/3"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/3"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/2"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/2"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/2"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/2"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/1"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/1"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-esquina-6669/1"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Galaxia-6687/1"
 }
 pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Salida de amigas",
-         "valor": "1"
-      },
-      {
-         "nombre": "Desayunar",
-         "valor": "0"
-      },
-      {
          "nombre": "Ir con amigos",
-         "valor": "1"
+         "valor": "0"
       },
       {
          "nombre": "Escuchar música",
@@ -51,6 +43,14 @@ resto = {
       },
       {
          "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
          "valor": "0"
       },
       {
@@ -119,26 +119,25 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Acceso discapacitados",
+      "Mesas al aire libre",
       "Delivery",
-      "Aire acondicionado",
       "Barra de tragos",
       "Menú ejecutivo"
    ],
    "cocina": [
       "/restaurantes/Portenia-4"
    ],
-   "contacto": "Tel:4587-7843",
+   "contacto": "Tel:4864-8730",
    "contactos": [],
    "desc": [
-      "Especialidades:Tostados de jamón y queso."
+      "Especialidades:Pastas caseras."
    ],
-   "direccion": "Dorrego, Chacarita-Agronomía, C.A.B.A. ",
+   "direccion": "Guardia Vieja 4008, Almagro, C.A.B.A. ",
    "gallery": [
-      "/restaurantes/galeria/La-esquina-6669/1",
-      "/restaurantes/galeria/La-esquina-6669/2",
-      "/restaurantes/galeria/La-esquina-6669/3",
-      "/restaurantes/galeria/La-esquina-6669/4"
+      "/restaurantes/galeria/Galaxia-6687/1",
+      "/restaurantes/galeria/Galaxia-6687/2",
+      "/restaurantes/galeria/Galaxia-6687/3",
+      "/restaurantes/galeria/Galaxia-6687/4"
    ],
    "homepage": [],
    "horarios": [
@@ -147,18 +146,17 @@ resto = {
       " Martes 08:00 a cierre ",
       " Miercoles 08:00 a cierre ",
       " Jueves 08:00 a cierre ",
-      " Viernes 08:00 a cierre ",
-      " Sabado 08:00 a cierre "
+      " Viernes 08:00 a cierre "
    ],
    "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/6/6/9/photo_6669_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/6/6/9/photo_6669_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/6/6/9/photo_6669_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/6/6/9/photo_6669_1.jpg"
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/6/8/7/photo_6687_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/6/8/7/photo_6687_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/6/8/7/photo_6687_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/6/8/7/photo_6687_1.jpg"
    ],
-   "lugar": "/restaurantes/Chacarita-Agronomia-3",
+   "lugar": "/restaurantes/Almagro-3",
    "mediosPago": [],
-   "nombre": "La esquina",
+   "nombre": "Galaxia",
    "precio": "",
    "puntos": [],
    "site": []
