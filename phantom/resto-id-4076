@@ -1,0 +1,187 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Cafe-Des-Arts-4076"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Cafe-Des-Arts-4076"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Des-Arts-4076/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "22"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "10"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "12"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "12"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "5"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Francesa-4"
+   ],
+   "contacto": "Tel:4808-0754",
+   "contactos": [],
+   "desc": [
+      "Chef:Jerome Mathe",
+      "Especialidades:Plato principal: Pesca del dia en marinera.Postre: tarta tatin tibia con helado de vainilla."
+   ],
+   "direccion": "Figueroa Alcorta, Av. 3415, Palermo > Botánico, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Cafe-Des-Arts-4076/1",
+      "/restaurantes/galeria/Cafe-Des-Arts-4076/2",
+      "/restaurantes/galeria/Cafe-Des-Arts-4076/3",
+      "/restaurantes/galeria/Cafe-Des-Arts-4076/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 9 a 21",
+      "  Lunes 9 a 21 ",
+      " Martes 9 a 21 ",
+      " Miercoles 9 a 21 ",
+      " Jueves 9 a 21 ",
+      " Viernes 9 a 21 ",
+      " Sabado 9 a 21 ",
+      " Domingo 9 a 21 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/4/0/7/6/photo_4076_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/4/0/7/6/photo_4076_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/4/0/7/6/photo_4076_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/4/0/7/6/photo_4076_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard"
+   ],
+   "nombre": "Café des arts (MALBA)",
+   "precio": "$132alm / $132cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "19"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "10"
+      }
+   ],
+   "site": []
+}

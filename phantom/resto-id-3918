@@ -1,0 +1,213 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Clap-3918"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Clap-3918"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Clap-3918/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Clap-3918:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "35"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "22"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "3"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "9"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/De-autor-4",
+      "/restaurantes/Internacional-4"
+   ],
+   "contacto": "Tel:4903-2857•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Clap-3918",
+      "mailto:info@clapnight.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Principales: Lomo envoltini (lomo salseado en finas hierbas envuelto en panceta y masa hojaldrada, sobre salsa de champiñones y ratatouille de vegetales grillados), Cerdo Bock (envueltos de cerdo, panceta y ciruela, con salsa bock y puré de manzanas), pechuga clap (pechuga rellena con panceta, cherrys, albahaca y muzzarella acompañada con papas rústicas), sorrentinos savage (rellenos de muzzarella, parmesano y lomito ahumado; con crema, queso cheddar y almendras)"
+   ],
+   "direccion": "Guayaquil 556, Caballito, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Clap-3918/1",
+      "/restaurantes/galeria/Clap-3918/2",
+      "/restaurantes/galeria/Clap-3918/3",
+      "/restaurantes/galeria/Clap-3918/4"
+   ],
+   "homepage": [
+      "http://www.clapnight.com.ar"
+   ],
+   "horarios": [
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre ",
+      " Domingo 8 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/9/1/8/photo_3918_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/9/1/8/photo_3918_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/9/1/8/photo_3918_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/9/1/8/photo_3918_1.jpg"
+   ],
+   "lugar": "/restaurantes/Caballito-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Clap",
+   "precio": "$67alm / $83cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "15"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "11"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Clap-3918"
+   ]
+}
