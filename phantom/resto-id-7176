@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Dionisio-7167"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Vialidad-7176"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Dionisio-7167"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Vialidad-7176"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,44 +14,28 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Dionisio-7167"}]
-//go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Dionisio-7167"
-}
-ReferenceError: Can't find variable: jQuery
-
-  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
-ReferenceError: Can't find variable: $
-
-  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Dionisio-7167:4
-TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
-
-  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
-  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
-  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
 pages -> []
 resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "5"
-      },
-      {
-         "nombre": "Desayunar",
          "valor": "0"
-      },
-      {
-         "nombre": "Ir en pareja",
-         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
          "nombre": "Salida de amigas",
-         "valor": "1"
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
       },
       {
          "nombre": "Ir con chicos",
@@ -119,51 +103,42 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Acceso discapacitados",
       "Reservas",
       "Delivery",
-      "Area fumador",
       "Aire acondicionado",
-      "Menú ejecutivo"
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Variada-4"
+      "/restaurantes/Parrilla-4",
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:(0221)427-6400•",
-   "contactos": [
-      "/restaurante/urlredirect/nombreClave/Dionisio-7167",
-      "mailto:laplata@dionisioonline.com.ar"
-   ],
+   "contacto": "Tel:0221-427-3355",
+   "contactos": [],
    "desc": [
-      "Especialidades:Pastas, picadas, minutas."
+      "Especialidades:Parrilla, pastas, pizzas, picadas, cervecería"
    ],
-   "direccion": "Calle 12 s/n entre calles 48 y 49, Zona Sur > La Plata, La Plata ",
+   "direccion": "Calle N º 7 s/n y Calle 56, Zona Sur > La Plata, La Plata ",
    "gallery": [],
-   "homepage": [
-      "http:////www.dionisioonline.com.ar/"
-   ],
+   "homepage": [],
    "horarios": [
-      " Hoy 9 hasta el cierre",
-      "  Lunes 9 hasta el cierre ",
-      " Martes 9 hasta el cierre ",
-      " Miercoles 9 hasta el cierre ",
-      " Jueves 9 hasta el cierre ",
-      " Viernes 9 hasta el cierre ",
-      " Sabado 9 hasta el cierre ",
-      " Domingo 9 hasta el cierre "
+      " Hoy 8 a 1",
+      "  Lunes 8 a 1 ",
+      " Martes 8 a 1 ",
+      " Miercoles 8 a 1 ",
+      " Jueves 8 a 1 ",
+      " Viernes 8 a 1 ",
+      " Sabado 8 a 1 ",
+      " Domingo 8 a 1 "
    ],
    "images": [],
    "lugar": "/restaurantes/Zona-Sur-3",
-   "mediosPago": [
-      "American Express",
-      "Visa",
-      "Electrón",
-      "Mastercard",
-      "Maestro"
-   ],
-   "nombre": "Dionisio",
+   "mediosPago": [],
+   "nombre": "Vialidad",
    "precio": "",
    "puntos": [],
-   "site": [
-      "/restaurante/urlredirect/nombreClave/Dionisio-7167"
-   ]
+   "site": []
 }
