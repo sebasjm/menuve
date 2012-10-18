@@ -1,0 +1,202 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/The-W-bar-Hotel-Elevage-7781"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/The-W-bar-Hotel-Elevage-7781"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+ReferenceError: Can't find variable: h
+
+  http://www.elevage.com.ar/es/:14
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Baños discapacitados",
+      "Reservas",
+      "Show",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Descorche",
+      "Wifi",
+      "Comida para celíacos"
+   ],
+   "cocina": [
+      "/restaurantes/Autoctona-4"
+   ],
+   "contacto": "Tel:4891-8000int:1005•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781",
+      "mailto:wbar@elevage.com.ar"
+   ],
+   "desc": [
+      "Chef:Maria Konig",
+      "Especialidades:Snacks y sandwiches especiales como el Serrano o el capresse, realizados con panes artesanales.Plato principal: Ojo de bife con papas plomo; pesca del día con arroz oriental."
+   ],
+   "direccion": "Maipú 960, Centro > Retiro, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/1",
+      "/restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/2",
+      "/restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/3",
+      "/restaurantes/galeria/The-W-bar-Hotel-Elevage-7781/4"
+   ],
+   "homepage": [
+      "http://www.elevage.com.ar"
+   ],
+   "horarios": [
+      " Hoy 16 a 24",
+      "  Lunes 16 a 24 ",
+      " Martes 16 a 24 ",
+      " Miercoles 16 a 24 ",
+      " Jueves 16 a 24 ",
+      " Viernes 16 a 24 ",
+      " Sabado 16 a 24 ",
+      " Domingo 16 a 24 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/7/8/1/photo_7781_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/7/8/1/photo_7781_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/7/8/1/photo_7781_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/7/8/1/photo_7781_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Maestro"
+   ],
+   "nombre": "The W-bar (Hotel Elevage)",
+   "precio": "",
+   "puntos": [],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/The-W-bar-Hotel-Elevage-7781"
+   ]
+}
