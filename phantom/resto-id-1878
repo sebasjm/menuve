@@ -1,0 +1,101 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Prosciutto-1878"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Prosciutto-1878"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Prosciutto-1878/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [],
+   "caracteristicas": [
+      "Reservas",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4953-2906",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Parrilla, cochinillo, pescados y pastas."
+   ],
+   "direccion": "Sarmiento esq. Junín, Congreso, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Prosciutto-1878/1",
+      "/restaurantes/galeria/Prosciutto-1878/2",
+      "/restaurantes/galeria/Prosciutto-1878/3",
+      "/restaurantes/galeria/Prosciutto-1878/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
+      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
+      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
+      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
+      " Domingo 12:00 a 16:00 y de 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/8/7/8/photo_1878_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/8/7/8/photo_1878_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/8/7/8/photo_1878_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/8/7/8/photo_1878_1.jpg"
+   ],
+   "lugar": "/restaurantes/Congreso-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Prosciutto",
+   "precio": "$74alm / $87cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "9"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "6"
+      }
+   ],
+   "site": []
+}
