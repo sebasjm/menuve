@@ -1,0 +1,181 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Luli-746"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Luli-746"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Luli-746/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "8"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "4"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Mesas al aire libre",
+      "Delivery"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4"
+   ],
+   "contacto": "Tel:4899-0540/4773-5708/4773-2817•",
+   "contactos": [
+      "mailto:parrillaslaluli@hotmail.com"
+   ],
+   "desc": [
+      "Especialidades:Bondiola de cerdo, tira de asado. Sandwich de lomito."
+   ],
+   "direccion": "Juan B. Justo, Av. 2200 (Esquina Aguirre), Villa Crespo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/La-Luli-746/1",
+      "/restaurantes/galeria/La-Luli-746/2",
+      "/restaurantes/galeria/La-Luli-746/3",
+      "/restaurantes/galeria/La-Luli-746/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 09:00 a 03:00",
+      "  Martes 09:00 a 03:00 ",
+      " Miercoles 09:00 a 03:00 ",
+      " Jueves 09:00 a 03:00 ",
+      " Viernes 09:00 a 03:00 ",
+      " Sabado 09:00 a 03:00 ",
+      " Domingo 09:00 a 03:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/7/4/6/photo_746_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/7/4/6/photo_746_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/7/4/6/photo_746_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/7/4/6/photo_746_1.jpg"
+   ],
+   "lugar": "/restaurantes/Villa-Crespo-3",
+   "mediosPago": [],
+   "nombre": "La Luli",
+   "precio": "$35alm / $55cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "10"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "3"
+      }
+   ],
+   "site": []
+}
