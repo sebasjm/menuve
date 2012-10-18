@@ -1,0 +1,201 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Amores-Portenios-6458"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Amores-Portenios-6458"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Amores-Portenios-6458/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "44"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "41"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "4"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "20"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "3"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "2"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Baños discapacitados",
+      "Reservas",
+      "Mesas al aire libre",
+      "Juegos para chicos",
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo",
+      "Wifi"
+   ],
+   "cocina": [
+      "/restaurantes/Casera-4",
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4779-9516•",
+   "contactos": [
+      "mailto:info@astreaeventos.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Pastas caseras."
+   ],
+   "direccion": "Santos Dumont 2606, Palermo > Sur JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Amores-Portenios-6458/1",
+      "/restaurantes/galeria/Amores-Portenios-6458/2",
+      "/restaurantes/galeria/Amores-Portenios-6458/3",
+      "/restaurantes/galeria/Amores-Portenios-6458/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8 hasta el cierre",
+      "  Lunes 8 hasta el cierre ",
+      " Martes 8 hasta el cierre ",
+      " Miercoles 8 hasta el cierre ",
+      " Jueves 8 hasta el cierre ",
+      " Viernes 8 hasta el cierre ",
+      " Sabado 8 hasta el cierre ",
+      " Domingo 8 hasta el cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/4/5/8/photo_6458_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/4/5/8/photo_6458_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/4/5/8/photo_6458_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/4/5/8/photo_6458_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Maestro",
+      "Ticket restaurant"
+   ],
+   "nombre": "Amores Porteños",
+   "precio": "$70alm",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "5"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "8"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "8"
+      }
+   ],
+   "site": []
+}
