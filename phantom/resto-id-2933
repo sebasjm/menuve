@@ -1,0 +1,208 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chez-Pauline-2933"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Chez-Pauline-2933"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Chez-Pauline-2933/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Chez-Pauline-2933:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir en pareja",
+         "valor": "5"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Aire acondicionado",
+      "Wifi",
+      "Carta Braile"
+   ],
+   "cocina": [
+      "/restaurantes/Francesa-4"
+   ],
+   "contacto": "Tel:4816-9988•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Chez-Pauline-2933",
+      "mailto:info@chezpauline.com.ar"
+   ],
+   "desc": [
+      "Especialidades:51 variedades de blends importados. pastelería francesa: croissant, pain au chocolat, corque monsieur, tarte tatin de manzanas, quiche Lorraine. siempre hay un menú al mediodía con un plato del día: Rillette de salmón (Paté de salmón)"
+   ],
+   "direccion": "Juncal 1695, Recoleta, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Chez-Pauline-2933/1",
+      "/restaurantes/galeria/Chez-Pauline-2933/2",
+      "/restaurantes/galeria/Chez-Pauline-2933/3",
+      "/restaurantes/galeria/Chez-Pauline-2933/4"
+   ],
+   "homepage": [
+      "http://www.chezpauline.com.ar"
+   ],
+   "horarios": [
+      " Hoy 09:00 a 20:00",
+      "  Lunes 09:00 a 20:00 ",
+      " Martes 09:00 a 20:00 ",
+      " Miercoles 09:00 a 20:00 ",
+      " Jueves 09:00 a 20:00 ",
+      " Viernes 09:00 a 20:00 ",
+      " Sabado 09:30 a 20:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/2/9/3/3/photo_2933_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/2/9/3/3/photo_2933_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/2/9/3/3/photo_2933_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/2/9/3/3/photo_2933_1.jpg"
+   ],
+   "lugar": "/restaurantes/Recoleta-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón"
+   ],
+   "nombre": "Chez Pauline",
+   "precio": "$36alm",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "17"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "22"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "5"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Chez-Pauline-2933"
+   ]
+}
