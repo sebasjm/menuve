@@ -1,0 +1,193 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Bar-6-63"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Bar-6-63"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-6-63/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Desayunar",
+         "valor": "12"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "10"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con amigos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Mesas al aire libre",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4",
+      "/restaurantes/Mediterranea-4",
+      "/restaurantes/Internacional-4"
+   ],
+   "contacto": "Tel:4833-6807•",
+   "contactos": [
+      "mailto:barseis@hotmail.com"
+   ],
+   "desc": [
+      "Chef:Pancho Alzaga",
+      "Especialidades:Wok vegetal.Ojo de bife.Cordero.Salmón a la plancha.Postre: Torta húmeda de chocolate. Flor de helado."
+   ],
+   "direccion": "Armenia 1676, Palermo > Sur JB Justo, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Bar-6-63/1",
+      "/restaurantes/galeria/Bar-6-63/2",
+      "/restaurantes/galeria/Bar-6-63/3",
+      "/restaurantes/galeria/Bar-6-63/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 8 a cierre",
+      "  Lunes 8 a cierre ",
+      " Martes 8 a cierre ",
+      " Miercoles 8 a cierre ",
+      " Jueves 8 a cierre ",
+      " Viernes 8 a cierre ",
+      " Sabado 8 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/3/photo_63_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/3/photo_63_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/3/photo_63_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/3/photo_63_1.jpg"
+   ],
+   "lugar": "/restaurantes/Palermo-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro"
+   ],
+   "nombre": "Bar 6",
+   "precio": "$61alm / $84cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "14"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "10"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "21"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "8"
+      }
+   ],
+   "site": []
+}
