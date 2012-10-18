@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Temtempie-3402"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Paulista-3960"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Temtempie-3402"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Paulista-3960"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,21 +14,21 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/4"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/4"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/4"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/4"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/3"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/3"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/3"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/3"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/2"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/2"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/2"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/2"
 }
-pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/1"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/1"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Temtempie-3402/1"
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Paulista-3960/1"
 }
 pages -> []
 resto = {
@@ -119,44 +119,49 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Reservas",
       "Mesas al aire libre",
-      "Delivery",
+      "Area fumador",
       "Aire acondicionado",
-      "Menú ejecutivo"
+      "Barra de tragos",
+      "Menú ejecutivo",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/De-autor-4"
+      "/restaurantes/Deli-4"
    ],
-   "contacto": "Tel:4864-3354",
+   "contacto": "Tel:4795-3685",
    "contactos": [],
    "desc": [
-      "Especialidades:Principal: empanadas criollas, tortilla de papas."
+      "Especialidades:Postre: tarta de manzanas."
    ],
-   "direccion": "Lavalle 3809, Almagro, C.A.B.A. ",
+   "direccion": "Av. Maipú 1799, Zona Norte > Vicente López, Partido de Vte. López ",
    "gallery": [
-      "/restaurantes/galeria/Temtempie-3402/1",
-      "/restaurantes/galeria/Temtempie-3402/2",
-      "/restaurantes/galeria/Temtempie-3402/3",
-      "/restaurantes/galeria/Temtempie-3402/4"
+      "/restaurantes/galeria/Paulista-3960/1",
+      "/restaurantes/galeria/Paulista-3960/2",
+      "/restaurantes/galeria/Paulista-3960/3",
+      "/restaurantes/galeria/Paulista-3960/4"
    ],
    "homepage": [],
    "horarios": [
-      " Hoy 9 a 20",
-      "  Lunes 9 a 20 ",
-      " Martes 9 a 20 ",
-      " Miercoles 9 a 20 ",
-      " Jueves 9 a 20 ",
-      " Viernes 9 a 20 "
+      " Hoy 07:00 a 00:00",
+      "  Lunes 07:00 a 00:00 ",
+      " Martes 07:00 a 00:00 ",
+      " Miercoles 07:00 a 00:00 ",
+      " Jueves 07:00 a 00:00 ",
+      " Viernes 07:00 a 00:00 ",
+      " Sabado 07:00 a 00:00 ",
+      " Domingo 07:00 a 00:00 "
    ],
    "images": [
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/4/0/2/photo_3402_4.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/4/0/2/photo_3402_3.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/4/0/2/photo_3402_2.jpg",
-      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/4/0/2/photo_3402_1.jpg"
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/3/9/6/0/photo_3960_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/3/9/6/0/photo_3960_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/3/9/6/0/photo_3960_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/3/9/6/0/photo_3960_1.jpg"
    ],
-   "lugar": "/restaurantes/Almagro-3",
+   "lugar": "/restaurantes/Zona-Norte-3",
    "mediosPago": [],
-   "nombre": "Temtempié",
+   "nombre": "Paulista",
    "precio": "",
    "puntos": [],
    "site": []
