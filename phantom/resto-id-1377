@@ -1,0 +1,202 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Cafe-Tortoni-1377"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Cafe-Tortoni-1377"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Cafe-Tortoni-1377/1"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"
+}
+ReferenceError: Can't find variable: jQuery
+
+  http://statics.guiaoleo.com.ar/js/jquery.tinyTips.min.js:1
+ReferenceError: Can't find variable: $
+
+  http://www.guiaoleo.com.ar//restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377:4
+TypeError: 'undefined' is not a function (evaluating '$('.ellipsis').ellipsis()')
+
+  http://statics.guiaoleo.com.ar/min/index.php?f=/js/certifica.js,/js/certifica-js14.js,/js/00/00jqengine.js,/js/00/guiaoleo-ui_100.js,/js/00/swfformfix2.js,/js/jquery-plugins/jquery.bgiframe.js,/js/jq/jqAction.hatchThis.js:98
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "10"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "9"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "6"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Show",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Autoctona-4"
+   ],
+   "contacto": "Tel:4342-4328•",
+   "contactos": [
+      "/restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377",
+      "mailto:tortoni@cafetortoni.com.ar"
+   ],
+   "desc": [
+      "Especialidades:Té saborizados, o en hebras, tortas. Chocolate caliente con churros. Carnes gratinadas o la parrilla acompañada de vegetales de estación. Cerveza o sidra tirada con picadas, tablas de queso o fiambres."
+   ],
+   "direccion": "de Mayo, Av. 825, Centro > Microcentro, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Cafe-Tortoni-1377/1",
+      "/restaurantes/galeria/Cafe-Tortoni-1377/2",
+      "/restaurantes/galeria/Cafe-Tortoni-1377/3",
+      "/restaurantes/galeria/Cafe-Tortoni-1377/4"
+   ],
+   "homepage": [
+      "http://www.cafetortoni.com.ar/"
+   ],
+   "horarios": [
+      " Hoy 08:00 a 03:30",
+      "  Lunes 08:00 a 03:30 ",
+      " Martes 08:00 a 03:30 ",
+      " Miercoles 08:00 a 03:30 ",
+      " Jueves 08:00 a 03:30 ",
+      " Viernes 08:00 a 03:30 ",
+      " Sabado 08:00 a 03:30 ",
+      " Domingo 08:00 a 01:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/3/7/7/photo_1377_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/3/7/7/photo_1377_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/3/7/7/photo_1377_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/3/7/7/photo_1377_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [],
+   "nombre": "Cafe Tortoni",
+   "precio": "$42alm / $74cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "2"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "3"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "20"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "0"
+      }
+   ],
+   "site": [
+      "/restaurante/urlredirect/nombreClave/Cafe-Tortoni-1377"
+   ]
+}
