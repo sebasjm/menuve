@@ -1,0 +1,138 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Juventus-1955"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Juventus-1955"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Variada-4"
+   ],
+   "contacto": "Tel:4372-0098/4381-7163",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Ensaldas, pizza y minutas."
+   ],
+   "direccion": "Hipolito Yrigoyen 1550, Centro > Monserrat, C.A.B.A. ",
+   "gallery": [],
+   "homepage": [],
+   "horarios": [
+      " Hoy 08:00 a 17:30",
+      "  Lunes 08:00 a 17:30 ",
+      " Martes 08:00 a 17:30 ",
+      " Miercoles 08:00 a 17:30 ",
+      " Jueves 08:00 a 17:30 ",
+      " Viernes 08:00 a 17:30 ",
+      " Sabado 08:00 a 14:00 "
+   ],
+   "images": [],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "La Juventus",
+   "precio": "",
+   "puntos": [],
+   "site": []
+}
