@@ -1,0 +1,174 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Monserrat-1255"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Monserrat-1255"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Monserrat-1255/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Delivery",
+      "Aire acondicionado",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Parrilla-4"
+   ],
+   "contacto": "Tel:4342-2463",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Parrilla, pastas, pastel de papa, zapallitos rellenas."
+   ],
+   "direccion": "Piedras 506, Centro > Monserrat, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Monserrat-1255/1",
+      "/restaurantes/galeria/Monserrat-1255/2",
+      "/restaurantes/galeria/Monserrat-1255/3",
+      "/restaurantes/galeria/Monserrat-1255/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 12:00 a 16:00",
+      "  Lunes 12:00 a 16:00 ",
+      " Martes 12:00 a 16:00 ",
+      " Miercoles 12:00 a 16:00 ",
+      " Jueves 12:00 a 16:00 ",
+      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
+      " Sabado 20:00 a cierre "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/2/5/5/photo_1255_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/2/5/5/photo_1255_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/2/5/5/photo_1255_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/2/5/5/photo_1255_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Monserrat",
+   "precio": "",
+   "puntos": [],
+   "site": []
+}
