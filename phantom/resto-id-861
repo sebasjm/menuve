@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Cuernavaca-861"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Cuernavaca-861"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -103,35 +103,31 @@ resto = {
       }
    ],
    "caracteristicas": [
+      "Reservas",
       "Show",
-      "Menú ejecutivo"
+      "Estacionamiento",
+      "Area fumador"
    ],
    "cocina": [
-      "/restaurantes/Internacional-4"
+      "/restaurantes/Mediterranea-4"
    ],
-   "contacto": "Tel:4816-0866",
+   "contacto": "Tel:(0230)421-437",
    "contactos": [],
    "desc": [
-      "Chef:Rodrigo Degregorio",
-      "Especialidades:Tablas de quesos.Tapas.Torre de mozzarella de búfala, tomates y albahaca."
+      "Especialidades:Buffet frío y caliente.Tapas criollas.Hamburguesas de campo."
    ],
-   "direccion": "Talcahuano 973, Recoleta, C.A.B.A. ",
+   "direccion": "Ituzaingó 669, Zona Norte > Pilar, Pilar ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
-      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
-      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
-      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
-      " Domingo 20:00 a cierre "
+      " Hoy ",
+      "  Viernes 20 a cierre ",
+      " Sabado 20 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Recoleta-3",
+   "lugar": "/restaurantes/Zona-Norte-3",
    "mediosPago": [],
-   "nombre": "Chula Vista",
+   "nombre": "Cuernavaca",
    "precio": "",
    "puntos": [],
    "site": []

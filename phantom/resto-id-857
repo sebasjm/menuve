@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Confiteria-Suiza-857"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Confiteria-Suiza-857"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -102,36 +102,32 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Show",
-      "Menú ejecutivo"
-   ],
+   "caracteristicas": [],
    "cocina": [
       "/restaurantes/Internacional-4"
    ],
-   "contacto": "Tel:4816-0866",
+   "contacto": "Tel:4322-8493",
    "contactos": [],
    "desc": [
-      "Chef:Rodrigo Degregorio",
-      "Especialidades:Tablas de quesos.Tapas.Torre de mozzarella de búfala, tomates y albahaca."
+      "Especialidades:Lomitos de pollo a la citanova.Pennes en salsa bischi volanti alla carretiera. Merluza negra rellena con vegetales mixtos.Crêpes en salsa de calamarettis.Postre: Copa Roja. Swiss Almond."
    ],
-   "direccion": "Talcahuano 973, Recoleta, C.A.B.A. ",
+   "direccion": "Tucumán 753, Centro > Microcentro, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
-      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
-      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
-      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
-      " Domingo 20:00 a cierre "
+      " Hoy 07:30 a cierre",
+      "  Lunes 07:30 a cierre ",
+      " Martes 07:30 a cierre ",
+      " Miercoles 07:30 a cierre ",
+      " Jueves 07:30 a cierre ",
+      " Viernes 07:30 a cierre ",
+      " Sabado 07:30 a cierre ",
+      " Domingo 07:30 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/Recoleta-3",
+   "lugar": "/restaurantes/Centro-3",
    "mediosPago": [],
-   "nombre": "Chula Vista",
+   "nombre": "Confitería Suiza",
    "precio": "",
    "puntos": [],
    "site": []

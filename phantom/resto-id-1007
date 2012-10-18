@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Il-Vero-Fechoria-1007"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Il-Vero-Fechoria-1007"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,12 +14,28 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Il-Vero-Fechoria-1007/1"
+}
 pages -> []
 resto = {
    "calificaciones": [
       {
          "nombre": "Ir con amigos",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Escuchar música",
@@ -27,7 +43,7 @@ resto = {
       },
       {
          "nombre": "Ir en pareja",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Salida de amigas",
@@ -35,7 +51,7 @@ resto = {
       },
       {
          "nombre": "Desayunar",
-         "valor": "0"
+         "valor": "1"
       },
       {
          "nombre": "Ir con chicos",
@@ -103,20 +119,26 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Show",
-      "Menú ejecutivo"
+      "Reservas",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos"
    ],
    "cocina": [
       "/restaurantes/Internacional-4"
    ],
-   "contacto": "Tel:4816-0866",
+   "contacto": "Tel:4382-7219",
    "contactos": [],
    "desc": [
-      "Chef:Rodrigo Degregorio",
-      "Especialidades:Tablas de quesos.Tapas.Torre de mozzarella de búfala, tomates y albahaca."
+      "Especialidades:Pastas caseras. Pescados y mariscos."
    ],
-   "direccion": "Talcahuano 973, Recoleta, C.A.B.A. ",
-   "gallery": [],
+   "direccion": "México 1176, Centro > Monserrat, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Il-Vero-Fechoria-1007/1",
+      "/restaurantes/galeria/Il-Vero-Fechoria-1007/2",
+      "/restaurantes/galeria/Il-Vero-Fechoria-1007/3",
+      "/restaurantes/galeria/Il-Vero-Fechoria-1007/4"
+   ],
    "homepage": [],
    "horarios": [
       " Hoy 12:00 a 16:00 y de 20:00 a cierre",
@@ -126,12 +148,26 @@ resto = {
       " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
       " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
       " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
-      " Domingo 20:00 a cierre "
+      " Domingo 12:00 a 16:00 y de 20:00 a cierre "
    ],
-   "images": [],
-   "lugar": "/restaurantes/Recoleta-3",
-   "mediosPago": [],
-   "nombre": "Chula Vista",
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/0/0/7/photo_1007_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/0/0/7/photo_1007_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/0/0/7/photo_1007_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/0/0/7/photo_1007_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Maestro",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Il Vero Fechoria",
    "precio": "",
    "puntos": [],
    "site": []

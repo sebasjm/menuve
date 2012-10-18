@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-Barraja-1194"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Chula-Vista-853"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-Barraja-1194"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -14,6 +14,22 @@ TypeError: 'null' is not an object (evaluating 'a[hb]')
 TypeError: 'null' is not an object (evaluating 'g.shift')
 
   http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/La-Barraja-1194/1"
+}
 pages -> []
 resto = {
    "calificaciones": [
@@ -103,35 +119,46 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Show",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
       "Menú ejecutivo"
    ],
    "cocina": [
-      "/restaurantes/Internacional-4"
+      "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:4816-0866",
+   "contacto": "Tel:4373-6407",
    "contactos": [],
-   "desc": [
-      "Chef:Rodrigo Degregorio",
-      "Especialidades:Tablas de quesos.Tapas.Torre de mozzarella de búfala, tomates y albahaca."
+   "desc": [],
+   "direccion": "Uruguay 767, Centro > Tribunales, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/La-Barraja-1194/1",
+      "/restaurantes/galeria/La-Barraja-1194/2",
+      "/restaurantes/galeria/La-Barraja-1194/3",
+      "/restaurantes/galeria/La-Barraja-1194/4"
    ],
-   "direccion": "Talcahuano 973, Recoleta, C.A.B.A. ",
-   "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 12:00 a 16:00 y de 20:00 a cierre",
-      "  Lunes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Martes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Miercoles 12:00 a 16:00 y de 20:00 a cierre ",
-      " Jueves 12:00 a 16:00 y de 20:00 a cierre ",
-      " Viernes 12:00 a 16:00 y de 20:00 a cierre ",
-      " Sabado 12:00 a 16:00 y de 20:00 a cierre ",
-      " Domingo 20:00 a cierre "
+      " Hoy 07:30 a 20:00",
+      "  Lunes 07:30 a 20:00 ",
+      " Martes 07:30 a 20:00 ",
+      " Miercoles 07:30 a 20:00 ",
+      " Jueves 07:30 a 20:00 ",
+      " Viernes 07:30 a 20:00 "
    ],
-   "images": [],
-   "lugar": "/restaurantes/Recoleta-3",
-   "mediosPago": [],
-   "nombre": "Chula Vista",
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/1/9/4/photo_1194_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/1/9/4/photo_1194_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/1/9/4/photo_1194_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/1/9/4/photo_1194_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "La Barraja",
    "precio": "",
    "puntos": [],
    "site": []
