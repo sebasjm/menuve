@@ -1,0 +1,193 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Bar-Celta-1037"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Bar-Celta-1037"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/Bar-Celta-1037/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "9"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "2"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "7"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "6"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "1"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Show",
+      "Estacionamiento",
+      "Aire acondicionado",
+      "Barra de tragos"
+   ],
+   "cocina": [
+      "/restaurantes/Variada-4"
+   ],
+   "contacto": "Tel:4371-7338",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Pastas caseras a los cuatro quesos, pollo al champignon."
+   ],
+   "direccion": "Sarmiento 1701, Congreso, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/Bar-Celta-1037/1",
+      "/restaurantes/galeria/Bar-Celta-1037/2",
+      "/restaurantes/galeria/Bar-Celta-1037/3",
+      "/restaurantes/galeria/Bar-Celta-1037/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 12:00 a 02:00",
+      "  Lunes 12:00 a 02:00 ",
+      " Martes 12:00 a 02:00 ",
+      " Miercoles 12:00 a 02:00 ",
+      " Jueves 12:00 a 02:00 ",
+      " Viernes 12:00 a 02:00 ",
+      " Sabado 12:00 a 02:00 ",
+      " Domingo 12:00 a 02:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/1/0/3/7/photo_1037_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/1/0/3/7/photo_1037_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/1/0/3/7/photo_1037_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/1/0/3/7/photo_1037_1.jpg"
+   ],
+   "lugar": "/restaurantes/Congreso-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Diners",
+      "Mastercard",
+      "Cabal",
+      "Carta Franca",
+      "Credencial",
+      "Luncheon Ticket",
+      "Ticket restaurant",
+      "Ticket Total"
+   ],
+   "nombre": "Bar Celta",
+   "precio": "$34alm / $56cena",
+   "puntos": [
+      {
+         "nombre": "Comida:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Servicio:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Ambiente:",
+         "valor": "16"
+      },
+      {
+         "nombre": "Carta de vinos:",
+         "valor": "12"
+      }
+   ],
+   "site": []
+}
