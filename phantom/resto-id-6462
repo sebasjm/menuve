@@ -1,0 +1,171 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-Fuerte-Resto-Bar-6462"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/El-Fuerte-Resto-Bar-6462"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/3"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/4"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/4"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/2"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/3"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/3"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1"},{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/2"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/2"
+}
+pages -> [{"url":"http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar//restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1"
+}
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "6"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "1"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "1"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Acceso discapacitados",
+      "Mesas al aire libre",
+      "Delivery",
+      "Aire acondicionado",
+      "Barra de tragos",
+      "Menú ejecutivo"
+   ],
+   "cocina": [
+      "/restaurantes/Variada-4",
+      "/restaurantes/Portenia-4"
+   ],
+   "contacto": "Tel:4342-4104",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Pastas caseras."
+   ],
+   "direccion": "Balcarce 301 Esq. Belgrano, Av., Centro > Monserrat, C.A.B.A. ",
+   "gallery": [
+      "/restaurantes/galeria/El-Fuerte-Resto-Bar-6462/1",
+      "/restaurantes/galeria/El-Fuerte-Resto-Bar-6462/2",
+      "/restaurantes/galeria/El-Fuerte-Resto-Bar-6462/3",
+      "/restaurantes/galeria/El-Fuerte-Resto-Bar-6462/4"
+   ],
+   "homepage": [],
+   "horarios": [
+      " Hoy 07:00 a 20:00",
+      "  Lunes 07:00 a 20:00 ",
+      " Martes 07:00 a 20:00 ",
+      " Miercoles 07:00 a 20:00 ",
+      " Jueves 07:00 a 20:00 ",
+      " Viernes 07:00 a 20:00 "
+   ],
+   "images": [
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/4/6/4/6/2/photo_6462_4.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/3/6/4/6/2/photo_6462_3.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/2/6/4/6/2/photo_6462_2.jpg",
+      "http://s3.amazonaws.com/guiaoleo/fotos/argentina/bsas/restos/photos/1/6/4/6/2/photo_6462_1.jpg"
+   ],
+   "lugar": "/restaurantes/Centro-3",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Mastercard",
+      "Cabal",
+      "Maestro",
+      "Luncheon Ticket"
+   ],
+   "nombre": "El Fuerte Resto Bar",
+   "precio": "",
+   "puntos": [],
+   "site": []
+}
