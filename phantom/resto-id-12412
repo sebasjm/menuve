@@ -1,0 +1,26 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/T%C3%AC%C2%AF%C2%ADAngel-12412"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/T%C3%AC%C2%AF%C2%ADAngel-12412"
+}
+INVALID_STATE_ERR: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  :30
+  :26 in wC
+  :26
+  http://maps.gstatic.com/intl/es_ALL/mapfiles/api-3/9/17/main.js:27
+  :26
+  http://maps.gstatic.com/intl/es_ALL/mapfiles/api-3/9/17/main.js:27
+  :30
+  :29
+  http://maps.gstatic.com/intl/es_ALL/mapfiles/api-3/9/17/main.js:10
+  :29
+  :26
+  :21
+TypeError: 'undefined' is not an object (evaluating 'restoDatos.find(".restoDatosTelefono").contents()[0].data')
+
+  phantomjs://webpage.evaluate():10
+  phantomjs://webpage.evaluate():54
+  phantomjs://webpage.evaluate():54
+ERROR - 'null' is not an object (evaluating 'resto.site')
+pages -> []
+resto = null
