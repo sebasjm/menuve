@@ -1,0 +1,137 @@
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/La-negrita-10300"}]
+//go for page {
+   "url": "http://www.guiaoleo.com.ar/restaurantes/La-negrita-10300"
+}
+TypeError: 'null' is not an object (evaluating 'a[hb]')
+
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:29 in Vg
+  http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/17/main.js:35 in sh
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1 in initializeGoogleMaps
+  http://statics.guiaoleo.com.ar/gen/min-gen-guiaoleo-ui-map.js:1
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+  http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16
+TypeError: 'null' is not an object (evaluating 'g.shift')
+
+  http://connect.facebook.net/es_LA/all.js:109 in i
+pages -> []
+resto = {
+   "calificaciones": [
+      {
+         "nombre": "Ir con amigos",
+         "valor": "4"
+      },
+      {
+         "nombre": "Ir en pareja",
+         "valor": "0"
+      },
+      {
+         "nombre": "Salida de amigas",
+         "valor": "1"
+      },
+      {
+         "nombre": "Desayunar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con chicos",
+         "valor": "1"
+      },
+      {
+         "nombre": "Escuchar música",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer con buenos tragos",
+         "valor": "0"
+      },
+      {
+         "nombre": "Llevar extranjeros",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer mucho",
+         "valor": "0"
+      },
+      {
+         "nombre": "Ir con la familia",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer solo",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer bien gastando poco",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un cumpleaños",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer rápido",
+         "valor": "0"
+      },
+      {
+         "nombre": "Festejar un aniversario",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer al aire libre",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer tarde",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sin ser visto",
+         "valor": "0"
+      },
+      {
+         "nombre": "Merendar",
+         "valor": "0"
+      },
+      {
+         "nombre": "Reunión de negocios",
+         "valor": "0"
+      },
+      {
+         "nombre": "Comer sano",
+         "valor": "0"
+      }
+   ],
+   "caracteristicas": [
+      "Reservas",
+      "Delivery"
+   ],
+   "cocina": [
+      "/restaurantes/Pescados-y-Mariscos-4",
+      "/restaurantes/Pizza-4"
+   ],
+   "contacto": "Tel:(0237)405-9113/155226-1925",
+   "contactos": [],
+   "desc": [
+      "Especialidades:Fonda moderna, Plato principal: Paella."
+   ],
+   "direccion": "Libertador, Av. 820, Zona Oeste > Moreno, Moreno ",
+   "gallery": [],
+   "homepage": [],
+   "horarios": [
+      " Hoy 12 a 15 y de 20 a 24",
+      "  Martes 12 a 15 y de 20 a 24 ",
+      " Miercoles 12 a 15 y de 20 a 24 ",
+      " Jueves 12 a 15 y de 20 a 24 ",
+      " Viernes 12 a 15 y de 20 a 24 ",
+      " Sabado 12 a 15 y de 20 a 24 ",
+      " Domingo 12 a 15 y de 20 a 24 "
+   ],
+   "images": [],
+   "lugar": "/restaurantes/Zona-Oeste-3",
+   "mediosPago": [],
+   "nombre": "La Negrita",
+   "precio": "",
+   "puntos": [],
+   "site": []
+}
