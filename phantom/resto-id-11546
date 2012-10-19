@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Tres--2-1--11530"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Il-Legno-11546"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/Tres--2-1--11530"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Il-Legno-11546"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -102,37 +102,36 @@ resto = {
          "valor": "0"
       }
    ],
-   "caracteristicas": [
-      "Acceso discapacitados",
-      "Reservas",
-      "Aire acondicionado",
-      "Descorche",
-      "Wifi",
-      "Comida para celíacos"
-   ],
+   "caracteristicas": [],
    "cocina": [
-      "/restaurantes/De-autor-4"
+      "/restaurantes/Variada-4"
    ],
-   "contacto": "Tel:153-272-1755/4238-1045•",
-   "contactos": [
-      "mailto:cecispinetto@hotmail.com"
-   ],
-   "desc": [
-      "Chef:Juan Pedro Raspellino",
-      "Especialidades:Menú fijo de 7 pasos que varía mes a mes con opción de maridaje. Únicamente con reserva previa."
-   ],
-   "direccion": "Mitre Restaurante a puertas cerradas, Zona Sur > Almirante Brown, Burzaco ",
+   "contacto": "Tel:4897-4028/29",
+   "contactos": [],
+   "desc": [],
+   "direccion": "Aeropuerto Internacional de Ezeiza Terminal A, sector de Arribos, Zona Sur > Ezeiza, Ezeiza ",
    "gallery": [],
    "homepage": [],
    "horarios": [
-      " Hoy 20 a cierre",
-      "  Viernes 20 a cierre ",
-      " Sabado 20 a cierre "
+      " Hoy 24 horas",
+      "  Lunes 24 horas ",
+      " Martes 24 horas ",
+      " Miercoles 24 horas ",
+      " Jueves 24 horas ",
+      " Viernes 24 horas ",
+      " Sabado 24 horas ",
+      " Domingo 24 horas "
    ],
    "images": [],
    "lugar": "/restaurantes/Zona-Sur-3",
-   "mediosPago": [],
-   "nombre": "Tres (2+1)",
+   "mediosPago": [
+      "American Express",
+      "Visa",
+      "Electrón",
+      "Diners",
+      "Mastercard"
+   ],
+   "nombre": "Il Legno",
    "precio": "",
    "puntos": [],
    "site": []
