@@ -1,6 +1,6 @@
-pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/El-pelotari-12596"}]
+pages -> [{"url":"http://www.guiaoleo.com.ar/restaurantes/Euro-12730"}]
 //go for page {
-   "url": "http://www.guiaoleo.com.ar/restaurantes/El-pelotari-12596"
+   "url": "http://www.guiaoleo.com.ar/restaurantes/Euro-12730"
 }
 TypeError: 'null' is not an object (evaluating 'a[hb]')
 
@@ -15,15 +15,15 @@ pages -> []
 resto = {
    "calificaciones": [
       {
-         "nombre": "Ir en pareja",
-         "valor": "2"
+         "nombre": "Ir con amigos",
+         "valor": "0"
       },
       {
          "nombre": "Escuchar música",
          "valor": "0"
       },
       {
-         "nombre": "Ir con amigos",
+         "nombre": "Ir en pareja",
          "valor": "0"
       },
       {
@@ -100,18 +100,17 @@ resto = {
       }
    ],
    "caracteristicas": [
-      "Menú ejecutivo"
+      "Acceso discapacitados",
+      "Reservas",
+      "Wifi"
    ],
    "cocina": [
-      "/restaurantes/Parrilla-4",
-      "/restaurantes/Portenia-4"
+      "/restaurantes/Pizza-4"
    ],
-   "contacto": "Tel:4342-6560•",
-   "contactos": [
-      "mailto:elpelotarirestaurant@yahoo.com.ar"
-   ],
+   "contacto": "Tel:4815-0727",
+   "contactos": [],
    "desc": [],
-   "direccion": "Moreno 981, San Telmo, C.A.B.A. ",
+   "direccion": "Riobamba 1019, Recoleta, C.A.B.A. ",
    "gallery": [],
    "homepage": [],
    "horarios": [
@@ -120,12 +119,14 @@ resto = {
       " Martes 12 a cierre ",
       " Miercoles 12 a cierre ",
       " Jueves 12 a cierre ",
-      " Viernes 12 a cierre "
+      " Viernes 12 a cierre ",
+      " Sabado 12 a cierre ",
+      " Domingo 12 a cierre "
    ],
    "images": [],
-   "lugar": "/restaurantes/San-Telmo-3",
+   "lugar": "/restaurantes/Recoleta-3",
    "mediosPago": [],
-   "nombre": "El pelotari",
+   "nombre": "Euro",
    "precio": "",
    "puntos": [],
    "site": []
