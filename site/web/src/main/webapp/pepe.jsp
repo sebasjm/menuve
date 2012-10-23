@@ -188,7 +188,6 @@ $(window).scroll(function() {
               section = ~~( $(window).scrollTop() / height );
               sec_off = - (section*height) + $(window).scrollTop();
               if(!sec_off) return;
-              alert($(window).scrollTop()+" "+height+" "+section+" "+sec_off);
               if(sec_off > t_mar) { pepe=false; $('body,html').animate({scrollTop: (section*height+height)},function(){ pepe=true });  }
               if(sec_off < b_mar) { pepe=false; $('body,html').animate({scrollTop: (section*height)},function(){ pepe=true });  }
               console.log("sec " + sec_off);
