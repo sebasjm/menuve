@@ -76,8 +76,13 @@
                                         </div>
                               </div>
                                  <div id="scene-02" class="scene grid_12">
+                                    <div style="display: inline-block; width:100%">
+                                       <div class="move toleft" > </div> <div class="move toright"  > </div>
+                                    </div>
+                                    <div class="image-scroller">
                                     <div class="image-container" >
                                         <div class="plato" > 1 </div>
+                                     </div>
                                      </div>
                               </div>
                               <div id="scene-03" class="scene grid_12">
@@ -186,6 +191,13 @@ $('a').click(function(e){
  e.preventDefault();
  $('body,html').stop().animate({scrollTop: ($(e.target).parent().attr("to")*(height+50))+"px"});
 })
+
+$('.toleft').click(function(e){
+     $(".image-scroller").animate({scrollLeft:'-=966px'});
+});
+$('.toright').click(function(e){
+     $(".image-scroller").animate({scrollLeft:'+=966px'});
+});
 
 $(function(){
   $.ajax({
