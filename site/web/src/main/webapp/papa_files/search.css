@@ -2,8 +2,6 @@
     position: relative;
     min-height: 100%;
     height: 640px;
-    margin-top: 25px;
-    margin-bottom: 25px;
 
     -moz-transition: height .5s;
     -ms-transition: height .5s;
@@ -11,7 +9,8 @@
     -webkit-transition: height .5s;
 
     transition: height .5s;
-
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 
@@ -20,7 +19,8 @@
            text-align: right;
            top: 20%;
            z-index: 3;
-        },
+        }
+,
         a:hover,
         a:focus { /* we use :focus for keyboard navigation */
                 z-index: 200 /* bring to top when the mouse is over */
@@ -46,12 +46,26 @@
 #scene-02 {
     background-color: green;
     
+   overflow-x: scroll; overflow-y: hidden;
+}
+
+.image-container {
+   width: 1500px;
+}
+
+.content .plato {
+    background: no-repeat scroll 0 0 transparent;
+    height: 180px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    border-style: solid; border-width: 1px;
+    position: relative; display: inline-block;
 }
 
 #scene-03 {
     background-color: blue;
 }
-
 
 .content .categories{
     width: 377px;

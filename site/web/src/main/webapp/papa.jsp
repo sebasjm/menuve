@@ -8,14 +8,11 @@
           <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
 
           <title>Dev environment</title>
-          <script src="./papa_files/json2.js" type="text/javascript">
-</script>
-          <script src="./papa_files/jquery-1.7.1.js" type="text/javascript">
-</script>
-          <script src="./papa_files/jquery-easing.js" type="text/javascript">
-</script>
-          <script src="./papa_files/amplify.min.js" type="text/javascript">
-</script>
+          <script src="./static/js/tmpl.min.js" type="text/javascript"> </script>
+          <script src="./papa_files/json2.js" type="text/javascript"></script>
+          <script src="./papa_files/jquery-1.7.1.js" type="text/javascript"></script>
+          <script src="./papa_files/jquery-easing.js" type="text/javascript"></script>
+          <script src="./papa_files/amplify.min.js" type="text/javascript"></script>
           <link href="./papa_files/960.css" rel="stylesheet" type="text/css" />
           <link href="./papa_files/base.css" rel="stylesheet" type="text/css" />
           <link href="./papa_files/layout.css" rel="stylesheet" type="text/css" />
@@ -79,31 +76,9 @@
                                         </div>
                               </div>
                                  <div id="scene-02" class="scene grid_12">
-                                        <div class="logo"></div>
-
-                                        <div class="categories">
-                                                  <ul class="clearfix">
-                                                            <li>Carne</li>
-                                                            <li>Pescados</li>
-                                                            <li>Pastas</li>
-                                                            <li>Bebidas</li>
-                                                            <li>Postres</li>
-                                                  </ul>
-                                        </div>
-
-                                        <div class="scene-01-Input">
-                                                  <input type="text" placeholder="&Acirc;&iquest;Qu&Atilde;&copy; vas a comer hoy?" />
-                                        </div>
-
-                                        <div class="scene-01-Buttons clearfix">
-                                                  <div class="scene-01-Button">
-                                                            Buscar menu
-                                                  </div>
-
-                                                  <div class="luckyButton">
-                                                            Elegi por mi
-                                                  </div>
-                                        </div>
+                                    <div class="image-container" >
+                                        <div class="plato" > 1 </div>
+                                     </div>
                               </div>
                               <div id="scene-03" class="scene grid_12">
                                         <div class="logo"></div>
@@ -166,7 +141,12 @@ height = $(window).height() -50;
 b_mar = height*marging;
 t_mar = height - height*marging;
 $(".scene").height( height );
+$(".image-container").width( img_count * img_width / categs +20);
 }
+
+var categs = 3;
+var img_width = 322;
+var img_count = 0;
 
 var timeoutHandle = false;
 var height = 640;
@@ -180,8 +160,6 @@ var pepe=true;
 var prev=0;
 var th=false;
 $(window).scroll(function() {
-
-       
 
        var handler =  function(e) { return true;
               diff = $(window).scrollTop() % height;
@@ -207,8 +185,22 @@ $(window).scroll(function() {
 $('a').click(function(e){
  e.preventDefault();
  $('body,html').stop().animate({scrollTop: ($(e.target).parent().attr("to")*(height+50))+"px"});
-}
-)
+})
+
+$(function(){
+  $.ajax({
+    url:'/images.json', 
+    success: function(resp){
+      var result = new Array;
+      $.each(resp,function(i,e) {
+        result.push('<div class="plato" style="background-image: url('+e+')">'+i+' . </div>');
+      });
+      img_count = result.length;
+      $(".image-container").html(result.join(''));
+      resize();
+    }
+  });
+})
           </script>
 </body>
 </html>
