@@ -1,0 +1,35 @@
+
+.footer{
+    font-size: 12px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color: #ace2ee;
+    text-shadow: #fff 1px 1px 0px;
+}
+
+.footer .container{
+    padding: 10px 0;
+}
+
+.footer .divisor{
+    border-top: 1px solid #ace2ee;
+    border-bottom: 1px solid #fff;
+}
+
+.footer .copyright{
+    float: left;
+}
+
+.footer .copyright .logo{
+    
+}
+
+.footer .copyright .logo .text{
+    
+}
+
+.footer .designBy{
+    float: right;
+}
+

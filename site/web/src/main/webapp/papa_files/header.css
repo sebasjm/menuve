@@ -1,0 +1,14 @@
+.header{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 31px;
+    z-index: 3;
+}
+
+.header .loginBar{
+    background: #464646;
+    height: 31px;
+    text-align:center;
+    color: white;
+}

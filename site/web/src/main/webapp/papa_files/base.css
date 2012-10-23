@@ -1,0 +1,90 @@
+
+html{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: arial, sans-serif;
+    height: 100%;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,img {
+    border: 0;
+    font-size: 10px;
+}
+
+address,caption,cite,code,dfn,em,strong,th,var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,ul {
+    list-style: none;
+}
+
+caption,th {
+    text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 100%;
+}
+
+q:before,q:after {
+    content: '';
+}
+
+input {
+	outline: none;
+}
+
+input[type="checkbox"] {
+	outline: none;
+	border: none;
+	color: #000;
+}
+
+abbr,acronym {
+    border: 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.clearfix {
+    display:inline-block;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+.clearfix {
+    display: block;
+}
+
+.unselected{
+    -moz-user-select:none;
+    -webkit-user-select:none;
+    user-select:none;
+    -ms-user-select:none;
+}
+
+
