@@ -6,7 +6,7 @@ package com.menuve.dao.api;
  */
 public interface Query {
     
-    public String getSql();
+    public String getKey();
     public Class getResult();
     
 }

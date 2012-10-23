@@ -1,0 +1,115 @@
+.scene {
+    position: relative;
+    min-height: 100%;
+    height: 640px;
+
+    -moz-transition: height .5s;
+    -ms-transition: height .5s;
+    -o-transition: height .5s;
+    -webkit-transition: height .5s;
+
+    transition: height .5s;
+
+}
+
+
+        ul.menu_l {
+           position: fixed;
+           text-align: right;
+           top: 20%;
+           z-index: 3;
+        },
+        a:hover,
+        a:focus { /* we use :focus for keyboard navigation */
+                z-index: 200 /* bring to top when the mouse is over */
+        }
+        a img {
+                border: none;
+                -webkit-transition: all .2s; /* in Safari, every animatable property triggers an animation in .2s */
+        }
+        ul.menu_l a img{
+                -webkit-transform-origin: left center;
+                -moz-transform-origin: left center;
+        }
+        a:hover img,
+        a:focus img {
+                -webkit-transform: scale(1.5);
+                -moz-transform: scale(1.5);
+}
+
+#scene-01 {
+    background-color: red;
+}
+
+#scene-02 {
+    background-color: green;
+    
+}
+
+#scene-03 {
+    background-color: blue;
+}
+
+
+.content .categories{
+    width: 377px;
+    margin: 20px auto;
+    text-align: center;
+    color: #fff;
+}
+
+.content .categories li{
+    background: none repeat scroll 0 0 #0294B6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    float: left;
+    font-size: 12px;
+    margin-left: 10px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+
+.content .logo{
+    background: url("/static/images/commons/search-logo.png") no-repeat scroll 0 0 transparent;
+    height: 176px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.content .scene-01-Input{
+    margin: 0 auto;
+    width: 572px;
+}
+
+.content .scene-01-Input input{
+    height: 29px;
+    width: 562px;
+    padding: 0 5px;
+}
+
+.content .scene-01-Buttons{
+    margin: 20px auto;
+    width: 240px;
+}
+
+.content .scene-01-Buttons div{
+    background: none repeat scroll 0 0 #0294B6;
+    border: 1px solid #035F75;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.content .scene-01-Buttons .scene-01-Button{
+    margin-right: 20px;
+}
+
+.content .scene-01-Buttons .luckyButton{
+}
