@@ -203,16 +203,18 @@ $(function(){
   $.ajax({
     url:'/images.json', 
     success: function(resp){
-      var result = new Array;
-      $.each(resp,function(i,e) {
-        result.push('<div class="plato" style="background-image: url('+e+')">'+i+' . </div>');
-      });
-      img_count = result.length;
-      $(".image-container").html(result.join(''));
+      img_count = resp.length;
+      $(".image-container").html( tmpl("tmpl-plato", resp) );
       resize();
     }
   });
 })
           </script>
+<script id="tmpl-plato" type="text/html">
+   {% for (var i in o) { var entry = o[i]; %}
+   <div class="plato" style="background-image: url({%=entry%})">{%=i%}</div>
+   {% } %}
+</script>
+
 </body>
 </html>

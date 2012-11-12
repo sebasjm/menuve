@@ -1,9 +1,22 @@
+@font-face {
+    font-family: 'geosansLight';
+    src: url('../fonts/geoSans/geosanslight-webfont.eot');
+    src: local('geosansLight'), url('../fonts/geoSans/geosanslight-webfont.woff') format('woff'), url('../fonts/geoSans/geosanslight-webfont.ttf') format('truetype'), url('../fonts/geoSans/geosanslight-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geosansLightOblique';
+    src: url('../fonts/geoSans/geosanslightoblique-webfont.eot');
+    src: local('geosansLightOblique'), url('../fonts/geoSans/geosanslightoblique-webfont.woff') format('woff'), url('../fonts/geoSans/geosanslightoblique-webfont.ttf') format('truetype'), url('../fonts/geoSans/geosanslightoblique-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 html{
     margin: 0 !important;
     padding: 0 !important;
-    font-family: arial, sans-serif;
-    height: 100%;
 }
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
@@ -18,7 +31,6 @@ table {
 
 fieldset,img {
     border: 0;
-    font-size: 10px;
 }
 
 address,caption,cite,code,dfn,em,strong,th,var {
@@ -43,48 +55,79 @@ q:before,q:after {
 }
 
 input {
-	outline: none;
+    outline: none;
 }
 
 input[type="checkbox"] {
-	outline: none;
-	border: none;
-	color: #000;
+    outline: none;
+    border: none;
+    color: #000;
 }
 
 abbr,acronym {
     border: 0;
 }
 
-strong {
-    font-weight: bold;
+html, body{
+    font-family: 'geosansLight', sans-serif;
 }
 
-.clearfix {
-    display:inline-block;
+.container_12{
+    height: 100%;
 }
 
-.clearfix:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
+.resizable{
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
 }
 
-* html .clearfix {
-    height: 1%;
+.contentBox{
+    height: 100%;
+    background: url("../images/overlay-bkg.png") repeat scroll 0 0 transparent;
+    color: #fff;
 }
 
-.clearfix {
-    display: block;
+.white .contentBox{
+    background: url("../images/overlay-bkg-white.png") repeat scroll 0 0 transparent;
+    color: #000;
 }
 
-.unselected{
-    -moz-user-select:none;
-    -webkit-user-select:none;
-    user-select:none;
-    -ms-user-select:none;
+.socialButtons{
+    
 }
 
+.socialButtons .socialButton{
+    background: url("../images/social-buttons.png") repeat scroll 0 0 transparent;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-right: 15px;
+    cursor: pointer;
+}
 
+.socialButtons .facebookButton{
+    background-position: 0 0;
+}
+
+.socialButtons .twitterButton{
+    background-position: 91px 0;
+}
+
+.socialButtons .youtubeButton{
+    background-position: 40px 0;
+    margin: 0;
+}
+
+.socialButtons .facebookButton:hover{
+    background-position: 0 -42px;
+}
+
+.socialButtons .twitterButton:hover{
+    background-position: 91px -42px;
+}
+
+.socialButtons .youtubeButton:hover{
+    background-position: 40px -42px;
+}

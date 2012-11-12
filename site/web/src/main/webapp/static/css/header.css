@@ -1,11 +1,54 @@
+
 .header{
+    height: 327px;
+    margin-top: -167px;
     position: fixed;
-    top: 0px;
-    width: 100%;
-    height: 31px;
+    right: 5px;
+    top: 50%;
+    width: 84px;
+    z-index: 999;
 }
 
-.header .loginBar{
-    background: #464646;
-    height: 31px;
+.header .navButtons{
+    cursor: pointer;
+    height: 73px;
+    margin-bottom: 20px;
+    width: 81px;
+    background: url("../images/menu-icons.png") no-repeat scroll 0 0 transparent;
+}
+
+.header .navButtons.homeButton{
+    background-position: -5px 0;
+}
+
+.header .navButtons.menuButton{
+    background-position: -5px -91px;
+}
+
+.header .navButtons.eventsButton{
+    background-position: -5px -183px;
+}
+
+.header .navButtons.contactButton{
+    background-position: -5px -280px;
+}
+
+.header .navButtons.homeButton:hover,
+.header .navButtons.homeButton.current{
+    background-position: -87px 0;
+}
+
+.header .navButtons.menuButton:hover,
+.header .navButtons.menuButton.current{
+    background-position: -87px -91px;
+}
+
+.header .navButtons.eventsButton:hover,
+.header .navButtons.eventsButton.current{
+    background-position: -87px -183px;
+}
+
+.header .navButtons.contactButton:hover,
+.header .navButtons.contactButton.current{
+    background-position: -87px -279px;
 }

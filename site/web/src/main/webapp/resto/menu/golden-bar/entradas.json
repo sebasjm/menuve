@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="application/json; charset=UTF-8" pageEncoding="UTF-8"%>
+{
+            "entradas" :  {
+                "name" : "Entradas",
+                "menuList" :   {
+                    "1" :  {
+                        "name" : "Entrada  GoldenBar 1",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "2" :  {
+                        "name" : "Entrada  GoldenBar 2",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "3" :  {
+                        "name" : "Entrada  GoldenBar 3",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "4" :  {
+                        "name" : "Entrada  GoldenBar 4",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "5" :  {
+                        "name" : "Entrada  GoldenBar 5",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "6" :  {
+                        "name" : "Entrada  GoldenBar 6",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "7" :  {
+                        "name" : "Entrada  GoldenBar 7",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "8" :  {
+                        "name" : "Entrada  GoldenBar 8",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    },
+                    "9" :  {
+                        "name" : "Entrada  GoldenBar 9",
+                        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+                    }
+                }
+            }
+}
+

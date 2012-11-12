@@ -1,0 +1,38 @@
+
+.home{
+    background-position: center 0;
+    background-attachment: fixed;
+    height: 955px;
+    width: 100%;
+    position: relative;
+}
+
+.home .markup{
+    position: absolute;
+    top: 0;
+}
+
+.home .contentBox{
+    position: relative;
+}
+
+.home .restBox{
+    bottom: 360px;
+    padding: 0 15px;
+    position: absolute;
+}
+
+.home .restBox .title{
+    font-size: 60px;
+}
+
+.home .restBox .desc{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.home .socialButtons{
+    position: absolute;
+    right: 40px;
+    bottom: 360px;
+}

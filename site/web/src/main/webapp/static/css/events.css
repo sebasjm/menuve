@@ -1,0 +1,194 @@
+.events{
+    background: url("../images/events.jpg") no-repeat fixed center 0 #000;
+    height: 1024px;
+    width: 100%;
+}
+
+.events .markup{
+    position: absolute;
+    top: 145px;
+}
+
+.events .eventContent{
+    margin-top: 200px;
+}
+
+.events .mainTitle{
+    font-size: 60px;
+    font-weight: normal;
+    margin-top: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 3px #000000;
+}
+
+.white .events .mainTitle{
+    text-shadow: 2px 2px 3px #fff;
+}
+
+.events .calendarContent{
+    margin: 0 auto;
+    padding: 20px 10px;
+    width: 226px;
+}
+
+.events .calendarContent .monthContent{
+    margin-bottom: 10px;
+}
+
+.events .calendarContent .monthContent .monthName{
+    float: left;
+    margin-right: 28px;
+    width: 140px;
+    font-size: 28px;
+}
+
+.events .calendarContent .monthContent .prevMonth{
+    background: url("../images/calendar-arrows.jpg") no-repeat scroll 0 -27px transparent;
+    cursor: pointer;
+    float: left;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: 3px;
+    width: 25px;
+}
+
+.events .calendarContent .monthContent .nextMonth{
+    background: url("../images/calendar-arrows.jpg") no-repeat scroll -26px -27px transparent;
+    cursor: pointer;
+    float: left;
+    height: 24px;
+    margin-top: 3px;
+    width: 26px;
+}
+
+.events .calendarContent .monthContent .prevMonth:hover{
+    background-position: 0 -1px;
+}
+
+.events .calendarContent .monthContent .nextMonth:hover{
+    background-position: -26px -1px;
+}
+
+.events .calendarContent .daysContent{
+    
+}
+
+.events .calendarContent .daysContent table{
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+.events .calendarContent .daysContent .daysTitle{
+    margin-bottom: -2px;
+}
+
+.events .calendarContent .daysContent .bodyCalendar{
+    
+}
+
+.events .calendarContent .daysContent td{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 16px;
+    color: #999;
+    position: relative;
+}
+
+.white .events .calendarContent .daysContent td{
+    color: #333;
+}
+
+.events .calendarContent .daysContent .daysTitle td{
+    background: #555;
+}
+
+.white .events .calendarContent .daysContent .daysTitle td{
+    background: #ddd;
+}
+
+.events .calendarContent .daysContent .bodyCalendar td{
+    background: #333;
+    cursor: pointer;
+}
+
+.white .events .calendarContent .daysContent .bodyCalendar td{
+    background: #bbb;
+}
+
+.events .calendarContent .daysContent .bodyCalendar td:hover,
+.events .calendarContent .daysContent .bodyCalendar td.eventDay{
+    background: #ff8a00;
+    color: #000;
+}
+
+.events .calendarContent .tooltipContent{
+}
+
+.events .calendarContent .tooltip{
+    background: #000;
+    color: #666;
+    font-size: 12px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: absolute;
+    padding: 5px 10px;
+    max-width: 150px;
+    display: none;
+}
+
+.events .calendarContent .tooltip .bottomArrow{
+    border: 10px solid #000;
+    border-top: 10px solid #000;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -9px;
+    margin-top: 2px;
+}
+
+.events .divisor{
+    background: none repeat scroll 0 0 #333333;
+    border-top: 1px solid #111111;
+    height: 1px;
+    margin: 0 20px;
+    width: 339px;
+}
+
+.white .events .divisor{
+    background: none repeat scroll 0 0 #fff;
+    border-top: 1px solid #ddd;
+    height: 1px;
+    margin: 0 20px;
+    width: 339px;
+}
+
+.events .eventBox{
+    margin: 20px;
+}
+
+.events .eventBox .title{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.events .eventBox .desc{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.events .eventBox .additionalData{
+    font-size: 14px;
+    list-style-type: disc;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.events .eventBox .additionalData li{
+    
+}
+

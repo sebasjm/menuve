@@ -1,0 +1,257 @@
+.menus{
+    height: 1024px;
+    width: 100%;
+    position: relative;
+}
+
+.menus .menuBkgContent{
+    height: 100%;
+    width: 300%;
+}
+
+.menus .menuBkgMask{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.menus .dataContent{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.menus .menuBkgContent .itemBkg{
+    background-attachment: scroll;
+    background-position: center 0;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 100%;
+    float: left;
+}
+
+.menus .menuBkgContent .itemBkg.last,
+.menus .menuBkgContent .itemBkg.first{
+    background-attachment: scroll;
+}
+
+.menus .container_12{
+    position: relative;
+}
+
+.menu .navigationControl{
+    font-size: 75px;
+    height: 209px;
+    left: 50%;
+    margin-left: -350px;
+    margin-top: 390px;
+    position: absolute;
+    width: 700px;
+}
+
+
+.menu .navigationControl .next{
+    background: url("../images/big-arrows.png") no-repeat scroll right 0 transparent;
+    cursor: pointer;
+    height: 205px;
+    position: absolute;
+    right: -79px;
+    width: 61px;
+}
+
+.menu .navigationControl .prev{
+    background: url("../images/big-arrows.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 205px;
+    margin-right: 402px;
+    position: absolute;
+    left: -81px;
+    width: 61px;
+}
+
+.menu .navigationControl .next:hover{
+    background-position: right -224px;
+}
+
+.menu .navigationControl .prev:hover{
+    background-position: 0 -224px;
+}
+
+.menus .dataContent .contentBox{
+    position: relative;
+}
+
+.menus .dataContent .contentBox .itemDesc{
+    bottom: 30%;
+    color: #FFFFFF;
+    font-size: 30px;
+    left: 0;
+    padding: 0 20px;
+    position: absolute;
+}
+
+.menus .dataContent .contentBox .itemDesc .title{
+    font-size: 72px;
+    line-height: 66px;
+    margin-bottom: 40px; 
+}
+
+.menus .dataContent .contentBox .itemDesc .description{
+    font-size: 24px;
+}
+
+
+
+/****************************************/
+
+.menu{
+    height: 1024px;
+    width: 100%;
+    background: url("../images/menu-bkg.png") repeat scroll 0 0 transparent;
+    position: relative;
+}
+
+.menu .markup{
+    position: absolute;
+    top: 170px;
+}
+
+.menu .sliderContent{
+    background: url("../images/overlay-bkg.png") repeat scroll 0 0 transparent;
+    margin: 200px auto 0;
+    padding: 7px;
+    width: 707px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.menu .itemSlider{
+    overflow: hidden;
+    position: relative;
+    margin: 5px;
+    cursor: pointer;
+    height: 180px;
+    opacity: 0;
+    filter: alpha(opacity=00);
+}
+
+.menu .itemSlider .imgContent{
+    height: 180px;
+    overflow: hidden;
+    width: 225px;
+}
+
+.menu .itemSlider .menuImg{
+    height: 180px;
+}
+
+.menu .itemSlider .boxDesc{
+    display: none;
+}
+
+.menu .itemSlider:hover .boxDesc{
+    display: block;
+}
+
+.menu .itemSlider .infoBox{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    color: #fff;
+}
+
+.menu .itemSlider .infoBox .title{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.menu .itemSlider .infoBox .description{
+    font-size: 14px;
+    margin: 10px;
+}
+
+.menu .itemSlider .boxOverlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: .8;
+    filter: alpha(opacity=80);
+}
+
+.menu .menuListContent{
+    background: url("../images/overlay-bkg.png") repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    font-size: 14px;
+    height: 50px;
+    position: fixed;
+    top: -50px;
+    width: 100%;
+    -webkit-box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    -moz-box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    z-index: 99;
+    display: none;
+}
+
+.menu .menuListContent .menuGroup{
+    font-size: 14px;
+    margin: 14px 0 0 15px;
+}
+
+.menu .menuListContent .menuGroup .itemLabel{
+    cursor: pointer;
+    float: left;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.menu .menuListContent .menuGroup .itemLabel:hover,
+.menu .menuListContent .menuGroup .itemLabel.current{
+    color: #ff6600;
+}
+
+
+.menu .menuListContent .menuGroup .divisor{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border-top:1px solid rgba(0,0,0,0.18);
+    -webkit-box-shadow:rgba(255,255,255,0.18) 0 1px 0 inset;
+    -moz-box-shadow:rgba(255,255,255,0.18) 0 1px 0 inset;
+    box-shadow:rgba(255,255,255,0.18) 0 1px 0 inset;
+    height: 2px;
+    margin-bottom: 10px;
+}
+
+.menu .menuTab{
+    background: url("../images/overlay-bkg.png") repeat scroll 0 0 transparent;
+    border-radius: 0 0 10px 10px;
+    -webkit-box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    -moz-box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    box-shadow:rgba(0,0,0,0.18) 2px 2px 1px;
+    cursor: pointer;
+    height: 28px;
+    left: 30px;
+    position: absolute;
+    top: 50px;
+    width: 90px;
+}
+
+.menu .menuTab .menuTitle{
+    font-size: 22px;
+    margin: -2px auto 0;
+    text-align: center;
+}
+
+.menu .menuTab .menuTitle:hover{
+    color: #ff6600;
+}
