@@ -94,11 +94,11 @@
             success: function(res,t,e){
                 resto = res[params.pageName[0]];
                 resto.name = params.pageName[0];
-                document.body.innerHTML = tmpl('body', resto);
+                $(function(){document.body.innerHTML = tmpl('body', resto)});
             }
         }) 
     else 
-        document.body.innerHTML = tmpl('landingtemplate', resto);
+        $(function(){document.body.innerHTML = tmpl('landingtemplate', resto)});
     </script>
 
 
