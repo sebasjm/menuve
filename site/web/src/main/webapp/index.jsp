@@ -88,14 +88,17 @@
 
     <script>
     var resto = 0;
-    $.ajax({
-        url:'views/restos.json', 
-        async: false,
-        success: function(res,t,e){
-            resto = res[params.pageName[0]];
-            resto.name = params.pageName[0];
-        }
-    })
+    if (params.pageName) $.ajax({
+            url:'views/restos.json', 
+            async: false,
+            success: function(res,t,e){
+                resto = res[params.pageName[0]];
+                resto.name = params.pageName[0];
+                document.body.innerHTML = tmpl('body', resto);
+            }
+        }) 
+    else 
+        document.body.innerHTML = tmpl('landingtemplate', resto);
     </script>
 
 
@@ -104,6 +107,9 @@
 </script>
 <script id="menuestemplate" type="text/html">
     <%@include file="views/menus/menuList.jsp" %>
+</script>
+<script id="landingtemplate" type="text/html">
+    <%@include file="views/landing/landing.jsp" %>
 </script>
 
 </head>
@@ -115,7 +121,6 @@
 <script>
     $(document).ready(initBackgrounds);
     $(document.body).addClass(resto.profile.layerStyle);
-    document.body.innerHTML = tmpl('body', resto);
 </script>
 
 </html>
