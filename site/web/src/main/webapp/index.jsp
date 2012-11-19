@@ -98,7 +98,7 @@
             }
         }) 
     else 
-        $(function(){document.body.innerHTML = tmpl('landingtemplate', resto)});
+        $(function(){document.body.innerHTML = tmpl('landingtemplate', {})});
     </script>
 
 
