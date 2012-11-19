@@ -18,7 +18,7 @@
                         <div class="bulletImg"></div>
                         <div class="featureBox">
                             <div class="featureTitle">Simple</div>
-                            <div class="featureDesc">Administrar tu sitio web nunca fué tan fácil y rápido</div>
+                            <div class="featureDesc">Administrar tu sitio web nunca fue tan fácil y rápido</div>
                         </div>
                     </div>
                     
@@ -42,7 +42,7 @@
                         <div class="bulletImg"></div>
                         <div class="featureBox">
                             <div class="featureTitle">Inteligente</div>
-                            <div class="featureDesc">Analice la respuesta de sus comenzales a sus promociones y servicios con estadísticas</div>
+                            <div class="featureDesc">Analice la respuesta de sus comensales a sus promociones y servicios con estadísticas</div>
                         </div>
                     </div>
                 </div>
