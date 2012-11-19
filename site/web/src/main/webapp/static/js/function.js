@@ -192,6 +192,27 @@ function initBackgrounds(){
    
 }
 
+function initLanding(){
+     $.fn.backgroundScroll = function() {
+        this.each(function(index, value) {
+        var $self = $(this);
+        var contentHeight = parseInt($self.offset().top);
+        var speed = parseFloat($self.attr("data-speed"));
+        var xPos = ($self.attr("data-xpos"))? $self.attr("data-xpos") : 0;
+        $(window).bind('scroll', function(e) {
+            var posY = scrollTop();
+            var bpos = -parseFloat((posY - contentHeight) * speed).toFixed(1);
+            $self.css({'backgroundPosition': xPos +' ' + bpos  + 'px'});
+        });
+      });
+      return this;
+    };
+
+    $(".dynamicBackground").each(function(){
+        $(this).backgroundScroll();
+    });
+}
+
 function scrollTop() {
 
     if(window.pageYOffset){
@@ -267,18 +288,15 @@ function initMenuSlider(){
     
     function hideShowItems(itemLabel){
         
-        var shuffleArray = shuffle([1,2,3,4,5,6,7,8,9]);
+        var shuffleArray = [1,2,3,4,5,6,7,8,9];
+        shuffleArray = shuffle(shuffleArray);
         
         var _rshcallBack = function(){
-            $.ajax({
-                url: "resto/menu/{0}/{1}.json".format(params.pageName, itemLabel),
-                success: function(response){
-//                    $(".menu .itemSlider.hidden").remove();
-                    shuffleArray = shuffle([1,2,3,4,5,6,7,8,9]);
-                    response.category = itemLabel;
-                    $('#sliderContent').html( tmpl('menuestemplate', response) );
-                    randomShowHide(1);
-                }
+            doRequest("views/menus/menuList.php", {values : {category : itemLabel, pageName : $("body").attr("data-resto-name")}, target:"#sliderContent"}, function(){
+                $(".menu .itemSlider.hidden").remove();
+                shuffleArray = [1,2,3,4,5,6,7,8,9];
+                shuffleArray = shuffle(shuffleArray);
+                randomShowHide(1);
             });
         };
         

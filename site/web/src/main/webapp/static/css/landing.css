@@ -1,0 +1,184 @@
+.landing{
+    background: url("../images/landing/landing-bkg.png") repeat-y scroll 0 0 transparent;
+    position: relative;
+}
+
+.landing .headerLanding{
+    background: url("../images/landing/landing-header.png") no-repeat scroll 0 0 transparent;
+    height: 118px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+}
+
+.landing .headerLanding .logo{
+    background: url("../images/landing/landing-logo.png") no-repeat scroll 0 0 transparent;
+    height: 61px;
+    left: 32px;
+    position: absolute;
+    top: 27px;
+    width: 205px;
+    z-index: 9;
+}
+
+.landing .contentLanding .topSection{
+    background: url("../images/landing/landing-section-bkg.jpg") no-repeat fixed 0 0 transparent;
+    height: 844px;
+    position: relative;
+}
+
+.landing .contentLanding .topSection .title{
+    background: url("../images/landing/landing-title.png") no-repeat scroll 0 0 transparent;
+    height: 195px;
+    left: 200px;
+    position: absolute;
+    top: 250px;
+    width: 560px;
+}
+
+.landing .contentLanding .topSection .featureImg{
+    background: url("../images/landing/landing-feature-img.png") no-repeat fixed right 0 transparent;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    width: 703px;
+}
+
+.landing .contentLanding .topSection .bottomSection{
+    background: url("../images/landing/landing-bottom-section.png") no-repeat scroll 0 0 transparent;
+    bottom: 0;
+    height: 181px;
+    position: absolute;
+    width: 100%;
+    z-index: 9;
+}
+
+.landing .contentLanding .landingContact{
+    height: 900px;
+    color: #fefefe;
+    font-family: 'geosansLight', sans-serif;
+}
+
+.landing .contentLanding .landingContact .mainTitle{
+    background: url("../images/landing/landing-contact-title.png") no-repeat scroll center 0 transparent;
+    height: 158px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.landing .contentLanding .landingContact .featureBullets{
+    float: left;
+}
+
+.landing .contentLanding .landingContact .contactBox{
+    background: url("../images/landing/landing-vertical-divisor.png") repeat-y scroll 0 0 transparent;
+    float: left;
+    height: 334px;
+    margin-left: 70px;
+    padding-left: 70px;
+    width: 400px;
+}
+
+.landing .contentLanding .landingContact .featureBullets .bulletImg{
+    background: url("../images/landing/check.png") no-repeat scroll 0 4px transparent;
+    float: left;
+    height: 72px;
+    width: 59px;
+}
+
+.landing .contentLanding .landingContact .contactBox .inputText{
+    background: url("../images/landing/landing-text-input.png") no-repeat scroll 0 0 transparent;
+    height: 37px;
+    width: 322px;
+    float: left;
+}
+
+.landing .contentLanding .landingContact .contactBox .inputText input{
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    font-size: 18px;
+    margin: 7px 0 0 9px;
+    width: 301px;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons{
+    float: right;
+    margin-top: 6px;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton{
+    background: url("../images/landing/landing-social-links.png") no-repeat scroll 0 0 transparent;
+    height: 40px;
+    width: 40px;
+    float: left;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.facebookLink{
+    background-position: 0 0;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.twitterLink{
+    background-position: -50px 0;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.youtubeLink{
+    background-position: -101px 0;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.facebookLink:hover{
+    background-position: 0 -50px;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.twitterLink:hover{
+    background-position: -50px -50px;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactSocialButtons .socialButton.youtubeLink:hover{
+    background-position: -101px -50px;
+}
+
+.landing .contentLanding .landingContact .contactBox .button{
+    background: url("../images/landing/landing-button.png") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 37px;
+    width: 64px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.landing .contentLanding .landingContact .contactBox .button:hover{
+    background-position: -64px 0;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactTitle{
+    font-size: 48px;
+    margin-bottom: 35px;
+    float: left;
+}
+
+.landing .contentLanding .landingContact .contactBox .contactDesc{
+    font-size: 18px;
+    height: 200px;
+}
+
+.landing .contentLanding .landingContact .featureBox{
+    float: left;
+    width: 350px;
+    margin-left: 10px;
+}
+
+.landing .contentLanding .landingContact .featureBox .featureTitle{
+    font-size: 36px;
+    width: 350px;
+    margin-bottom: 5px;
+}
+
+.landing .contentLanding .landingContact .featureBox .featureDesc{
+    font-size: 18px;
+    width: 350px;
+    margin-bottom: 35px;
+}
