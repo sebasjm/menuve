@@ -291,6 +291,16 @@ function initMenuSlider(){
         var shuffleArray = [1,2,3,4,5,6,7,8,9];
         shuffleArray = shuffle(shuffleArray);
         
+            $.ajax({
+                url: "resto/menu/{0}/{1}.json".format(params.pageName, itemLabel),
+                success: function(response){
+//                    $(".menu .itemSlider.hidden").remove();
+                    shuffleArray = shuffle([1,2,3,4,5,6,7,8,9]);
+                    response.category = itemLabel;
+                    $('#sliderContent').html( tmpl('menuestemplate', response) );
+                    randomShowHide(1);
+                }
+
         var _rshcallBack = function(){
             doRequest("views/menus/menuList.php", {values : {category : itemLabel, pageName : $("body").attr("data-resto-name")}, target:"#sliderContent"}, function(){
                 $(".menu .itemSlider.hidden").remove();
