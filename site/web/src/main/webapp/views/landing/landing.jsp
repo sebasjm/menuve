@@ -16,40 +16,52 @@
                     <div class="clearfix">
                         <div class="bulletImg"></div>
                         <div class="featureBox">
-                            <div class="featureTitle">Lorem ipsum</div>
-                            <div class="featureDesc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</div>
+                            <div class="featureTitle">Simple</div>
+                            <div class="featureDesc">Administrar tu sitio web nunca fué tan fácil y rápido</div>
                         </div>
                     </div>
                     
                     <div class="clearfix">
                         <div class="bulletImg"></div>
                         <div class="featureBox">
-                            <div class="featureTitle">Lorem ipsum</div>
-                            <div class="featureDesc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</div>
+                            <div class="featureTitle">Visual</div>
+                            <div class="featureDesc">Sedusca con fotos de sus platos y comunique al instante su marca personal</div>
                         </div>
                     </div>
-                    
+
                     <div class="clearfix">
                         <div class="bulletImg"></div>
                         <div class="featureBox">
-                            <div class="featureTitle">Lorem ipsum</div>
-                            <div class="featureDesc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</div>
+                            <div class="featureTitle">Social</div>
+                            <div class="featureDesc">Incremente su presencia en las redes sociales desde un único punto de gestión</div>
+                        </div>
+                    </div>
+
+                    <div class="clearfix">
+                        <div class="bulletImg"></div>
+                        <div class="featureBox">
+                            <div class="featureTitle">Inteligente</div>
+                            <div class="featureDesc">Analice la respuesta de sus comenzales a sus promociones y servicios con estadísticas</div>
                         </div>
                     </div>
                 </div>
                 <div class="contactBox">
                     <div class="clearfix">
-                        <div class="contactTitle">Contactanos</div>
+                        <div class="contactTitle">Contáctenos</div>
                         <div class="contactSocialButtons clearfix">
                             <div class="socialButton facebookLink"></div>
                             <div class="socialButton twitterLink"></div>
                             <div class="socialButton youtubeLink"></div>
                         </div>
                     </div>
-                    <div class="contactDesc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+                    <div class="contactDesc">
+                        Queremos que <b>que cada dueño de restaurant gestione fácilmente su imagen llegando a todo el mundo y entendiendo a sus comensales</b>
+                        Acompañenos en el proceso de generar un producto que se adecue a sus espectativas y sea uno de los primeros en tomar ventaja.
+                        El servicio está limitado a selectos clientes con intenciones de innovar y multiplicar la comunicación con sus comensales. Si está interesado, deje algún contacto a continuación y nos pondremos en contacto con ud.
+                    </div>
                     <div class="inputContent clearfix">
                         <div class="inputText">
-                            <input type="text" placeholder="Email"/>
+                            <input type="text" placeholder="email o teléfono"/>
                         </div>
                         <div class="button"></div>
                     </div>
@@ -65,3 +77,4 @@
 {%
     $(document).ready(initLanding);
 %}
+
