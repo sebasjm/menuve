@@ -94,11 +94,13 @@
             success: function(res,t,e){
                 resto = res[params.pageName[0]];
                 resto.name = params.pageName[0];
-                $(function(){document.body.innerHTML = tmpl('body', resto)});
+                $(function(){
+                    document.body.innerHTML = tmpl('body', resto);
+                    $(document).ready(initBackgrounds);
+                    $(document.body).addClass(resto.profile.layerStyle);
+                });
             }
         }) 
-    else 
-        $(function(){document.body.innerHTML = tmpl('landingtemplate', {})});
     </script>
 
 
@@ -108,20 +110,12 @@
 <script id="menuestemplate" type="text/html">
     <%@include file="views/menus/menuList.jsp" %>
 </script>
-<script id="landingtemplate" type="text/html">
-    <%@include file="views/landing/landing.jsp" %>
-</script>
 
 </head>
 
 <body>
+    <%@include file="views/landing/landing.jsp" %>
 </body>
-
-
-<script>
-    $(document).ready(initBackgrounds);
-    $(document.body).addClass(resto.profile.layerStyle);
-</script>
 
 </html>
  
