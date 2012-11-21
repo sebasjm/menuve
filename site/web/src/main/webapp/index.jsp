@@ -10,13 +10,15 @@
     <script>
         var params = get_params();
         include_url_rewrite_params(params);
+        params.pageName = (params.pageName ? params.pageName[0] : 'home'); //only one pageName params is needed
+        
         var resto = 0;
         if (params.pageName) $.ajax({
                 url:'views/restos.json', 
                 async: false,
                 success: function(res,t,e){
-                    resto = res[params.pageName[0]];
-                    resto.name = params.pageName[0];
+                    resto = res[params.pageName];
+                    resto.name = params.pageName;
                     $(function(){
                         document.body.innerHTML = tmpl('body', resto)
                         $(document).ready(initBackgrounds);
