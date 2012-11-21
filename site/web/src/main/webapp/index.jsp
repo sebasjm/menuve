@@ -10,7 +10,7 @@
     <script>
         var params = get_params();
         include_url_rewrite_params(params);
-        params.pageName = (params.pageName ? params.pageName[0] : 'home'); //only one pageName params is needed
+        params.pageName = (params.pageName ? params.pageName[0] : undefined); //only one pageName params is needed
         
         var resto = 0;
         if (params.pageName) $.ajax({
