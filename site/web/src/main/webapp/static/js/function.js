@@ -458,9 +458,9 @@ var rules = [
 function include_url_rewrite_params(result) {
   var url = window.location.href.slice(window.location.origin.length);
   $.each(rules,function(){
-      var result = url.match(this.regex);
-      if (result) $.each(this.params,function(){
-          result[this.name] = [].concat(result[this.group],result[this.name]);
+      var match = url.match(this.regex);
+      if (match) $.each(this.params,function(){
+          result[this.name] = [].concat(match[this.group],result[this.name]);
       })
   })
 }
