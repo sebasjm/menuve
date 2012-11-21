@@ -57,7 +57,7 @@
                     </div>
                     <div class="contactDesc">
                         Queremos que <b>cada dueño de restaurant gestione fácilmente su imagen llegando a todo el mundo y entendiendo a sus comensales</b>. <br/> <br/>
-                        Acompañenos en el proceso de generar un producto que se adecue a sus espectativas y sea uno de los primeros en tomar ventaja. <br/> <br/>
+                Acompáñenos enñenos en el proceso de generar un producto que se adecue a sus espectativas y sea uno de los primeros en tomar ventaja. <br/> <br/>
                         El servicio está limitado a selectos clientes con intenciones de innovar y multiplicar la comunicación con sus comensales. Si está interesado, deje un contacto a continuación y nos pondremos en contacto con ud. <br/> <br/>
                     </div>
                     <div class="inputContent clearfix">

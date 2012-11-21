@@ -18,6 +18,30 @@
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
         
+<filter>
+    <filter-name>UrlRewriteFilter</filter-name>
+    <filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
+    <init-param>
+        <param-name>confReloadCheckInterval</param-name>
+        <param-value>0</param-value>
+    </init-param>
+    <init-param>
+        <param-name>statusEnabledOnHosts</param-name>
+        <param-value>*</param-value>
+    </init-param>
+    <init-param>
+        <param-name>logLevel</param-name>
+        <param-value>WARN</param-value>
+        <!-- <param-value>DEBUG</param-value> -->
+    </init-param>
+</filter>
+<filter-mapping>
+    <filter-name>UrlRewriteFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+    <dispatcher>FORWARD</dispatcher>
+</filter-mapping>
+
     <servlet-mapping>
         <servlet-name>jsp</servlet-name>
         <url-pattern>*.jsp</url-pattern>
