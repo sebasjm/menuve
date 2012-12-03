@@ -12,6 +12,7 @@
 <link rel="stylesheet" type="text/css" href="static/css/events.css">
 <link rel="stylesheet" type="text/css" href="static/css/contact.css">
 <link rel="stylesheet" type="text/css" href="static/css/landing.css">
+<link rel="stylesheet" type="text/css" href="static/css/offers.css">
 
 <script src="static/js/json2.js" type="text/javascript" ></script>
 <script src="static/js/jquery-1.7.1.js" type="text/javascript" ></script>

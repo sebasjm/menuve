@@ -464,3 +464,32 @@ function include_url_rewrite_params(result) {
       })
   })
 }
+
+function initOffers(){
+    initScroll();
+    function initScroll(){
+        $(".offers .navigationControl .leftButton").mousedown(function(){
+            $(".offers .offersContent .scrollContent").animate({
+                scrollLeft: "-=500"
+            },{
+                queue: false,
+                easing: "easeOutExpo",
+                duration: 1000
+            });
+        });
+        
+        $(".offers .navigationControl .rightButton").mousedown(function(){
+            $(".offers .offersContent .scrollContent").animate({
+                scrollLeft: "+=500"
+            },{
+                queue: false,
+                easing: "easeOutExpo",
+                duration: 1000
+            });
+        });
+    }
+    
+    function initItems(){
+        
+    }
+}

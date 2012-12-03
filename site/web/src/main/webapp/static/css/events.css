@@ -1,5 +1,5 @@
 .events{
-    background: url("../images/events.jpg") no-repeat fixed center 0 #000;
+    background: url("../images/events.jpg") no-repeat fixed 0 0 #000;
     height: 1024px;
     width: 100%;
 }

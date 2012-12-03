@@ -8,7 +8,54 @@
             "menuBkg" : "/static/images/gallery/menu/menu-bkg.png",
             "eventsBkg" : "/static/images/resto/golden-bar/events/events.jpg",
             "contactBkg" : "/static/images/gallery/contact/contact.jpg",
+            "offersBkg" : "/static/images/gallery/offers/offers-bkg.jpg",
             "layerStyle" : "black"
+        },
+        "offers" : {
+            "offersList" : [
+                {
+                    "offerTemplate" : "black",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "green",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                }
+            ]
         },
         "menu" :  {
             "entradas" :  {
@@ -185,7 +232,54 @@
             "menuBkg" : "/static/images/resto/trasvere/menu/menu-bkg.jpg",
             "eventsBkg" : "/static/images/resto/trasvere/events/events-bkg.jpg",
             "contactBkg" : "/static/images/resto/trasvere/contact/contact.jpg",
+            "offersBkg" => "/static/images/resto/trasvere/offers/offers-bkg.jpg",
             "layerStyle" : "white"
+        },
+        "offers" : {
+            "offersList" : [
+                {
+                    "offerTemplate" : "black",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "green",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                },
+                {
+                    "offerTemplate" : "orange",
+                    "title"     : "30%",
+                    "subTitle"  : "descuento",
+                    "description" : '<label>Pagando con tarjetas</label><ul><li>Mastercard</li><li>Visa</li><li>Galicia</li></ul>',
+                    "validity" : "Valido de lunes a viernes"
+                }
+            ]
         },
         "menu" :  {
             "entradas" :  {

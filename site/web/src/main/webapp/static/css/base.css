@@ -68,8 +68,19 @@ abbr,acronym {
     border: 0;
 }
 
+
+
 html, body{
     font-family: 'geosansLight', sans-serif;
+}
+
+html{
+    background: url("../images/global-page-bg.png") repeat scroll 0 0 #fff;
+}
+
+body {
+    max-width: 1920px;
+    margin: 0 auto;
 }
 
 .container_12{

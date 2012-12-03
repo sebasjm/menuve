@@ -1,22 +1,9 @@
 
-<div class="search grid_12">
-    <div class="logo"></div>
-    <div class="categories">
-        <ul class="clearfix">
-            <li>Carne</li>
-            <li>Pescados</li>
-            <li>Pastas</li>
-            <li>Bebidas</li>
-            <li>Postres</li>
-        </ul>
-        
-    </div>
-    <div class="searchInput">
-        <input type="text" placeholder="¿Qué vas a comer hoy?"/>
-    </div>
-    <div class="searchButtons clearfix">
-        <div class="searchButton">Buscar menu</div>
-        <div class="luckyButton">Elegi por mi</div>
-    </div>
-    
+<div class="searchComplete">
+    <#include 'searchComplete'/>
 </div>
+
+<div class="searchLanding">
+    <#include 'searchLanding'/>
+</div>
+
