@@ -1,0 +1,140 @@
+.offers{
+    height: 1024px;
+    width: 100%;
+    position: relative;
+    background: url("../images/gallery/offers/offers-bkg.jpg") repeat scroll 0 0 transparent;
+}
+
+.offers .markup{
+    position: absolute;
+    top: 200px;
+}
+
+.offers .offersContent{
+    margin-top: 74px;
+}
+
+.offers .offersContent .overflowContent{
+    overflow-y: hidden;
+    height: 392px;
+}
+
+.offers .offersContent .scrollContent{
+    overflow-x: scroll;
+}
+
+.offers .title{
+    background: url("../images/gallery/offers/dark-title-bkg.png") no-repeat scroll center 0 transparent;
+    color: #FFFFFF;
+    font-size: 64px;
+    height: 121px;
+    margin: 148px 0 0;
+    padding-top: 26px;
+    text-align: center;
+}
+
+.offers .offersContent .navigationControl{
+    position: relative;
+}
+
+.offers .offersContent .navigationControl .leftButton{
+    background: url("../images/big-arrows.png") no-repeat scroll left 0 transparent;
+    height: 206px;
+    left: -48px;
+    position: absolute;
+    top: 148px;
+    width: 59px;
+    cursor: pointer;
+}
+
+.offers .offersContent .navigationControl .rightButton{
+    background: url("../images/big-arrows.png") no-repeat scroll right 0 transparent;
+    height: 206px;
+    right: -43px;
+    position: absolute;
+    top: 148px;
+    width: 59px;
+    cursor: pointer;
+}
+
+.offers .offersContent .navigationControl .leftButton:hover{
+    background-position: left -224px;
+}
+
+.offers .offersContent .navigationControl .rightButton:hover{
+    background-position: right -224px;
+}
+
+.offers .offersContent .offersSlider .itemOffer{
+    background: url("../images/gallery/offers/promo-tag.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 393px;
+    margin: 0 27px;
+    width: 180px;
+    position: relative;
+    font-family: Arial;
+}
+
+.offers .offersContent .offersSlider .itemOffer .bottomContent{
+    position: absolute;
+    width: 100%;
+    bottom: 13px;
+}
+
+.offers .offersContent .offersSlider .itemOffer ul li{
+    list-style-type: disc;
+}
+
+.offers .offersContent .offersSlider .itemOffer.black{
+    background-position: 0 0;
+    color: #fff;
+}
+
+.offers .offersContent .offersSlider .itemOffer.orange{
+    background-position: -188px 0;
+    color: #000;
+}
+
+.offers .offersContent .offersSlider .itemOffer.orange .validity{
+    color: #222;
+}
+
+.offers .offersContent .offersSlider .itemOffer.green .validity{
+    color: #000;
+}
+
+.offers .offersContent .offersSlider .itemOffer.green{
+    background-position: -375px 0;
+}
+
+.offers .offersContent .offersSlider .itemOffer h1{
+    font-family: arial;
+    font-size: 63px;
+    margin-top: 118px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.offers .offersContent .offersSlider .itemOffer h2{
+    font-size: 20px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.offers .offersContent .offersSlider .itemOffer .desc{
+    font-size: 14px;
+    padding: 0 20px;
+}
+
+.offers .offersContent .offersSlider .itemOffer .desc ul{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.offers .offersContent .offersSlider .itemOffer .validity{
+    color: #666666;
+    font-size: 11px;
+    margin-top: 20px;
+    padding: 0 20px;
+    text-align: center;
+}
